@@ -1,0 +1,15 @@
+/*.side-nav__brand {
+  background: url('custom-logo.svg') no-repeat left center !important;
+  margin-left: 10px;
+}*/
+.side-nav__brand {
+  background: url('test-logo.jpg') no-repeat left center !important;
+  margin-left: 10px;
+  height: 70px;
+  width: 70px;
+  background-size: contain !important;
+}
+
+.side-nav__brand-text{
+	display: none;
+}

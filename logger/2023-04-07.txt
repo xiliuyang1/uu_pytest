@@ -1,0 +1,1260 @@
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839243', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '7b40617e34e751e7f44c46e7c108e30c'}}
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:24 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:24 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:24 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839426', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'ebcc58becc927f3fe1de936d49096544'}}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839426', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'ebcc58becc927f3fe1de936d49096544'}}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839426', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'ebcc58becc927f3fe1de936d49096544'}}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839426', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'ebcc58becc927f3fe1de936d49096544'}}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839426', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'ebcc58becc927f3fe1de936d49096544'}}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839426', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'ebcc58becc927f3fe1de936d49096544'}}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839426', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'ebcc58becc927f3fe1de936d49096544'}}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839426', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'ebcc58becc927f3fe1de936d49096544'}}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839426', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'ebcc58becc927f3fe1de936d49096544'}}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839426', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'ebcc58becc927f3fe1de936d49096544'}}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839426', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'ebcc58becc927f3fe1de936d49096544'}}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839426', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'ebcc58becc927f3fe1de936d49096544'}}
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:50:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:50:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839428', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'a0a55fa8eec28b39ef59e2e2a437f0c2'}}
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:18 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:18 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:18 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:18 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839539', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '1e5f77b5935ccdd72732a91ad2673956'}}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839539', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '1e5f77b5935ccdd72732a91ad2673956'}}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839539', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '1e5f77b5935ccdd72732a91ad2673956'}}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839539', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '1e5f77b5935ccdd72732a91ad2673956'}}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839539', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '1e5f77b5935ccdd72732a91ad2673956'}}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839539', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '1e5f77b5935ccdd72732a91ad2673956'}}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839539', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '1e5f77b5935ccdd72732a91ad2673956'}}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839539', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '1e5f77b5935ccdd72732a91ad2673956'}}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839539', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '1e5f77b5935ccdd72732a91ad2673956'}}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839539', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '1e5f77b5935ccdd72732a91ad2673956'}}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839539', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '1e5f77b5935ccdd72732a91ad2673956'}}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839539', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '1e5f77b5935ccdd72732a91ad2673956'}}
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:52:19 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:19 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:19 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:19 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:19 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:19 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:19 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:19 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:19 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:19 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:19 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:19 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:19 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:19 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:19 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:52:20 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839542', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '8f36442708182ee4a5af5b08367610e8'}}
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:24 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:24 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:24 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:24 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839605', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '773444aba54f98609f8599547de9f046'}}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839605', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '773444aba54f98609f8599547de9f046'}}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839605', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '773444aba54f98609f8599547de9f046'}}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839605', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '773444aba54f98609f8599547de9f046'}}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839605', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '773444aba54f98609f8599547de9f046'}}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839605', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '773444aba54f98609f8599547de9f046'}}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839605', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '773444aba54f98609f8599547de9f046'}}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839605', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '773444aba54f98609f8599547de9f046'}}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839605', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '773444aba54f98609f8599547de9f046'}}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839605', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '773444aba54f98609f8599547de9f046'}}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839605', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '773444aba54f98609f8599547de9f046'}}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839605', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '773444aba54f98609f8599547de9f046'}}
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:53:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:25 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:25 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:53:26 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839607', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '5bfd5f174cf05cb6aef0b30e0608295e'}}
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839755', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0299bfe9cd65ac927badae680d1d8823'}}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839755', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0299bfe9cd65ac927badae680d1d8823'}}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839755', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0299bfe9cd65ac927badae680d1d8823'}}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839755', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0299bfe9cd65ac927badae680d1d8823'}}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839755', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0299bfe9cd65ac927badae680d1d8823'}}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839755', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0299bfe9cd65ac927badae680d1d8823'}}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839755', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0299bfe9cd65ac927badae680d1d8823'}}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839755', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0299bfe9cd65ac927badae680d1d8823'}}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839755', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0299bfe9cd65ac927badae680d1d8823'}}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839755', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0299bfe9cd65ac927badae680d1d8823'}}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839755', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0299bfe9cd65ac927badae680d1d8823'}}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839755', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0299bfe9cd65ac927badae680d1d8823'}}
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:54 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:55:56 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:10 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839758', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'c141935c7081b41ac1ac88c171675f3c'}}
+2023-04-07-11:57:10 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:10 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:10 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:10 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:10 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:10 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:10 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:10 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:10 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:10 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:10 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:10 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:10 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:10 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839832', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '114d6a36fa6aa7a029c5d59cee8ce234'}}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839832', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '114d6a36fa6aa7a029c5d59cee8ce234'}}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839832', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '114d6a36fa6aa7a029c5d59cee8ce234'}}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839832', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '114d6a36fa6aa7a029c5d59cee8ce234'}}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839832', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '114d6a36fa6aa7a029c5d59cee8ce234'}}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839832', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '114d6a36fa6aa7a029c5d59cee8ce234'}}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839832', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '114d6a36fa6aa7a029c5d59cee8ce234'}}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839832', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '114d6a36fa6aa7a029c5d59cee8ce234'}}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839832', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '114d6a36fa6aa7a029c5d59cee8ce234'}}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839832', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '114d6a36fa6aa7a029c5d59cee8ce234'}}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839832', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '114d6a36fa6aa7a029c5d59cee8ce234'}}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839832', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '114d6a36fa6aa7a029c5d59cee8ce234'}}
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:57:11 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:11 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:11 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:11 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:11 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:11 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:11 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:11 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:11 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:11 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:11 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:11 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:11 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:11 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:11 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:42] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:57:13 [test_login.py:43] [DEBUG] 退出登录失败
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839834', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '3fa360ace1e2361def503ea1a38bf2f0'}}
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:32 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:32 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:32 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:32 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839913', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '285d5fa1400468c5ecf0ed6af98266ee'}}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839913', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '285d5fa1400468c5ecf0ed6af98266ee'}}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839913', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '285d5fa1400468c5ecf0ed6af98266ee'}}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839913', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '285d5fa1400468c5ecf0ed6af98266ee'}}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839913', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '285d5fa1400468c5ecf0ed6af98266ee'}}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839913', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '285d5fa1400468c5ecf0ed6af98266ee'}}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839913', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '285d5fa1400468c5ecf0ed6af98266ee'}}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839913', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '285d5fa1400468c5ecf0ed6af98266ee'}}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839913', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '285d5fa1400468c5ecf0ed6af98266ee'}}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839913', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '285d5fa1400468c5ecf0ed6af98266ee'}}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839913', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '285d5fa1400468c5ecf0ed6af98266ee'}}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1680839913', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '285d5fa1400468c5ecf0ed6af98266ee'}}
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 200
+2023-04-07-11:58:33 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:33 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:33 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:33 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:33 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:33 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:33 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:33 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:33 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:33 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:33 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:33 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:33 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:33 [test_login.py:27] [DEBUG] 登录成功
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '验证码错误', 'data': []}
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:24] [DEBUG] {'status': 500, 'msg': '请输入验证码', 'data': []}
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:33 [test_login.py:25] [DEBUG] 500
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': []}
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-07-11:58:34 [test_login.py:40] [DEBUG] 退出登录成功

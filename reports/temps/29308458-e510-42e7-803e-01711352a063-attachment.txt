@@ -1,0 +1,2 @@
+DEBUG    logger:test_login.py:24 {'status': 500, 'msg': '邮箱或手机号不能为空', 'data': []}
+DEBUG    logger:test_login.py:25 500
