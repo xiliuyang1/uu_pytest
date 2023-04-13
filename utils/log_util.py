@@ -21,7 +21,8 @@ class LogUtils:
 
     def file_handler(self, level='DEBUG'):
         file_handler = logging.FileHandler(
-            os.getcwd().split("utils")[0] + "/logger/{}.txt".format(time.strftime('%Y-%m-%d', time.localtime(time.time()))),
+            os.getcwd().split("utils")[0] + "/logger/{}.txt".format(
+                time.strftime('%Y-%m-%d', time.localtime(time.time()))),
             mode='a', encoding="utf-8")
         # 给文件处理器设置等级：
         file_handler.setLevel(level)
@@ -31,10 +32,6 @@ class LogUtils:
         return file_handler
 
     def set_formatter(self):
-        """
-        asctime()方法将表示由gmtime()或localtime()返回的时间的元组或struct_time转换为以下形式：“Tue Feb 27 22:21:15 2019”的24个字符的字符串
-//更多请阅读：https://www.yiibai.com/python/time_asctime.html
-        """
         console_fmt = logging.Formatter(fmt="%(asctime)s [%(filename)s:%(lineno)d] [%(levelname)s]",
                                         datefmt="%Y-%m-%d-%H:%M:%S")
         file_fmt = logging.Formatter(fmt="%(asctime)s [%(filename)s:%(lineno)d] [%(levelname)s] %(message)s",
@@ -47,4 +44,3 @@ class LogUtils:
         self.logger.addHandler(self.file_handler())
         self.logger.addHandler(self.console_handler())
         return self.logger
-

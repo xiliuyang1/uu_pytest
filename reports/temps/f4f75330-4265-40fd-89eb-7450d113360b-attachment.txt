@@ -1,2 +1,0 @@
-DEBUG    logger:test_login.py:24 {'status': 500, 'msg': '请输入验证码', 'data': []}
-DEBUG    logger:test_login.py:25 500

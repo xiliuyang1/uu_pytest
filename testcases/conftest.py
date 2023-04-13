@@ -1,6 +1,9 @@
-# import pytest
-#
-#
-# @pytest.fixture(scope='session', autouse=True)
-# def clear_extract_yaml():
-#     clear_extract_yaml('/test_data/extract_data.yml')
+import pytest
+
+from utils.yaml_util import read_yaml
+
+
+@pytest.fixture(scope="function")
+def get_token():
+    token = read_yaml('/test_data/common/token.yml')['token']
+    return token

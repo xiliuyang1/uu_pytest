@@ -1,12 +1,14 @@
+# -*- coding: UTF-8 -*-
 import os
 import time
 
+import pytest
 import yaml
 
 
 def read_yaml(file_name):
     with open(os.getcwd().split('utils')[0] + file_name, mode='r', encoding='utf-8') as f:
-        params = yaml.load(stream=f, Loader=yaml.FullLoader)
+        params = yaml.load(stream=f, Loader=yaml.FullLoader)  # 把数据转化为json格式
         # print(params)
         return params
 
@@ -22,7 +24,4 @@ def clear_extract_yaml(file_name):
 
 
 if __name__ == '__main__':
-    print(read_yaml('/test_data/test_login_datas.yml')[0]['datas'])
-    print(read_yaml("/config/host_config.yml"))
-    clear_extract_yaml('/test_data/extract_data.yml')
-    print(time.strftime('%Y-%m-%d-%H:%M:%S', time.localtime(time.time())))
+    pytest.main(['-vs'])
