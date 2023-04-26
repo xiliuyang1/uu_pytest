@@ -1,0 +1,201 @@
+2023-04-26-14:49:23 [test_login.py:23] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682479438', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'fbc973977ba757ac5dfc85dc10b7687a'}}
+2023-04-26-14:49:23 [test_login.py:24] [DEBUG] 200
+2023-04-26-14:49:23 [test_login.py:24] [DEBUG] 200
+2023-04-26-14:49:23 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-14:49:23 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-14:49:23 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:20:32 [test_login.py:23] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682491764', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'af7e1900488dd9d999026bf0fd2b28d7'}}
+2023-04-26-15:20:32 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:20:32 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:20:32 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:20:32 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:20:32 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:22:50 [test_login.py:23] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682493632', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '3aae84501137a26ee05eddb95e3631a1'}}
+2023-04-26-15:22:50 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:22:50 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:22:50 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:22:50 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:22:50 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:27:21 [test_login.py:23] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682493771', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'a029a8395bd4361530f5b03b9be41709'}}
+2023-04-26-15:27:21 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:27:21 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:27:21 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:27:21 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:27:21 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:29:02 [test_login.py:23] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682494041', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '124fe9b544c322ee590ec6acb322a751'}}
+2023-04-26-15:29:02 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:29:02 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:29:02 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:29:02 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:29:02 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:31:20 [test_login.py:23] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682494143', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0c52a582d271bcf1d189fe05936925a1'}}
+2023-04-26-15:31:20 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:31:20 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:31:20 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:31:20 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:31:20 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:34:19 [test_login.py:23] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682494280', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '8f31c509be5145433f5e1823e225261a'}}
+2023-04-26-15:34:19 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:34:19 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:34:19 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:34:19 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:34:19 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:37:09 [test_login.py:23] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682494460', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '15b2e6e1f8eb632eff26c9dbe9871fb9'}}
+2023-04-26-15:37:09 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:37:09 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:37:09 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:37:09 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:37:09 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:38:04 [test_login.py:23] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682494630', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '3ef49a547d7885042f9ac4718b06c8b7'}}
+2023-04-26-15:38:04 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:38:04 [test_login.py:24] [DEBUG] 200
+2023-04-26-15:38:04 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:38:04 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:38:04 [test_login.py:26] [DEBUG] 登录成功
+2023-04-26-15:38:50 [test_login.py:23] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682494685', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '81fecbfd8695149245863abf18e06e9f'}}
+2023-04-26-15:38:50 [test_login.py:24] [INFO] 200
+2023-04-26-15:38:50 [test_login.py:24] [INFO] 200
+2023-04-26-15:38:50 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:38:50 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:38:50 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:46:07 [test_login.py:23] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682494731', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '4ee1f49ab2d8c9983f46639affaac584'}}
+2023-04-26-15:46:07 [test_login.py:24] [INFO] 200
+2023-04-26-15:46:07 [test_login.py:24] [INFO] 200
+2023-04-26-15:46:07 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:46:07 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:46:07 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:47:57 [test_login.py:23] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682495168', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '8d0dd3a0e390e03b187e1ebd4859f8b1'}}
+2023-04-26-15:47:57 [test_login.py:24] [INFO] 200
+2023-04-26-15:47:57 [test_login.py:24] [INFO] 200
+2023-04-26-15:47:57 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:47:57 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:47:57 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:48:26 [test_login.py:23] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682495278', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0c95fbd3da58810f00b12451deba6ec4'}}
+2023-04-26-15:48:26 [test_login.py:24] [INFO] 200
+2023-04-26-15:48:26 [test_login.py:24] [INFO] 200
+2023-04-26-15:48:26 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:48:26 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:48:26 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:49:51 [test_login.py:23] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682495307', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'f3338baa4393d6906860e1809bc7f81b'}}
+2023-04-26-15:49:51 [test_login.py:24] [INFO] 200
+2023-04-26-15:49:51 [test_login.py:24] [INFO] 200
+2023-04-26-15:49:51 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:49:51 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:49:51 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:50:57 [test_login.py:23] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682495392', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '43885105fa35d5259c68e5f6399f2341'}}
+2023-04-26-15:50:57 [test_login.py:24] [INFO] 200
+2023-04-26-15:50:57 [test_login.py:24] [INFO] 200
+2023-04-26-15:50:57 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:50:57 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:50:57 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:50:57 [conftest.py:34] [ERROR] 登录失败！接口返回：{"status":401,"msg":"Not Login","data":[]}
+2023-04-26-15:50:57 [conftest.py:34] [ERROR] 登录失败！接口返回：{"status":401,"msg":"Not Login","data":[]}
+2023-04-26-15:50:57 [conftest.py:34] [ERROR] 登录失败！接口返回：{"status":401,"msg":"Not Login","data":[]}
+2023-04-26-15:50:57 [conftest.py:34] [ERROR] 登录失败！接口返回：{"status":401,"msg":"Not Login","data":[]}
+2023-04-26-15:50:58 [test_login.py:44] [DEBUG] {'status': 401, 'msg': 'Not Login', 'data': []}
+2023-04-26-15:50:58 [test_login.py:44] [DEBUG] {'status': 401, 'msg': 'Not Login', 'data': []}
+2023-04-26-15:50:58 [test_login.py:44] [DEBUG] {'status': 401, 'msg': 'Not Login', 'data': []}
+2023-04-26-15:50:58 [test_login.py:44] [DEBUG] {'status': 401, 'msg': 'Not Login', 'data': []}
+2023-04-26-15:50:58 [test_login.py:44] [DEBUG] {'status': 401, 'msg': 'Not Login', 'data': []}
+2023-04-26-15:50:58 [test_login.py:45] [DEBUG] 退出登录失败
+2023-04-26-15:50:58 [test_login.py:45] [DEBUG] 退出登录失败
+2023-04-26-15:50:58 [test_login.py:45] [DEBUG] 退出登录失败
+2023-04-26-15:50:58 [test_login.py:45] [DEBUG] 退出登录失败
+2023-04-26-15:50:58 [test_login.py:45] [DEBUG] 退出登录失败
+2023-04-26-15:50:58 [test_login.py:45] [DEBUG] 退出登录失败
+2023-04-26-15:57:34 [test_login.py:23] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682495688', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '6e36c3707ad43201b35134e9e3534c5d'}}
+2023-04-26-15:57:34 [test_login.py:24] [INFO] 200
+2023-04-26-15:57:34 [test_login.py:24] [INFO] 200
+2023-04-26-15:57:34 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:57:34 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:57:34 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:58:24 [test_login.py:23] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682495855', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '9bc602f6ceb63b3c0d33c9402c5745b2'}}
+2023-04-26-15:58:24 [test_login.py:24] [INFO] 200
+2023-04-26-15:58:24 [test_login.py:24] [INFO] 200
+2023-04-26-15:58:24 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:58:24 [test_login.py:26] [INFO] 登录成功
+2023-04-26-15:58:24 [test_login.py:26] [INFO] 登录成功
+2023-04-26-16:08:49 [test_login.py:22] [INFO] 登录成功
+2023-04-26-16:08:49 [test_login.py:23] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682495905', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '969e4c1aac14a413cb5a18d3dc0ebc6c'}}
+2023-04-26-16:08:49 [test_login.py:23] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682495905', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '969e4c1aac14a413cb5a18d3dc0ebc6c'}}
+2023-04-26-16:16:28 [test_login.py:23] [INFO] 登录成功
+2023-04-26-16:16:28 [test_login.py:24] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682496530', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0a7dbdc520131e3858c6a7838d8454eb'}}
+2023-04-26-16:16:28 [test_login.py:24] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682496530', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '0a7dbdc520131e3858c6a7838d8454eb'}}
+2023-04-26-16:16:28 [test_login.py:41] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:16:28 [test_login.py:41] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:16:28 [test_login.py:41] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:16:28 [test_login.py:42] [DEBUG] 退出登录成功
+2023-04-26-16:16:28 [test_login.py:42] [DEBUG] 退出登录成功
+2023-04-26-16:16:28 [test_login.py:42] [DEBUG] 退出登录成功
+2023-04-26-16:16:28 [test_login.py:42] [DEBUG] 退出登录成功
+2023-04-26-16:23:51 [test_login.py:23] [INFO] 登录成功
+2023-04-26-16:23:51 [test_login.py:24] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682497071', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '254045f4b2f36fa070ba3e0681920564'}}
+2023-04-26-16:23:51 [test_login.py:24] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682497071', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '254045f4b2f36fa070ba3e0681920564'}}
+2023-04-26-16:23:51 [test_login.py:41] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:23:51 [test_login.py:41] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:23:51 [test_login.py:41] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:23:51 [test_login.py:42] [DEBUG] 退出登录成功
+2023-04-26-16:23:51 [test_login.py:42] [DEBUG] 退出登录成功
+2023-04-26-16:23:51 [test_login.py:42] [DEBUG] 退出登录成功
+2023-04-26-16:23:51 [test_login.py:42] [DEBUG] 退出登录成功
+2023-04-26-16:30:32 [test_task.py:27] [ERROR] 您已领取过签到奖励
+2023-04-26-16:31:37 [test_login.py:23] [INFO] 登录成功
+2023-04-26-16:31:37 [test_login.py:24] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682497431', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '6be569fa2ddcf3eb9c33260a6f74119e'}}
+2023-04-26-16:31:37 [test_login.py:24] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682497431', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '6be569fa2ddcf3eb9c33260a6f74119e'}}
+2023-04-26-16:31:37 [test_login.py:41] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:31:37 [test_login.py:41] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:31:37 [test_login.py:41] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:31:37 [test_login.py:42] [DEBUG] 退出登录成功
+2023-04-26-16:31:37 [test_login.py:42] [DEBUG] 退出登录成功
+2023-04-26-16:31:37 [test_login.py:42] [DEBUG] 退出登录成功
+2023-04-26-16:31:37 [test_login.py:42] [DEBUG] 退出登录成功
+2023-04-26-16:31:37 [test_task.py:27] [INFO] 您已领取过签到奖励
+2023-04-26-16:31:37 [test_task.py:27] [INFO] 您已领取过签到奖励
+2023-04-26-16:31:37 [test_task.py:27] [INFO] 您已领取过签到奖励
+2023-04-26-16:31:37 [test_task.py:27] [INFO] 您已领取过签到奖励
+2023-04-26-16:31:37 [test_task.py:27] [INFO] 您已领取过签到奖励
+2023-04-26-16:34:54 [test_login.py:22] [INFO] 登录成功
+2023-04-26-16:34:54 [test_login.py:23] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682497898', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '68c1f07531308432db0638ae7872231b'}}
+2023-04-26-16:34:54 [test_login.py:23] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682497898', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '68c1f07531308432db0638ae7872231b'}}
+2023-04-26-16:34:54 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:34:54 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:34:54 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:34:54 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-26-16:34:54 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-26-16:34:54 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-26-16:34:54 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-26-16:34:54 [test_task.py:27] [INFO] 您已领取过签到奖励
+2023-04-26-16:34:54 [test_task.py:27] [INFO] 您已领取过签到奖励
+2023-04-26-16:34:54 [test_task.py:27] [INFO] 您已领取过签到奖励
+2023-04-26-16:34:54 [test_task.py:27] [INFO] 您已领取过签到奖励
+2023-04-26-16:34:54 [test_task.py:27] [INFO] 您已领取过签到奖励
+2023-04-26-16:37:14 [test_login.py:22] [INFO] 登录成功
+2023-04-26-16:37:14 [test_login.py:23] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682498095', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'eb019f39bc3e16b2cd088a5b8ba28f55'}}
+2023-04-26-16:37:14 [test_login.py:23] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682498095', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'eb019f39bc3e16b2cd088a5b8ba28f55'}}
+2023-04-26-16:37:14 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:37:14 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:37:14 [test_login.py:39] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:37:14 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-26-16:37:14 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-26-16:37:14 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-26-16:37:14 [test_login.py:40] [DEBUG] 退出登录成功
+2023-04-26-16:37:14 [test_task.py:28] [INFO] 您已领取过签到奖励
+2023-04-26-16:37:14 [test_task.py:28] [INFO] 您已领取过签到奖励
+2023-04-26-16:37:14 [test_task.py:28] [INFO] 您已领取过签到奖励
+2023-04-26-16:37:14 [test_task.py:28] [INFO] 您已领取过签到奖励
+2023-04-26-16:37:14 [test_task.py:28] [INFO] 您已领取过签到奖励
+2023-04-26-16:37:58 [test_login.py:21] [INFO] 登录成功
+2023-04-26-16:37:58 [test_login.py:22] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682498235', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '47e837319623e7931b6164fd1eb02026'}}
+2023-04-26-16:37:58 [test_login.py:22] [INFO] {'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1682498235', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '47e837319623e7931b6164fd1eb02026'}}
+2023-04-26-16:37:58 [test_login.py:38] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:37:58 [test_login.py:38] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:37:58 [test_login.py:38] [DEBUG] {'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-04-26-16:37:58 [test_login.py:39] [DEBUG] 退出登录成功
+2023-04-26-16:37:58 [test_login.py:39] [DEBUG] 退出登录成功
+2023-04-26-16:37:58 [test_login.py:39] [DEBUG] 退出登录成功
+2023-04-26-16:37:58 [test_login.py:39] [DEBUG] 退出登录成功
+2023-04-26-16:37:58 [test_task.py:28] [INFO] 您已领取过签到奖励
+2023-04-26-16:37:58 [test_task.py:28] [INFO] 您已领取过签到奖励
+2023-04-26-16:37:58 [test_task.py:28] [INFO] 您已领取过签到奖励
+2023-04-26-16:37:58 [test_task.py:28] [INFO] 您已领取过签到奖励
+2023-04-26-16:37:58 [test_task.py:28] [INFO] 您已领取过签到奖励
