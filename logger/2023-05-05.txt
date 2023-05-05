@@ -1,0 +1,35 @@
+2023-05-05-09:26:11 [test_activity.py:10] [INFO] {'name': '获取活动的基本信息', 'method': 'get', 'url': '/api/activity/activity/get-activity-by-code', 'headers': {'token': '{{get_token()}}'}}
+2023-05-05-09:29:00 [test_activity.py:10] [INFO] {'name': '获取活动的基本信息', 'method': 'get', 'url': '/api/activity/activity/get-activity-by-code', 'headers': {'token': '{{get_token()}}'}}
+2023-05-05-09:34:14 [test_activity.py:10] [INFO] {'name': '获取活动的基本信息', 'method': 'get', 'url': '/api/activity/activity/get-activity-by-code', 'headers': {'token': '{{get_token()}}'}}
+2023-05-05-09:34:46 [test_activity.py:10] [INFO] name
+2023-05-05-09:34:46 [test_activity.py:10] [INFO] method
+2023-05-05-09:34:46 [test_activity.py:10] [INFO] method
+2023-05-05-09:34:46 [test_activity.py:10] [INFO] url
+2023-05-05-09:34:46 [test_activity.py:10] [INFO] url
+2023-05-05-09:34:46 [test_activity.py:10] [INFO] url
+2023-05-05-09:34:46 [test_activity.py:10] [INFO] headers
+2023-05-05-09:34:46 [test_activity.py:10] [INFO] headers
+2023-05-05-09:34:46 [test_activity.py:10] [INFO] headers
+2023-05-05-09:34:46 [test_activity.py:10] [INFO] headers
+2023-05-05-09:41:04 [test_activity.py:10] [INFO] name
+2023-05-05-09:41:04 [test_activity.py:10] [INFO] method
+2023-05-05-09:41:04 [test_activity.py:10] [INFO] method
+2023-05-05-09:41:04 [test_activity.py:10] [INFO] url
+2023-05-05-09:41:04 [test_activity.py:10] [INFO] url
+2023-05-05-09:41:04 [test_activity.py:10] [INFO] url
+2023-05-05-09:41:04 [test_activity.py:10] [INFO] headers
+2023-05-05-09:41:04 [test_activity.py:10] [INFO] headers
+2023-05-05-09:41:04 [test_activity.py:10] [INFO] headers
+2023-05-05-09:41:04 [test_activity.py:10] [INFO] headers
+2023-05-05-09:43:12 [test_activity.py:10] [INFO] name
+2023-05-05-09:43:12 [test_activity.py:10] [INFO] method
+2023-05-05-09:43:12 [test_activity.py:10] [INFO] method
+2023-05-05-09:43:12 [test_activity.py:10] [INFO] url
+2023-05-05-09:43:12 [test_activity.py:10] [INFO] url
+2023-05-05-09:43:12 [test_activity.py:10] [INFO] url
+2023-05-05-09:43:12 [test_activity.py:10] [INFO] headers
+2023-05-05-09:43:12 [test_activity.py:10] [INFO] headers
+2023-05-05-09:43:12 [test_activity.py:10] [INFO] headers
+2023-05-05-09:43:12 [test_activity.py:10] [INFO] headers
+2023-05-05-09:45:05 [test_activity.py:10] [INFO] {'name': '获取活动的基本信息', 'method': 'get', 'url': '/api/activity/activity/get-activity-by-code', 'headers': 'a18e69a9d241a626d35ecf9b46e0a885'}
+2023-05-05-09:51:44 [test_activity.py:14] [INFO] {'name': '获取活动的基本信息', 'method': 'get', 'url': '/api/activity/activity/get-activity-by-code', 'headers': 'a18e69a9d241a626d35ecf9b46e0a885'}

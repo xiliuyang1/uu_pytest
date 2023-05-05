@@ -4,7 +4,7 @@ import os
 import time
 
 
-class LogUtils:
+class LogUtil:
 
     def __init__(self, level="DEBUG"):
         self.logger = logging.getLogger("logger")
@@ -32,7 +32,7 @@ class LogUtils:
         return file_handler
 
     def set_formatter(self):
-        console_fmt = logging.Formatter(fmt="%(asctime)s [%(filename)s:%(lineno)d] [%(levelname)s]",
+        console_fmt = logging.Formatter(fmt="%(asctime)s [%(filename)s:%(lineno)d] [%(levelname)s] [%(message)s]",
                                         datefmt="%Y-%m-%d-%H:%M:%S")
         file_fmt = logging.Formatter(fmt="%(asctime)s [%(filename)s:%(lineno)d] [%(levelname)s] %(message)s",
                                      datefmt="%Y-%m-%d-%H:%M:%S")

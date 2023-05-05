@@ -1,9 +1,12 @@
 import pytest
 
-from utils.yaml_util import read_yaml
+from common.get_token import get_token
+from utils.yaml_util import read_yaml, clear_extract_yaml
 
 
 @pytest.fixture(scope="function")
-def get_token():
-    token = read_yaml('/test_data/common/token.yml')['token']
-    return token
+def login_token():
+    token = get_token()
+    yield token
+    # clear_extract_yaml()
+

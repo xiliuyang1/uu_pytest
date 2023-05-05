@@ -1,0 +1,10 @@
+-
+  name: 退出登录
+  url: /api/user/user/loginOut
+  method: post
+  headers:
+    token: '{{get_token()}}'
+    content-type: application/json; charset=UTF-8
+    accept-encoding: gzip, deflate, br
+    lang: zh-CN
+  status: 200

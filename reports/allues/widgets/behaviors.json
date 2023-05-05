@@ -1,1 +1,1 @@
-{"total":2,"items":[{"uid":"6958045a481574bf02bb11ef07a7047b","name":"登录模块","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}},{"uid":"69fe2efcb5ce58ddb028a75acf134d46","name":"任务模块","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
+{"total":1,"items":[{"uid":"5de4a9eab01660918d58bf7800d829e8","name":"赛事活动模块","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
