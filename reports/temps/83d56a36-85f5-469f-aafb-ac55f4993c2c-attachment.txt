@@ -1,1 +1,0 @@
-INFO     logger:test_activity.py:14 {'name': '获取活动的基本信息', 'method': 'get', 'url': '/api/activity/activity/get-activity-by-code', 'headers': 'a18e69a9d241a626d35ecf9b46e0a885'}

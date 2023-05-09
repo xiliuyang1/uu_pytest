@@ -1,0 +1,22 @@
+-
+  name: 普通充值接口
+  method: post
+  url: /api/activity/activity/get-activity-by-code
+  headers:
+    token: '{{token()}}'
+    content-type: application/json; charset=UTF-8
+  params:
+    amount: 10
+    type: alipay
+    channel: 4
+-
+  name: 活动页充值接口
+  method: post
+  url: /api/activity/activity/get-activity-by-code
+  headers:
+    token: '{{token()}}'
+    content-type: application/json; charset=UTF-8
+  params:
+    amount: 10
+    type: alipay
+    channel: 4

@@ -1,0 +1,941 @@
+2023-05-09-08:47:17 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功None
+2023-05-09-08:47:17 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功None
+2023-05-09-08:47:17 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功None
+2023-05-09-08:47:17 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功None
+2023-05-09-08:47:17 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功None
+2023-05-09-08:47:17 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功None
+2023-05-09-08:47:17 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功None
+2023-05-09-08:47:17 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功None
+2023-05-09-08:47:17 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功None
+2023-05-09-08:47:17 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功None
+2023-05-09-08:47:18 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '29c4e7e62bae44313a336e6127c11b2e'}
+2023-05-09-08:47:18 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '29c4e7e62bae44313a336e6127c11b2e'}
+2023-05-09-08:47:18 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '29c4e7e62bae44313a336e6127c11b2e'}
+2023-05-09-08:47:18 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '29c4e7e62bae44313a336e6127c11b2e'}
+2023-05-09-08:47:18 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '29c4e7e62bae44313a336e6127c11b2e'}
+2023-05-09-08:47:18 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '29c4e7e62bae44313a336e6127c11b2e'}写入token.yml文件中
+2023-05-09-08:47:18 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '29c4e7e62bae44313a336e6127c11b2e'}写入token.yml文件中
+2023-05-09-08:47:18 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '29c4e7e62bae44313a336e6127c11b2e'}写入token.yml文件中
+2023-05-09-08:47:18 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '29c4e7e62bae44313a336e6127c11b2e'}写入token.yml文件中
+2023-05-09-08:47:18 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '29c4e7e62bae44313a336e6127c11b2e'}写入token.yml文件中
+2023-05-09-08:47:18 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '29c4e7e62bae44313a336e6127c11b2e'}写入token.yml文件中
+2023-05-09-08:47:19 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-08:47:19 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-08:47:19 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-08:47:19 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-08:47:19 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-08:47:19 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-08:47:19 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-08:47:20 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-08:47:20 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-08:47:20 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-08:47:20 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-08:47:20 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-08:47:20 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-08:47:20 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-08:47:20 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-08:47:20 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-08:47:20 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-08:47:20 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-08:47:20 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-08:47:20 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-08:47:20 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-08:47:20 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-08:47:20 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-08:47:20 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-08:47:20 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-08:47:20 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-08:47:20 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-08:47:20 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-08:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-08:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-08:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-08:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-08:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-08:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-08:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-08:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-08:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-08:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-08:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-08:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:14:33 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:33 [get_token.py:30] [write_token_in_yaml] [INFO] 把{'token': '099904738f30635263fe39c708366e15'}写入token.yml文件中
+2023-05-09-09:14:33 [get_token.py:30] [write_token_in_yaml] [INFO] 把{'token': '099904738f30635263fe39c708366e15'}写入token.yml文件中
+2023-05-09-09:14:34 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:14:34 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:14:34 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:14:34 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:14:34 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:14:34 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:14:34 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:14:34 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:14:34 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:14:34 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:14:34 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:14:34 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:14:34 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:14:34 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:14:34 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:14:34 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:14:34 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:14:34 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:14:34 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:14:34 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:14:34 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '099904738f30635263fe39c708366e15'}
+2023-05-09-09:14:34 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:14:34 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:14:34 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:14:34 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:14:34 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:14:34 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:14:34 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:14:34 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:14:34 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:14:34 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:14:34 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:14:34 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:14:34 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:14:34 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:14:34 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:14:34 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:14:34 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:14:34 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:14:34 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:14:34 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:14:34 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:14:34 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:14:34 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:16:55 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:55 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': 'a78235c5b1693db38793a58c5455ebe7'}写入token.yml文件中
+2023-05-09-09:16:55 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': 'a78235c5b1693db38793a58c5455ebe7'}写入token.yml文件中
+2023-05-09-09:16:56 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:16:56 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:16:56 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:16:56 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:16:56 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:16:56 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:16:56 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:16:56 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:16:56 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:16:56 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:16:56 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:16:56 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:16:56 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:16:56 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:16:56 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:16:56 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:16:56 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:16:56 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:16:56 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:16:56 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:16:56 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a78235c5b1693db38793a58c5455ebe7'}
+2023-05-09-09:16:56 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:16:56 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:16:56 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:16:56 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:16:56 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:16:56 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:16:56 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:16:56 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:16:56 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:16:56 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:16:56 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:16:56 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:16:56 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:16:56 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:16:56 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:16:56 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:16:56 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:16:56 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:16:56 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:16:56 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:16:56 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:16:56 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:16:56 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:19:07 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '2e40730b3f877a6a472e27f9c9d0da3c'}
+2023-05-09-09:19:07 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '2e40730b3f877a6a472e27f9c9d0da3c'}写入token.yml文件中
+2023-05-09-09:19:07 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '2e40730b3f877a6a472e27f9c9d0da3c'}写入token.yml文件中
+2023-05-09-09:19:07 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '2e40730b3f877a6a472e27f9c9d0da3c'}
+2023-05-09-09:19:07 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '2e40730b3f877a6a472e27f9c9d0da3c'}
+2023-05-09-09:19:07 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '2e40730b3f877a6a472e27f9c9d0da3c'}
+2023-05-09-09:19:07 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:19:07 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:19:07 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:19:07 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:19:07 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:19:07 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:19:07 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:19:07 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:19:07 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:19:19 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '88600d6a12e71ee0ed8e6de284611929'}
+2023-05-09-09:19:19 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '88600d6a12e71ee0ed8e6de284611929'}写入token.yml文件中
+2023-05-09-09:19:19 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '88600d6a12e71ee0ed8e6de284611929'}写入token.yml文件中
+2023-05-09-09:23:26 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:23:26 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:23:26 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:23:31 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'd8632ff80e38e931d5cafb0ce931182e'}
+2023-05-09-09:23:31 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': 'd8632ff80e38e931d5cafb0ce931182e'}写入token.yml文件中
+2023-05-09-09:23:31 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': 'd8632ff80e38e931d5cafb0ce931182e'}写入token.yml文件中
+2023-05-09-09:25:02 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'd8632ff80e38e931d5cafb0ce931182e'}
+2023-05-09-09:25:02 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'd8632ff80e38e931d5cafb0ce931182e'}
+2023-05-09-09:25:02 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'd8632ff80e38e931d5cafb0ce931182e'}
+2023-05-09-09:27:01 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:27:01 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:27:01 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:27:01 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:27:21 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '1ba66a3cec6e65f981c94128d1a6c9fe'}
+2023-05-09-09:27:21 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '1ba66a3cec6e65f981c94128d1a6c9fe'}写入token.yml文件中
+2023-05-09-09:27:21 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '1ba66a3cec6e65f981c94128d1a6c9fe'}写入token.yml文件中
+2023-05-09-09:27:44 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '1ba66a3cec6e65f981c94128d1a6c9fe'}
+2023-05-09-09:27:44 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '1ba66a3cec6e65f981c94128d1a6c9fe'}
+2023-05-09-09:27:44 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '1ba66a3cec6e65f981c94128d1a6c9fe'}
+2023-05-09-09:29:35 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:29:35 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:29:35 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:29:35 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:29:44 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '9fff8c057d2a86dfedd0094b0acede92'}
+2023-05-09-09:29:44 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '9fff8c057d2a86dfedd0094b0acede92'}写入token.yml文件中
+2023-05-09-09:29:44 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '9fff8c057d2a86dfedd0094b0acede92'}写入token.yml文件中
+2023-05-09-09:31:15 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:31:15 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:31:15 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:31:25 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '32dd9662873b22bc486928d5efa4683d'}
+2023-05-09-09:31:25 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '32dd9662873b22bc486928d5efa4683d'}写入token.yml文件中
+2023-05-09-09:31:25 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '32dd9662873b22bc486928d5efa4683d'}写入token.yml文件中
+2023-05-09-09:33:15 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '32dd9662873b22bc486928d5efa4683d'}
+2023-05-09-09:33:15 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '32dd9662873b22bc486928d5efa4683d'}
+2023-05-09-09:33:15 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '32dd9662873b22bc486928d5efa4683d'}
+2023-05-09-09:34:16 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:34:16 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:34:16 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:34:16 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:34:25 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'f1c058e1cbf16a818362e131ebed4f6f'}
+2023-05-09-09:34:25 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': 'f1c058e1cbf16a818362e131ebed4f6f'}写入token.yml文件中
+2023-05-09-09:34:25 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': 'f1c058e1cbf16a818362e131ebed4f6f'}写入token.yml文件中
+2023-05-09-09:34:57 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'f1c058e1cbf16a818362e131ebed4f6f'}
+2023-05-09-09:34:57 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'f1c058e1cbf16a818362e131ebed4f6f'}
+2023-05-09-09:34:57 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'f1c058e1cbf16a818362e131ebed4f6f'}
+2023-05-09-09:45:43 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:45:43 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:45:43 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:45:43 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:45:49 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'ad35909ea266feefb3cd0a961ad75fed'}
+2023-05-09-09:45:49 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': 'ad35909ea266feefb3cd0a961ad75fed'}写入token.yml文件中
+2023-05-09-09:45:49 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': 'ad35909ea266feefb3cd0a961ad75fed'}写入token.yml文件中
+2023-05-09-09:45:49 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'ad35909ea266feefb3cd0a961ad75fed'}
+2023-05-09-09:45:49 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'ad35909ea266feefb3cd0a961ad75fed'}
+2023-05-09-09:45:49 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'ad35909ea266feefb3cd0a961ad75fed'}
+2023-05-09-09:45:49 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-09:45:49 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-09:45:49 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-09:45:49 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-09:45:49 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:45:49 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:45:49 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:45:49 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:45:49 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:47:11 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:11 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '99e7905d94733586059750f048dae483'}写入token.yml文件中
+2023-05-09-09:47:11 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '99e7905d94733586059750f048dae483'}写入token.yml文件中
+2023-05-09-09:47:12 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:47:12 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:47:12 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:47:12 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:12 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:12 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:12 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:12 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:47:12 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:47:12 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:47:12 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:47:12 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:47:12 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:12 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:12 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:12 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:12 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:12 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:47:13 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:47:13 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:47:13 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:47:13 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:47:13 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:47:13 [test_activity.py:17] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:47:13 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:47:13 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:47:13 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:47:13 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:47:13 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:47:13 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:47:13 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:47:13 [test_activity.py:27] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:13 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '99e7905d94733586059750f048dae483'}
+2023-05-09-09:47:14 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:47:14 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:47:14 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:47:14 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:47:14 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:47:14 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:47:14 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:47:14 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:47:14 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:47:14 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:47:14 [test_login.py:28] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:47:14 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:47:14 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:47:14 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:47:14 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:47:14 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:47:14 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:47:14 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:47:14 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:47:14 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:47:14 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:47:14 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:47:14 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:48:40 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:40 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}写入token.yml文件中
+2023-05-09-09:48:40 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}写入token.yml文件中
+2023-05-09-09:48:40 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:40 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:40 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:41 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:48:41 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:48:41 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:48:41 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-09:48:41 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:41 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:41 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:41 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:41 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:41 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:48:41 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:48:41 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:48:41 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:48:41 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:48:41 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-09:48:42 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:48:42 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:48:42 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:48:42 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:48:42 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:48:42 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:48:42 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:48:42 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:48:42 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:48:42 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:48:42 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:48:42 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:48:42 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:48:42 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:48:42 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'bb6484c3b822383cfecaa2d59cac0ef3'}
+2023-05-09-09:48:42 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:48:42 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:48:42 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:48:42 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:48:42 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:48:42 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:48:42 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:48:42 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:48:42 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:48:42 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:48:42 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-09:48:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:48:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:48:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:48:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:48:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:48:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:48:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:48:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:48:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:48:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:48:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:48:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:52:05 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'a5e2ced3491e6e0fb84a6c69792a2b32'}
+2023-05-09-09:52:05 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': 'a5e2ced3491e6e0fb84a6c69792a2b32'}写入token.yml文件中
+2023-05-09-09:52:05 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': 'a5e2ced3491e6e0fb84a6c69792a2b32'}写入token.yml文件中
+2023-05-09-09:52:06 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:52:06 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:52:06 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:53:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a5e2ced3491e6e0fb84a6c69792a2b32'}
+2023-05-09-09:53:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a5e2ced3491e6e0fb84a6c69792a2b32'}
+2023-05-09-09:53:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a5e2ced3491e6e0fb84a6c69792a2b32'}
+2023-05-09-09:53:56 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a5e2ced3491e6e0fb84a6c69792a2b32'}
+2023-05-09-09:56:02 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:56:02 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:56:02 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:56:02 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:56:02 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:56:19 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:56:19 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:56:19 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:56:19 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:56:19 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:56:19 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:57:52 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'd1b9ca3ad18464a5b3ccb07350703f5b'}
+2023-05-09-09:57:52 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': 'd1b9ca3ad18464a5b3ccb07350703f5b'}写入token.yml文件中
+2023-05-09-09:57:52 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': 'd1b9ca3ad18464a5b3ccb07350703f5b'}写入token.yml文件中
+2023-05-09-09:57:53 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:57:53 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:57:53 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:57:53 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'd1b9ca3ad18464a5b3ccb07350703f5b'}
+2023-05-09-09:57:53 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'd1b9ca3ad18464a5b3ccb07350703f5b'}
+2023-05-09-09:57:53 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'd1b9ca3ad18464a5b3ccb07350703f5b'}
+2023-05-09-09:57:53 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'd1b9ca3ad18464a5b3ccb07350703f5b'}
+2023-05-09-09:57:53 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:57:53 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:57:53 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:57:53 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:57:53 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:57:53 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:57:53 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:57:53 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:57:53 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:57:53 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:57:53 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-09:58:34 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '35a3272b3d7fbe8050e1c0b98ea87dbb'}
+2023-05-09-09:58:34 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '35a3272b3d7fbe8050e1c0b98ea87dbb'}写入token.yml文件中
+2023-05-09-09:58:34 [get_token.py:29] [write_token_in_yaml] [INFO] 把{'token': '35a3272b3d7fbe8050e1c0b98ea87dbb'}写入token.yml文件中
+2023-05-09-09:58:35 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:58:35 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:58:35 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:58:35 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '35a3272b3d7fbe8050e1c0b98ea87dbb'}
+2023-05-09-09:58:35 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '35a3272b3d7fbe8050e1c0b98ea87dbb'}
+2023-05-09-09:58:35 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '35a3272b3d7fbe8050e1c0b98ea87dbb'}
+2023-05-09-09:58:35 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '35a3272b3d7fbe8050e1c0b98ea87dbb'}
+2023-05-09-09:58:35 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:58:35 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:58:35 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:58:35 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:58:35 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-09:59:58 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'ec031d83d81ec7642e55b4d9cc7ae5cc'}
+2023-05-09-09:59:59 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-09:59:59 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:01:25 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'ec031d83d81ec7642e55b4d9cc7ae5cc'}
+2023-05-09-10:01:25 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'ec031d83d81ec7642e55b4d9cc7ae5cc'}
+2023-05-09-10:01:25 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'ec031d83d81ec7642e55b4d9cc7ae5cc'}
+2023-05-09-10:02:35 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '04eb1746f196e1eb40cd1a7d0e9e5998'}
+2023-05-09-10:02:36 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:02:36 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:03:02 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '04eb1746f196e1eb40cd1a7d0e9e5998'}
+2023-05-09-10:03:02 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '04eb1746f196e1eb40cd1a7d0e9e5998'}
+2023-05-09-10:03:02 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '04eb1746f196e1eb40cd1a7d0e9e5998'}
+2023-05-09-10:03:54 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '7d36b5451ebd067af719d5d77c77a094'}
+2023-05-09-10:03:55 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:03:55 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:05:47 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '7d36b5451ebd067af719d5d77c77a094'}
+2023-05-09-10:05:47 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '7d36b5451ebd067af719d5d77c77a094'}
+2023-05-09-10:05:47 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '7d36b5451ebd067af719d5d77c77a094'}
+2023-05-09-10:07:08 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'cb681841655f413f7baf110d1b859029'}
+2023-05-09-10:07:09 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:07:09 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:07:36 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'cb681841655f413f7baf110d1b859029'}
+2023-05-09-10:07:36 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'cb681841655f413f7baf110d1b859029'}
+2023-05-09-10:07:36 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'cb681841655f413f7baf110d1b859029'}
+2023-05-09-10:09:33 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:09:33 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:09:33 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:09:33 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:15:06 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'd695fc2d30a7b25c4b2efd67702d34ba'}
+2023-05-09-10:15:07 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:15:07 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:16:55 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'd695fc2d30a7b25c4b2efd67702d34ba'}
+2023-05-09-10:16:55 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'd695fc2d30a7b25c4b2efd67702d34ba'}
+2023-05-09-10:16:55 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'd695fc2d30a7b25c4b2efd67702d34ba'}
+2023-05-09-10:21:09 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:21:09 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:21:09 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:21:09 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:21:17 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '54531dfd11b7a11df97a9e574b855aff'}
+2023-05-09-10:21:18 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:21:18 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:22:05 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '54531dfd11b7a11df97a9e574b855aff'}
+2023-05-09-10:22:05 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '54531dfd11b7a11df97a9e574b855aff'}
+2023-05-09-10:22:05 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '54531dfd11b7a11df97a9e574b855aff'}
+2023-05-09-10:39:33 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:39:33 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:39:33 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:39:33 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:39:41 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'caa0667dab5198a1dbec93495f7d7abf'}
+2023-05-09-10:39:42 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:39:42 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:39:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'caa0667dab5198a1dbec93495f7d7abf'}
+2023-05-09-10:39:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'caa0667dab5198a1dbec93495f7d7abf'}
+2023-05-09-10:39:42 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'caa0667dab5198a1dbec93495f7d7abf'}
+2023-05-09-10:39:42 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:39:42 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:39:42 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:39:42 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:39:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:39:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:39:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:39:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:39:42 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:40:17 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'e5a559d5bd57ec4d39f3f48d31b82701'}
+2023-05-09-10:40:18 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:40:18 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:40:18 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'e5a559d5bd57ec4d39f3f48d31b82701'}
+2023-05-09-10:40:18 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'e5a559d5bd57ec4d39f3f48d31b82701'}
+2023-05-09-10:40:18 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'e5a559d5bd57ec4d39f3f48d31b82701'}
+2023-05-09-10:40:18 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:40:18 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:40:18 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:40:18 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:40:18 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:40:18 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:40:18 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:40:18 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:40:18 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:40:36 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '126debcf93338362149f145d183aeb6d'}
+2023-05-09-10:40:37 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:40:37 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:40:37 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '126debcf93338362149f145d183aeb6d'}
+2023-05-09-10:40:37 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '126debcf93338362149f145d183aeb6d'}
+2023-05-09-10:40:37 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '126debcf93338362149f145d183aeb6d'}
+2023-05-09-10:40:37 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:40:37 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:40:37 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:40:37 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:42:25 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '28491be2da008177414eaff6fa64160b'}
+2023-05-09-10:42:26 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:42:26 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:42:26 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '28491be2da008177414eaff6fa64160b'}
+2023-05-09-10:42:26 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '28491be2da008177414eaff6fa64160b'}
+2023-05-09-10:42:26 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '28491be2da008177414eaff6fa64160b'}
+2023-05-09-10:42:26 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:42:26 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:42:26 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:42:26 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:43:37 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'c9d6a90e07f55e2d54b9a6c924b209ce'}
+2023-05-09-10:43:38 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:43:38 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:43:38 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'c9d6a90e07f55e2d54b9a6c924b209ce'}
+2023-05-09-10:43:38 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'c9d6a90e07f55e2d54b9a6c924b209ce'}
+2023-05-09-10:43:38 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'c9d6a90e07f55e2d54b9a6c924b209ce'}
+2023-05-09-10:43:38 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:43:38 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:43:38 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:43:38 [test_login.py:27] [test_quit_login] [INFO] 退出登录失败,请检查{'status': 500, 'msg': '用户未登录', 'data': []}
+2023-05-09-10:46:07 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'e3f3b4d629bb8c5ef7475ab5e88c3fda'}
+2023-05-09-10:46:07 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'e3f3b4d629bb8c5ef7475ab5e88c3fda'}
+2023-05-09-10:46:07 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'e3f3b4d629bb8c5ef7475ab5e88c3fda'}
+2023-05-09-10:46:07 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:46:07 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:46:07 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:47:01 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'a377ac172aca7492ec234858b5e3415f'}
+2023-05-09-10:47:02 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:47:02 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:47:02 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a377ac172aca7492ec234858b5e3415f'}
+2023-05-09-10:47:02 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a377ac172aca7492ec234858b5e3415f'}
+2023-05-09-10:47:02 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'a377ac172aca7492ec234858b5e3415f'}
+2023-05-09-10:47:02 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:47:02 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:47:02 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:47:02 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:47:19 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '6f9e025d6c32b6a190a50e605d928467'}
+2023-05-09-10:47:20 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:47:20 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:47:20 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '6f9e025d6c32b6a190a50e605d928467'}
+2023-05-09-10:47:20 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '6f9e025d6c32b6a190a50e605d928467'}
+2023-05-09-10:47:20 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': '6f9e025d6c32b6a190a50e605d928467'}
+2023-05-09-10:47:20 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:47:20 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:47:20 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:47:20 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:47:20 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:51:37 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:37 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:37 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:38 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-10:51:38 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-10:51:38 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-10:51:38 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:38 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:38 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:38 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:38 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-10:51:38 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-10:51:38 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-10:51:38 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-10:51:38 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-10:51:39 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:51:39 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:51:39 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:51:39 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:51:39 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:51:39 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:51:39 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:51:39 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:51:39 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:51:39 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:51:39 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:51:39 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:51:39 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [yaml_util.py:17] [read_extract_yaml] [INFO] 缓存数据读取成功{'token': 'b1a703e8c2dc6d3f3785ff6266f8c0b6'}
+2023-05-09-10:51:39 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:51:39 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:51:39 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:51:39 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:51:39 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:51:39 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:51:39 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:51:39 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:51:39 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:51:39 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:51:39 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:51:39 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:51:39 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:51:39 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:51:39 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:51:39 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:51:39 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:51:39 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:51:39 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:51:39 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:51:39 [yaml_util.py:30] [clear_extract_yaml] [INFO] 缓存数据清除成功
+2023-05-09-10:54:05 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-10:54:05 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-10:54:05 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-10:54:06 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:54:06 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:54:06 [test_login.py:16] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:54:06 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:54:06 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:54:06 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:54:06 [test_login.py:25] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:54:06 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:54:06 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:54:06 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:54:06 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:54:06 [test_task.py:23] [test_sign_task] [INFO] /api/user/task/signInReward接口请求失败，请检查：{'status': 401, 'msg': 'Not Login', 'data': []}
+2023-05-09-10:55:34 [test_login.py:17] [test_mobile_login] [INFO] 登录成功
+2023-05-09-10:55:34 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-10:55:34 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-10:55:34 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-10:55:34 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-10:55:34 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-10:55:34 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-10:55:34 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-10:55:34 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-10:55:34 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-10:55:34 [test_login.py:27] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:55:34 [test_login.py:27] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:55:34 [test_login.py:27] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:55:34 [test_login.py:27] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-10:55:34 [test_login.py:27] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:05:58 [test_login.py:18] [test_mobile_login] [INFO] 登录成功
+2023-05-09-11:05:58 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-11:05:58 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-11:05:58 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:05:58 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:05:58 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:05:58 [test_task.py:22] [test_sign_task] [INFO] 响应数据{'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-05-09-11:05:58 [test_task.py:22] [test_sign_task] [INFO] 响应数据{'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-05-09-11:05:58 [test_task.py:22] [test_sign_task] [INFO] 响应数据{'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-05-09-11:05:58 [test_task.py:22] [test_sign_task] [INFO] 响应数据{'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+2023-05-09-11:05:58 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:05:58 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:05:58 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:05:58 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:05:58 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:09:44 [test_login.py:18] [test_mobile_login] [INFO] 登录成功
+2023-05-09-11:09:44 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-11:09:44 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-11:09:44 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:09:44 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:09:44 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:09:44 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:09:44 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:09:44 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:09:44 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:09:44 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:09:44 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:09:44 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:09:44 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:09:44 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:11:01 [test_login.py:18] [test_mobile_login] [INFO] 登录成功
+2023-05-09-11:11:01 [test_activity.py:18] [test_get_activity_datas] [ERROR] [获取活动的基本信息]接口请求失败，请检查
+2023-05-09-11:11:01 [test_activity.py:18] [test_get_activity_datas] [ERROR] [获取活动的基本信息]接口请求失败，请检查
+2023-05-09-11:11:02 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:11:02 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:11:02 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:11:02 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:11:02 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:11:02 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:11:02 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:11:02 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:11:02 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:11:02 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:11:02 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:11:02 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:13:36 [test_login.py:18] [test_mobile_login] [INFO] 登录成功
+2023-05-09-11:13:36 [test_activity.py:18] [test_get_activity_datas] [ERROR] [获取活动的基本信息]接口请求失败，请检查
+2023-05-09-11:13:36 [test_activity.py:18] [test_get_activity_datas] [ERROR] [获取活动的基本信息]接口请求失败，请检查
+2023-05-09-11:13:36 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:13:36 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:13:36 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:13:36 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:13:36 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:13:36 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:13:36 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:15:01 [test_login.py:18] [test_mobile_login] [INFO] 登录成功
+2023-05-09-11:15:01 [test_activity.py:18] [test_get_activity_datas] [ERROR] [获取活动的基本信息]接口请求失败，请检查
+2023-05-09-11:15:01 [test_activity.py:18] [test_get_activity_datas] [ERROR] [获取活动的基本信息]接口请求失败，请检查
+2023-05-09-11:15:01 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:15:01 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:15:01 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:15:01 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:15:01 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:15:01 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:15:01 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:15:01 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:15:01 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:15:01 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:15:01 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:15:01 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:15:43 [test_login.py:18] [test_mobile_login] [INFO] 登录成功
+2023-05-09-11:15:43 [test_activity.py:18] [test_get_activity_datas] [ERROR] [获取活动的基本信息]接口请求失败，请检查
+2023-05-09-11:15:43 [test_activity.py:18] [test_get_activity_datas] [ERROR] [获取活动的基本信息]接口请求失败，请检查
+2023-05-09-11:15:43 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:15:43 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:15:43 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:15:43 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:15:43 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:15:43 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:15:43 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:15:43 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:16:58 [test_login.py:18] [test_mobile_login] [INFO] 登录成功
+2023-05-09-11:16:58 [test_activity.py:18] [test_get_activity_datas] [ERROR] [获取活动的基本信息]接口请求失败，请检查
+2023-05-09-11:16:58 [test_activity.py:18] [test_get_activity_datas] [ERROR] [获取活动的基本信息]接口请求失败，请检查
+2023-05-09-11:16:58 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:16:58 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:16:58 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:16:58 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:16:58 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:16:58 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:16:58 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:16:58 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:18:27 [test_login.py:18] [test_mobile_login] [INFO] 登录成功
+2023-05-09-11:18:27 [test_activity.py:18] [test_get_activity_datas] [ERROR] [获取活动的基本信息]接口请求失败，请检查
+2023-05-09-11:18:27 [test_activity.py:18] [test_get_activity_datas] [ERROR] [获取活动的基本信息]接口请求失败，请检查
+2023-05-09-11:18:27 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:18:27 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:18:27 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:18:27 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:18:27 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:18:27 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:18:27 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:18:27 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:18:27 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:18:27 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:18:27 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:18:27 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:18:52 [test_login.py:18] [test_mobile_login] [INFO] 登录成功
+2023-05-09-11:18:53 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-11:18:53 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-11:18:53 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:18:53 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:18:53 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:18:53 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:18:53 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:18:53 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:18:53 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:18:53 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:18:53 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:18:53 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:18:53 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:18:53 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:19:16 [test_login.py:18] [test_mobile_login] [INFO] 登录成功
+2023-05-09-11:19:16 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-11:19:16 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-11:19:16 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:19:16 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:19:16 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:19:16 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:19:16 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:19:16 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:19:16 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:20:57 [test_login.py:18] [test_mobile_login] [INFO] 登录成功
+2023-05-09-11:20:57 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-11:20:57 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-11:20:57 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:20:57 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:20:57 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:20:57 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:20:57 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:20:57 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:20:57 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:20:57 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:20:57 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:20:57 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:20:57 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:20:57 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:22:56 [test_login.py:18] [test_mobile_login] [INFO] 登录成功
+2023-05-09-11:22:56 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-11:22:56 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-11:22:56 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:22:56 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:22:56 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:22:56 [test_task.py:23] [test_sign_task] [CRITICAL] /api/user/task/signInReward接口请求失败，请检查
+2023-05-09-11:22:56 [test_task.py:23] [test_sign_task] [CRITICAL] /api/user/task/signInReward接口请求失败，请检查
+2023-05-09-11:22:56 [test_task.py:23] [test_sign_task] [CRITICAL] /api/user/task/signInReward接口请求失败，请检查
+2023-05-09-11:22:56 [test_task.py:23] [test_sign_task] [CRITICAL] /api/user/task/signInReward接口请求失败，请检查
+2023-05-09-11:22:56 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:22:56 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:22:56 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:22:56 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:22:56 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:23:28 [test_login.py:18] [test_mobile_login] [INFO] 登录成功
+2023-05-09-11:23:28 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-11:23:28 [test_activity.py:16] [test_get_activity_datas] [INFO] [获取活动的基本信息]接口请求成功
+2023-05-09-11:23:28 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:23:28 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:23:28 [test_activity.py:25] [test_get_activity_lucky_cases] [INFO] [获取活动盲盒数据（大转盘）]接口请求成功
+2023-05-09-11:23:28 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:23:28 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:23:28 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:23:28 [test_task.py:21] [test_sign_task] [INFO] 您已领取过签到奖励
+2023-05-09-11:23:28 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:23:28 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:23:28 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:23:28 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功
+2023-05-09-11:23:28 [test_login.py:29] [test_quit_login] [INFO] 退出登录成功

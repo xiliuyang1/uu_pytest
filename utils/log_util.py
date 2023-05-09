@@ -32,10 +32,12 @@ class LogUtil:
         return file_handler
 
     def set_formatter(self):
-        console_fmt = logging.Formatter(fmt="%(asctime)s [%(filename)s:%(lineno)d] [%(levelname)s] [%(message)s]",
-                                        datefmt="%Y-%m-%d-%H:%M:%S")
-        file_fmt = logging.Formatter(fmt="%(asctime)s [%(filename)s:%(lineno)d] [%(levelname)s] %(message)s",
-                                     datefmt="%Y-%m-%d-%H:%M:%S")
+        console_fmt = logging.Formatter(
+            fmt="%(asctime)s [%(filename)s:%(lineno)d] [%(funcName)s] [%(levelname)s] %(message)s",
+            datefmt="%Y-%m-%d-%H:%M:%S")
+        file_fmt = logging.Formatter(
+            fmt="%(asctime)s [%(filename)s:%(lineno)d] [%(funcName)s] [%(levelname)s] %(message)s",
+            datefmt="%Y-%m-%d-%H:%M:%S")
         return console_fmt, file_fmt
         # 给到两个日志的格式器
 

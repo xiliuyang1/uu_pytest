@@ -1,0 +1,15 @@
+-
+  name: 手机号注册
+  url: /api/user/phone/loginPassword
+  method: post
+  headers:
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+    accept-encoding: gzip, deflate, br
+    lang: zh-CN
+  datas:
+      mobile: 18838035853
+      password: qq111111
+      source: 1
+      ime: b195747cbb274a4f8d77aa9ba8a43077
+      channel: 1
+  status: 200

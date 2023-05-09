@@ -1,0 +1,7 @@
+-
+  name: 获取活动盲盒数据（大转盘）
+  method: get
+  url: /api/activity/lucky/info
+  headers:
+    token: '{{token()}}'
+    content-type: application/json; charset=UTF-8

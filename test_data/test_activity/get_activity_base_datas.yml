@@ -3,5 +3,5 @@
   method: get
   url: /api/activity/activity/get-activity-by-code
   headers:
-    token: '{{get_token()}}'
+    token: '{{token()}}'
     content-type: application/json; charset=UTF-8
