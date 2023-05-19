@@ -1,1 +1,0 @@
-INFO     logger:requests_util.py:29 获取活动盲盒数据（大转盘）接口请求成功

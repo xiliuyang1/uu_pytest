@@ -14,12 +14,12 @@ def read_yaml(file_name):
 def read_extract_yaml(file_name):
     with open(os.getcwd().split('utils')[0] + "/test_data" + file_name, mode='r', encoding='utf-8') as f:
         params = yaml.load(stream=f, Loader=yaml.FullLoader)
-        # LogUtil().set_log().info("缓存数据读取成功{}".format(params))
+        LogUtil().set_log().info("缓存数据读取成功{}".format(params))
         return params
 
 
 def write_extract_yaml(data, file_name="/common/token.yml"):
-    with open(os.getcwd().split('utils')[0] + "/test_data" + str(file_name), mode='w', encoding='utf-8') as f:
+    with open(os.getcwd().split('utils')[0] + "/test_data" + str(file_name), mode='a', encoding='utf-8') as f:
         yaml.dump(data, f, Dumper=yaml.SafeDumper)
     LogUtil().set_log().info("缓存数据写入成功{}".format(data))
 
@@ -27,7 +27,7 @@ def write_extract_yaml(data, file_name="/common/token.yml"):
 def clear_extract_yaml(file_name="/common/token.yml"):
     with open(os.getcwd().split('utils')[0] + "/test_data" + file_name, mode='w', encoding='utf-8') as f:
         f.truncate()
-    # LogUtil().set_log().info("缓存数据清除成功")
+    LogUtil().set_log().info("{}文件中的缓存数据清除成功".format(file_name))
 
 
 def read_variable_yaml(datas):

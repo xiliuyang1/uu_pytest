@@ -26,7 +26,7 @@ class RequestsUtil:
                                                    stream=stream, verify=verify, cert=cert)
             if res.json()['status'] == 200:
                 RequestsUtil().getresponsevalue(res, verify)
-                my_logging.info("{}接口请求成功".format(testcasename))
+                my_logging.info("{}接口请求成功{}".format(testcasename,res.json()))
                 return res
             elif res.json()['status'] != 200:
                 my_logging.warning("{}接口请求异常，响应体：{}".format(testcasename, res.json()))

@@ -75,6 +75,8 @@ class LogUtil:
         # 给到两个日志的格式器
 
     def set_log(self):
+        # 每次创建handler时先清空handler
+        self.logger.handlers.clear()
         # 给日志器添加处理器：
         self.logger.addHandler(self.file_handler())
         self.logger.addHandler(self.console_handler())

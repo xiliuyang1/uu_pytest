@@ -1,2 +1,0 @@
-INFO     logger:requests_util.py:29 生成活动页充值订单接口请求成功
-INFO     logger:yaml_util.py:24 缓存数据写入成功{'order_id': '1133531720739688448'}
