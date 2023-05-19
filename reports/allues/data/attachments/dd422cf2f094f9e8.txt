@@ -1,0 +1,3 @@
+INFO     logger:requests_util.py:29 获取token接口请求成功
+INFO     logger:yaml_util.py:24 缓存数据写入成功{'token': 'b185b6afd35b7549a25996d304d8e266'}
+INFO     logger:requests_util.py:29 获取活动的基本信息接口请求成功

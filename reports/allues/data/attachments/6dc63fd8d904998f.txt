@@ -1,1 +1,0 @@
-INFO     logger:test_activity.py:16 [获取活动的基本信息]接口请求成功

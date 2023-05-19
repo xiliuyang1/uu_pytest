@@ -21,7 +21,7 @@ def read_extract_yaml(file_name):
 def write_extract_yaml(data, file_name="/common/token.yml"):
     with open(os.getcwd().split('utils')[0] + "/test_data" + str(file_name), mode='w', encoding='utf-8') as f:
         yaml.dump(data, f, Dumper=yaml.SafeDumper)
-    # LogUtil().set_log().info("缓存数据写入成功{}".format(data))
+    LogUtil().set_log().info("缓存数据写入成功{}".format(data))
 
 
 def clear_extract_yaml(file_name="/common/token.yml"):

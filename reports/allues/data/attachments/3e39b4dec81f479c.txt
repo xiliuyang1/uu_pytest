@@ -1,1 +1,0 @@
-INFO     logger:test_task.py:21 您已领取过签到奖励

@@ -4,4 +4,3 @@
   headers:
     token: "{{token()}}"
     lang: zh-CN
-  status: 200

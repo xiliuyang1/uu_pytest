@@ -5,3 +5,6 @@
   headers:
     token: '{{token()}}'
     content-type: application/json; charset=UTF-8
+  datas:
+    cases_code: CSGO_MAJOR_PARIS_JOIN
+    channel: 4

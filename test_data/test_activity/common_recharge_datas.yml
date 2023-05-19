@@ -1,0 +1,9 @@
+-
+  name: 生成普通充值订单
+  method: post
+  url: /api/pay/payment/recharge
+  headers:
+    token: '{{token()}}'
+  datas:
+    amount: 600
+    type: alipay

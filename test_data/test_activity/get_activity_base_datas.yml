@@ -5,3 +5,5 @@
   headers:
     token: '{{token()}}'
     content-type: application/json; charset=UTF-8
+  datas:
+    code: CSGO_IEM_RIO

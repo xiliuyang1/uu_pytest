@@ -1,0 +1,10 @@
+-
+  name: 手动设置充值订单成功
+  method: post
+  url: /api/pay/payment/setOrderSuccess
+  headers:
+    token: '{{token()}}'
+    content-type: application/json; charset=UTF-8
+  datas:
+    order_id: "read_extract_yaml('/common/extract_datas.yml')['order_id']"
+    out_trade_no: 123456

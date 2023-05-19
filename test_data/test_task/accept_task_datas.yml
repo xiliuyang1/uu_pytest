@@ -1,0 +1,23 @@
+-
+  name: 领取任务
+  url: /api/user/task/accept
+  method: post
+  headers:
+    token: "{{token()}}"
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  data:
+    task_ids: 927679338376298496
+-
+  name: 领取任务
+  url: /api/user/task/accept
+  method: post
+  headers:
+    token: "{{token()}}"
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  data:
+    task_ids: 1100221882222874624
+  verify:
+    data: True
+    msg: OK

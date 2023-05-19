@@ -1,1 +1,0 @@
-INFO     logger:test_activity.py:25 [获取活动盲盒数据（大转盘）]接口请求成功

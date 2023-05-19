@@ -1,0 +1,129 @@
+2023-05-19-11:27:00 [requests_util.py:29] [send_request] [INFO] 获取token接口请求成功
+2023-05-19-11:27:00 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '7030ff3b15fd30129b19d8adab9fc4b1'}
+2023-05-19-11:27:00 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '7030ff3b15fd30129b19d8adab9fc4b1'}
+2023-05-19-11:27:00 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:27:00 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:27:00 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:27:00 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:29:02 [requests_util.py:29] [send_request] [INFO] 获取token接口请求成功
+2023-05-19-11:29:02 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '94738fcbefe72a80a7f0a0a0d0272bd4'}
+2023-05-19-11:29:02 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '94738fcbefe72a80a7f0a0a0d0272bd4'}
+2023-05-19-11:29:02 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:29:02 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:29:02 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:29:02 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:30:13 [requests_util.py:29] [send_request] [INFO] 获取token接口请求成功
+2023-05-19-11:30:13 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '521f766a7b764abb118828523925ad33'}
+2023-05-19-11:30:13 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '521f766a7b764abb118828523925ad33'}
+2023-05-19-11:30:14 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:30:14 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:30:14 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:30:14 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:30:14 [requests_util.py:32] [send_request] [WARNING] 活动页充值接口接口请求异常，响应体：{'status': 0, 'msg': '参数异常', 'data': []}
+2023-05-19-11:30:14 [requests_util.py:32] [send_request] [WARNING] 活动页充值接口接口请求异常，响应体：{'status': 0, 'msg': '参数异常', 'data': []}
+2023-05-19-11:33:44 [requests_util.py:29] [send_request] [INFO] 获取token接口请求成功
+2023-05-19-11:33:44 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'c6781cdb30fccb62af35ccb7bb8a456a'}
+2023-05-19-11:33:44 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'c6781cdb30fccb62af35ccb7bb8a456a'}
+2023-05-19-11:33:44 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:33:44 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:33:44 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:33:44 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:33:44 [requests_util.py:32] [send_request] [WARNING] 活动页充值接口接口请求异常，响应体：{'status': 0, 'msg': '参数异常', 'data': []}
+2023-05-19-11:33:44 [requests_util.py:32] [send_request] [WARNING] 活动页充值接口接口请求异常，响应体：{'status': 0, 'msg': '参数异常', 'data': []}
+2023-05-19-11:35:00 [requests_util.py:29] [send_request] [INFO] 获取token接口请求成功
+2023-05-19-11:35:00 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '1b466fbf978dc795b5246cab47d58f95'}
+2023-05-19-11:35:00 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '1b466fbf978dc795b5246cab47d58f95'}
+2023-05-19-11:35:00 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:35:00 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:35:00 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:35:00 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:35:00 [requests_util.py:32] [send_request] [WARNING] 生成活动页充值订单接口请求异常，响应体：{'status': 0, 'msg': '参数异常', 'data': []}
+2023-05-19-11:35:00 [requests_util.py:32] [send_request] [WARNING] 生成活动页充值订单接口请求异常，响应体：{'status': 0, 'msg': '参数异常', 'data': []}
+2023-05-19-11:35:42 [requests_util.py:29] [send_request] [INFO] 获取token接口请求成功
+2023-05-19-11:35:42 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '82b931b1535e30c86e4b0e0b4f55c69b'}
+2023-05-19-11:35:42 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '82b931b1535e30c86e4b0e0b4f55c69b'}
+2023-05-19-11:35:42 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:35:42 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:35:43 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:35:43 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:36:24 [requests_util.py:32] [send_request] [WARNING] 生成活动页充值订单接口请求异常，响应体：{'status': 0, 'msg': '参数异常', 'data': []}
+2023-05-19-11:36:24 [requests_util.py:32] [send_request] [WARNING] 生成活动页充值订单接口请求异常，响应体：{'status': 0, 'msg': '参数异常', 'data': []}
+2023-05-19-11:39:31 [requests_util.py:29] [send_request] [INFO] 获取token接口请求成功
+2023-05-19-11:39:31 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '93d2167838fa2471ad2f4fec0298e0e4'}
+2023-05-19-11:39:31 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '93d2167838fa2471ad2f4fec0298e0e4'}
+2023-05-19-11:39:31 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:39:31 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:39:31 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:39:31 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:43:34 [requests_util.py:29] [send_request] [INFO] 获取token接口请求成功
+2023-05-19-11:43:34 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '6dd9e63505393f1ea84dd021e5894828'}
+2023-05-19-11:43:34 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '6dd9e63505393f1ea84dd021e5894828'}
+2023-05-19-11:43:34 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:43:34 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:43:35 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:43:35 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:44:01 [requests_util.py:32] [send_request] [WARNING] 生成活动页充值订单接口请求异常，响应体：{'status': 0, 'msg': '参数异常', 'data': []}
+2023-05-19-11:44:01 [requests_util.py:32] [send_request] [WARNING] 生成活动页充值订单接口请求异常，响应体：{'status': 0, 'msg': '参数异常', 'data': []}
+2023-05-19-11:45:11 [requests_util.py:29] [send_request] [INFO] 获取token接口请求成功
+2023-05-19-11:45:11 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'da168e5b2f43eed0e1ee9a94a9d17fc3'}
+2023-05-19-11:45:11 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'da168e5b2f43eed0e1ee9a94a9d17fc3'}
+2023-05-19-11:45:11 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:45:11 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:45:12 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:45:12 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:45:12 [requests_util.py:32] [send_request] [WARNING] 生成活动页充值订单接口请求异常，响应体：{'status': 500, 'msg': '充值金额非法', 'data': []}
+2023-05-19-11:45:12 [requests_util.py:32] [send_request] [WARNING] 生成活动页充值订单接口请求异常，响应体：{'status': 500, 'msg': '充值金额非法', 'data': []}
+2023-05-19-11:45:42 [requests_util.py:29] [send_request] [INFO] 获取token接口请求成功
+2023-05-19-11:45:42 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'd1aa20df16613429528892a1e3e3bc67'}
+2023-05-19-11:45:42 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'd1aa20df16613429528892a1e3e3bc67'}
+2023-05-19-11:45:42 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:45:42 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:45:42 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:45:42 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:45:42 [requests_util.py:32] [send_request] [WARNING] 生成活动页充值订单接口请求异常，响应体：{'status': 500, 'msg': '充值金额非法', 'data': []}
+2023-05-19-11:45:42 [requests_util.py:32] [send_request] [WARNING] 生成活动页充值订单接口请求异常，响应体：{'status': 500, 'msg': '充值金额非法', 'data': []}
+2023-05-19-11:52:18 [requests_util.py:29] [send_request] [INFO] 获取token接口请求成功
+2023-05-19-11:52:18 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '9dccd56ac3f2a9b5a308ddc30949dcf5'}
+2023-05-19-11:52:18 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '9dccd56ac3f2a9b5a308ddc30949dcf5'}
+2023-05-19-11:52:18 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:52:18 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:52:18 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:52:18 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:52:18 [requests_util.py:32] [send_request] [WARNING] 普通充值接口接口请求异常，响应体：{'status': 500, 'msg': '充值金额非法', 'data': []}
+2023-05-19-11:52:18 [requests_util.py:32] [send_request] [WARNING] 普通充值接口接口请求异常，响应体：{'status': 500, 'msg': '充值金额非法', 'data': []}
+2023-05-19-11:53:43 [requests_util.py:29] [send_request] [INFO] 获取token接口请求成功
+2023-05-19-11:53:43 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'befd762f8a8ad3da9cf13baf722adaf0'}
+2023-05-19-11:53:43 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'befd762f8a8ad3da9cf13baf722adaf0'}
+2023-05-19-11:53:44 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:53:44 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:53:44 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:53:44 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:53:44 [requests_util.py:32] [send_request] [WARNING] 生成普通充值订单接口请求异常，响应体：{'status': 500, 'msg': '为了保障您账号的安全，充值前请先完成实名认证', 'data': []}
+2023-05-19-11:53:44 [requests_util.py:32] [send_request] [WARNING] 生成普通充值订单接口请求异常，响应体：{'status': 500, 'msg': '为了保障您账号的安全，充值前请先完成实名认证', 'data': []}
+2023-05-19-11:54:59 [requests_util.py:29] [send_request] [INFO] 获取token接口请求成功
+2023-05-19-11:54:59 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '8cc2e3730ddc0410f2f2bc635c63a75b'}
+2023-05-19-11:54:59 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': '8cc2e3730ddc0410f2f2bc635c63a75b'}
+2023-05-19-11:54:59 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:54:59 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:54:59 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:54:59 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:55:02 [requests_util.py:29] [send_request] [INFO] 生成普通充值订单接口请求成功
+2023-05-19-11:55:02 [requests_util.py:29] [send_request] [INFO] 生成普通充值订单接口请求成功
+2023-05-19-11:56:23 [requests_util.py:29] [send_request] [INFO] 获取token接口请求成功
+2023-05-19-11:56:23 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'b185b6afd35b7549a25996d304d8e266'}
+2023-05-19-11:56:23 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'token': 'b185b6afd35b7549a25996d304d8e266'}
+2023-05-19-11:56:23 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:56:23 [requests_util.py:29] [send_request] [INFO] 获取活动的基本信息接口请求成功
+2023-05-19-11:56:23 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:56:23 [requests_util.py:29] [send_request] [INFO] 获取活动盲盒数据（大转盘）接口请求成功
+2023-05-19-11:56:26 [requests_util.py:29] [send_request] [INFO] 生成活动页充值订单接口请求成功
+2023-05-19-11:56:26 [requests_util.py:29] [send_request] [INFO] 生成活动页充值订单接口请求成功
+2023-05-19-11:56:26 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'order_id': '1133531720739688448'}
+2023-05-19-11:56:26 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'order_id': '1133531720739688448'}
+2023-05-19-11:56:26 [yaml_util.py:24] [write_extract_yaml] [INFO] 缓存数据写入成功{'order_id': '1133531720739688448'}
+2023-05-19-11:56:28 [requests_util.py:29] [send_request] [INFO] 生成普通充值订单接口请求成功
+2023-05-19-11:56:28 [requests_util.py:29] [send_request] [INFO] 生成普通充值订单接口请求成功
+2023-05-19-11:56:28 [requests_util.py:29] [send_request] [INFO] 生成普通充值订单接口请求成功
+2023-05-19-11:56:28 [requests_util.py:29] [send_request] [INFO] 手动设置充值订单成功接口请求成功
+2023-05-19-11:56:28 [requests_util.py:29] [send_request] [INFO] 手动设置充值订单成功接口请求成功
+2023-05-19-11:56:28 [requests_util.py:29] [send_request] [INFO] 手动设置充值订单成功接口请求成功
