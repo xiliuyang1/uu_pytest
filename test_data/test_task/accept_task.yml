@@ -1,0 +1,37 @@
+-
+  name: 领取【累计充值5豆】任务
+  url: /api/user/task/accept
+  method: post
+  headers:
+    token: "{{token()}}"
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  datas:
+    task_ids: 927679338376298496
+    # 可用逗号隔开多个任务一起接受
+-
+  name: 领取【开箱消耗10000豆】任务
+  url: /api/user/task/accept
+  method: post
+  headers:
+    token: "{{token()}}"
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  datas:
+    task_ids: 1100221882222874624
+  verify:
+    data: True
+    msg: OK
+-
+  name: 同时领取多个任务【成功开箱2次】【预测胜利1场】
+  url: /api/user/task/accept
+  method: post
+  headers:
+    token: "{{token()}}"
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  datas:
+    task_ids: 925202954360340481，1100218284307738624
+  verify:
+    data: True
+    msg: OK

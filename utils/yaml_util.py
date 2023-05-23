@@ -80,6 +80,6 @@ def token():
 
 if __name__ == '__main__':
     # datas = read_variable_yaml('/test_activity/get_activity_base_datas.yml')
-    datas = read_yaml('/test_task/task_datas.yml')
+    datas = read_yaml('/test_task/sign_task.yml')
     # datas = read_yaml('/common/token.yml')
     print(datas)

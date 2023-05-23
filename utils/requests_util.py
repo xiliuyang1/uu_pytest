@@ -25,8 +25,8 @@ class RequestsUtil:
                                                    allow_redirects=allow_redirects, proxies=proxies, hooks=hooks,
                                                    stream=stream, verify=verify, cert=cert)
             if res.json()['status'] == 200:
-                RequestsUtil().getresponsevalue(res, verify)
-                my_logging.info("{}接口请求成功{}".format(testcasename,res.json()))
+                RequestsUtil().set_verify_result(res, verify)
+                my_logging.info("{}接口请求成功{}".format(testcasename, res.json()))
                 return res
             elif res.json()['status'] != 200:
                 my_logging.warning("{}接口请求异常，响应体：{}".format(testcasename, res.json()))
@@ -34,7 +34,7 @@ class RequestsUtil:
         except Exception as e:
             print(e)
 
-    def getresponsevalue(self, response, verify):
+    def set_verify_result(self, response, verify):
         if verify is not None:
             for key, value in verify:
                 check_value = jsonpath.jsonpath(response.json(), key)
