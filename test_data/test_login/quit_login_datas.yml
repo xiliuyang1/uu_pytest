@@ -1,0 +1,6 @@
+- name: 退出登录
+  url: /api/user/user/loginOut
+  method: post
+  headers:
+    token: "{{token()}}"
+    lang: zh-CN

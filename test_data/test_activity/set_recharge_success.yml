@@ -1,0 +1,4 @@
+-
+  name: 手动设置充值订单成功
+  method: post
+  url: /api/pay/payment/setOrderSuccess

@@ -1,0 +1,5 @@
+host: "47.102.202.179"
+port: "3306"
+user: "root"
+password: "Skins@2019"
+db: "guess_pay"

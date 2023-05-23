@@ -1,0 +1,7 @@
+-
+  name: 获取任务列表
+  method: get
+  url: /api/user/task/list
+  headers:
+    token: "{{token()}}"
+    lang: zh-CN

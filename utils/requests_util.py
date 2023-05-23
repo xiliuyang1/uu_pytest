@@ -1,37 +1,108 @@
-
-import json
-
+import allure
+import jsonpath
+import pytest
 import requests
+
+from utils.log_util import my_logging
+from utils.yaml_util import read_yaml
 
 
 class RequestsUtil:
     session = requests.session()
 
-    def send_request(self, method, url, data, **kwargs):
+    def send_request(self, testcasename=None, method=None, url=None, data=None, headers=None, cookies=None, files=None,
+                     auth=None, timeout=None, allow_redirects=True, proxies=None, hooks=None, stream=None, verify=None,
+                     cert=None):
         method = str(method).lower()
-        if method == 'get':
-            # print(method)
-            res = RequestsUtil.session.request(method=method, url=url, params=data, **kwargs)
-            return res
-        elif method == 'post':
-            # print(method)
-            datas = json.dumps(data)  # 序列化，不知道data是什么格式，所以统一转换成字符串格式，通过data方式传参
-            res = RequestsUtil.session.request(method=method, url=url, data=data, **kwargs)
-            return res
+        base_url = read_yaml("/common/host_config_datas.yml")['host']
+        try:
+            if method == 'get':
+                res = RequestsUtil.session.request(method="get", url=base_url + url, params=data, headers=headers,
+                                                   cookies=cookies, files=files, auth=auth, timeout=timeout,
+                                                   allow_redirects=allow_redirects, proxies=proxies, hooks=hooks,
+                                                   stream=stream, verify=verify, cert=cert)
+            elif method == 'post':
+                res = RequestsUtil.session.request(method="post", url=base_url + url, data=data, headers=headers,
+                                                   cookies=cookies, files=files, auth=auth, timeout=timeout,
+                                                   allow_redirects=allow_redirects, proxies=proxies, hooks=hooks,
+                                                   stream=stream, verify=verify, cert=cert)
+            if res.json()['status'] == 200:
+                my_logging.info("{}接口请求成功{}".format(testcasename, res.json()))
+                RequestsUtil().set_verify_result(res, verify, testcasename=testcasename)
+                return res
+            elif res.json()['status'] != 200:
+                my_logging.error("{}接口请求异常，响应体：{}".format(testcasename, res.json()))
+                return res
+        except Exception as e:
+            print(e)
 
-def test_resign_email():
-    url = 'http://dev.uugamer.com/api/user/mail/register'
-    data = {
-        'mail': '123a96@gmail.com',
-        'code': 8888,
-        'password': 'qq111111',
-        'mobile_code': +86,
-        'source': 1
-    }
-    headers = {'Content-Type': 'application/x-www-form-urlencoded;charset=UTF-8', 'lang': 'zh-CN'}
-    rq = RequestsUtil().send_request(method='post', url=url, data=data, headers=headers)
-    print(rq.json())
-
-
-if __name__ == '__main__':
-    test_resign_email()
+    def set_verify_result(self, res=None, verify=None, testcasename=None):
+        if verify is None:
+            pass
+        if verify is not None:
+            for validateitem in verify:
+                for key in validateitem.keys():
+                    # 获取断言的预期结果：
+                    validatelist = validateitem[key]
+                    if isinstance(validatelist, dict):
+                        for verify_key, verify_value in validatelist.items():
+                            # 获取响应数据中各字段的实际响应值：（json提取器）
+                            result_value = jsonpath.jsonpath(res.json(), verify_key)
+                            if not result_value:
+                                pytest.assume(False)
+                                my_logging.info(testcasename + "接口返回值:" + str(
+                                    res.json()) + "断言：" + str(verify_key) + "=" + str(verify_value) + "断言失败")
+                                allure.dynamic.description(testcasename + "接口返回值:" + str(
+                                    res.json()) + "断言：" + str(verify_key) + "=" + str(verify_value) + "断言失败")
+                                continue
+                            if result_value is not None and result_value != "":
+                                if key.upper() == "EQ":
+                                    print(str(result_value[0])+str(verify_value))
+                                    if pytest.assume(str(result_value[0]) == str(verify_value)):
+                                        my_logging.info(testcasename + "接口返回值:" + str(
+                                            res.json()) + "断言：" + str(verify_key) + "=" + str(
+                                            verify_value) + "断言成功")
+                                    else:
+                                        my_logging.info(testcasename + "接口返回值:" + str(
+                                            res.json()) + "断言：" + str(verify_key) + "=" + str(
+                                            verify_value) + "断言失败")
+                                    allure.dynamic.description(testcasename + "接口返回值:" + str(
+                                        res.json()) + "断言：" + str(verify_key) + "=" + str(
+                                        verify_value) + "断言失败")
+                                    continue
+                                elif key.upper() == "CONTAIN":
+                                    if str(result_value[0]).find(verify_value) == -1:
+                                        pytest.assume(False)
+                                        my_logging.info(testcasename + "接口返回值:" + str(
+                                            res.json()) + "断言：" + str(verify_key) + "=" + str(
+                                            verify_value) + "断言失败")
+                                        allure.dynamic.description(testcasename + "接口返回值:" + str(
+                                            res.json()) + "断言：" + str(verify_key) + "=" + str(
+                                            verify_value) + "断言失败")
+                                        continue
+                                    else:
+                                        pytest.assume(True)
+                                        my_logging.info(testcasename + "接口返回值:" + str(
+                                            res.json()) + "断言：" + str(verify_key) + "=" + str(
+                                            verify_value) + "断言成功")
+                                elif key.upper() == "NOT NULL":
+                                    if len(str(result_value[0])) > 0:
+                                        pytest.assume(True)
+                                        my_logging.info(testcasename + "接口返回值:" + str(
+                                            res.json()) + "断言：" + str(verify_key) + "=" + str(
+                                            verify_value) + "断言成功")
+                                    else:
+                                        pytest.assume(False)
+                                        my_logging.info(testcasename + "接口返回值:" + str(
+                                            res.json()) + "断言：" + str(verify_key) + "=" + str(
+                                            verify_value) + "断言失败")
+                                        allure.dynamic.description(testcasename + "接口返回值:" + str(
+                                            res.json()) + "断言：" + str(verify_key) + "=" + str(
+                                            verify_value) + "断言失败")
+                                        continue
+                            else:
+                                pytest.assume(False)
+                                my_logging.info(testcasename + "接口返回值:" + str(
+                                    res.json()) + "断言：" + str(verify_key) + "=" + str(verify_value) + "断言失败")
+                                allure.dynamic.description(testcasename + "接口返回值:" + str(
+                                    res.json()) + "断言：" + str(verify_key) + "=" + str(verify_value) + "断言失败")

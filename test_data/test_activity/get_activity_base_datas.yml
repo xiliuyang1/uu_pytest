@@ -1,0 +1,9 @@
+-
+  name: 获取活动的基本信息
+  method: get
+  url: /api/activity/activity/get-activity-by-code
+  headers:
+    token: '{{token()}}'
+    content-type: application/json; charset=UTF-8
+  datas:
+    code: CSGO_IEM_RIO

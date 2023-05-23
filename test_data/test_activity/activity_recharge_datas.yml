@@ -1,0 +1,10 @@
+-
+  name: 生成活动页充值订单
+  method: post
+  url: /api/pay/payment/recharge
+  headers:
+    token: '{{token()}}'
+  datas:
+    amount: 600
+    type: alipay
+    channel: 4

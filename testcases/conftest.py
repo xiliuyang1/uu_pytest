@@ -1,9 +1,18 @@
 import pytest
 
-from utils.yaml_util import read_yaml
+from common.get_token import set_token
+from utils.yaml_util import clear_extract_yaml, read_yaml
 
 
-@pytest.fixture(scope="function")
-def get_token():
-    token = read_yaml('/test_data/common/token.yml')['token']
-    return token
+@pytest.fixture(scope="session",autouse=True)
+def setup():
+    clear_list = read_yaml('/common/cache_file_list.yml')
+    print(clear_list)
+    for item in clear_list:
+        clear_extract_yaml(item)
+    set_token()
+    print("--------测试开始--------")
+
+    yield
+    print("--------测试结束--------")
+

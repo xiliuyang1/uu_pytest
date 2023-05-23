@@ -1,4 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Apr 26 16:37:57 CST 2023","Wed Apr 26 16:37:58 CST 2023","1061","testcases","test_login","TestLogin","","","正确手机号密码登录",""
-"passed","Wed Apr 26 16:37:58 CST 2023","Wed Apr 26 16:37:58 CST 2023","49","testcases","test_task","TestTask","","","签到任务",""
-"passed","Wed Apr 26 16:37:58 CST 2023","Wed Apr 26 16:37:58 CST 2023","60","testcases","test_login","TestLogin","","","退出登录",""
+"passed","Tue May 23 14:36:32 CST 2023","Tue May 23 14:36:32 CST 2023","186","testcases","test_task","TestTask","","","签到任务接口","签到任务接口返回值:{'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}断言：$..status=200断言失败"

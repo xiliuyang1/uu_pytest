@@ -1,0 +1,61 @@
+-
+  name: 正确手机号注册
+  url: /api/user/phone/register
+  method: post
+  headers:
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  datas:
+    mobile_code: +86
+    mobile: "{{get_random_mobile()}}"
+    password: qq111111
+    code: 8888
+-
+  name: 手机号为空
+  url: /api/user/phone/register
+  method: post
+  headers:
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  datas:
+    mobile_code: +86
+    mobile:
+    password: qq111111
+    code: 8888
+-
+  name: 手机号长度不足11位
+  url: /api/user/phone/register
+  method: post
+  headers:
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  datas:
+    mobile_code: +86
+    mobile: 1881111111
+    password: qq111111
+    code: 8888
+
+-
+  name: 密码长度不满足8-16位
+  url: /api/user/phone/register
+  method: post
+  headers:
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  datas:
+    mobile_code: +86
+    mobile: "{{get_random_mobile()}}"
+    password: 11111111111111111111
+    code: 8888
+-
+  name: 密码纯数字
+  url: /api/user/phone/register
+  method: post
+  headers:
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  datas:
+    mobile_code: +86
+    mobile: "{{get_random_mobile()}}"
+    password: 111111
+    code: 8888
