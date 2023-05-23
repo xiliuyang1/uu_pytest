@@ -1,0 +1,10 @@
+-
+  name: 领取任务奖励
+  url: /api/user/task/receive
+  method: post
+  headers:
+    token: "{{token()}}"
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  datas:
+    task_id: 927679338376298496

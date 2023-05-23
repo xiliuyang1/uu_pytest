@@ -1,0 +1,44 @@
+-
+  name: 正确邮箱注册
+  url: /api/user/mail/register
+  method: post
+  headers:
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  datas:
+    mail: "{{get_random_email()}}"
+    password: qq111111
+    code: 8888
+-
+  name: 邮箱号为空
+  url: /api/user/mail/register
+  method: post
+  headers:
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  datas:
+    mail:
+    password: qq111111
+    code: 8888
+-
+  name: 密码长度不满足8-16位
+  url: /api/user/mail/register
+  method: post
+  headers:
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  datas:
+    mail: "{{get_random_email()}}"
+    password: 11111111111111111111
+    code: 8888
+-
+  name: 密码纯数字
+  url: /api/user/mail/register
+  method: post
+  headers:
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded; charset=UTF-8
+  datas:
+    mail: "{{get_random_email()}}"
+    password: 111111
+    code: 8888

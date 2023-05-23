@@ -8,7 +8,7 @@ from utils.yaml_util import read_yaml, read_variable_yaml
 class TestLogin:
     @pytest.mark.parametrize("caseinfo", read_yaml('/test_login/login_datas.yml'))
     @pytest.mark.run(order=1)
-    def test_mobile_login(self, caseinfo):
+    def test_login(self, caseinfo):
         allure.dynamic.title(caseinfo["name"])
         name = caseinfo['name']
         method = caseinfo['method']

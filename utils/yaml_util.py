@@ -1,6 +1,8 @@
 # -*- coding: UTF-8 -*-
 
 import os
+import random
+
 import yaml
 from utils.log_util import LogUtil
 
@@ -78,8 +80,28 @@ def token():
     return token
 
 
+"""
+random.randint(a,b) 方法，生成一个 a 与 b 之间的随机整数，也就是 (a,b)
+random.randrange(a,b) 方法, 生成一个 a 与 b 之间的不包含 b 的随机整数， [a, b) ，
+random.uniform(a, b) 方法， 生成 [a, b] 之间的随机浮点数
+
+"""
+
+
+def get_random_mobile():
+    random_num = str(random.randint(1000, 9999))
+    random_mobile = str(1883803) + random_num
+    return random_mobile
+
+
+def get_random_email():
+    random_num = str(random.randint(1000, 9999))
+    random_email = str(1883803) + random_num + "@163.com"
+    return random_email
+
+
 if __name__ == '__main__':
     # datas = read_variable_yaml('/test_activity/get_activity_base_datas.yml')
-    datas = read_yaml('/test_task/task_datas.yml')
+    datas = read_yaml('/test_task/sign_task.yml')
     # datas = read_yaml('/common/token.yml')
     print(datas)

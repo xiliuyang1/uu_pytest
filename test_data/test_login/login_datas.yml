@@ -1,4 +1,4 @@
-- id: test_phone_psd_login_01
+-
   name: 正确手机号密码登录
   url: /api/user/phone/loginPassword
   method: post
@@ -10,4 +10,71 @@
     ime: 97dd9609edd4c7bc52f36276c9cefd2b
     password: qq111111
     mobile: 18069776400
+  status: 200
+
+-
+  name: 正确手机号验证码登录
+  url: /api/user/phone/login
+  method: post
+  headers:
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    source: 1
+    ime: 97dd9609edd4c7bc52f36276c9cefd2b
+    code: 8888
+    mobile: 18069776400
+  status: 200
+-
+  name: 正确邮箱密码登录
+  url: /api/user/mail/loginPassword
+  method: post
+  headers:
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    source: 1
+    ime: 97dd9609edd4c7bc52f36276c9cefd2b
+    password: qq111111
+    mail: 1209334084@qq.com
+  status: 200
+-
+  name: 正确邮箱验证码登录
+  url: /api/user/mail/login
+  method: post
+  headers:
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    source: 1
+    ime: 97dd9609edd4c7bc52f36276c9cefd2b
+    code: 8888
+    mail: 1209334084@qq.com
+  status: 200
+
+-
+  name: 未注册的手机号登录
+  url: /api/user/phone/loginPassword
+  method: post
+  headers:
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    source: 1
+    ime: 97dd9609edd4c7bc52f36276c9cefd2b
+    password: qq111111
+    mobile: 18009776400
+  status: 200
+-
+  name: 未注册的邮箱登录
+  url: /api/user/phone/loginPassword
+  method: post
+  headers:
+    lang: zh-CN
+    content-type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    source: 1
+    ime: 97dd9609edd4c7bc52f36276c9cefd2b
+    password: qq111111
+    mail: 1235555@163.com
   status: 200

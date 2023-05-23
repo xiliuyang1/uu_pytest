@@ -1,0 +1,8 @@
+INFO     logger:yaml_util.py:32 /common/token.yml文件中的缓存数据清除成功
+INFO     logger:yaml_util.py:32 /common/extract_datas.yml文件中的缓存数据清除成功
+INFO     logger:requests_util.py:30 获取token接口请求成功{'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2022/09/22/bbd5c7290e6a4e5246cbcee2ef26140a.', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '220.191.185.22', 'last_login_city': 'Hangzhou', 'last_login_time': '1684823253', 'is_set_password': 1}, 'is_need_bind': 2, 'token': '8b135569f7e52f1f54f0feb6d82c2f6d'}}
+INFO     logger:yaml_util.py:26 缓存数据写入成功{'token': '8b135569f7e52f1f54f0feb6d82c2f6d'}
+INFO     logger:yaml_util.py:19 缓存数据读取成功{'token': '8b135569f7e52f1f54f0feb6d82c2f6d'}
+INFO     logger:requests_util.py:30 签到任务接口请求成功{'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}
+INFO     logger:requests_util.py:63 签到任务接口返回值:{'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}断言：$..status=200断言成功
+INFO     logger:requests_util.py:92 签到任务接口返回值:{'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}断言：$..sign_in_reward=0断言成功

@@ -1,7 +1,7 @@
 -
-  name: 签到任务
-  url: /api/user/task/signInReward
+  name: 获取单用户的任务领取记录
   method: get
+  url: /api/user/task/receiveList
   headers:
     token: "{{token()}}"
     lang: zh-CN
