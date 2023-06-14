@@ -31,6 +31,7 @@ class RequestsUtil:
                 RequestsUtil().set_verify_result(res, verify, testcasename=testcasename)
                 return res
             elif res.json()['status'] != 200:
+                print(files)
                 my_logging.error("{}接口请求异常，响应体：{}".format(testcasename, res.json()))
                 return res
         except Exception as e:
@@ -106,3 +107,8 @@ class RequestsUtil:
                                     res.json()) + "断言：" + str(verify_key) + "=" + str(verify_value) + "断言失败")
                                 allure.dynamic.description(testcasename + "接口返回值:" + str(
                                     res.json()) + "断言：" + str(verify_key) + "=" + str(verify_value) + "断言失败")
+
+
+
+if __name__ == '__main__':
+    print(len('1111111'))

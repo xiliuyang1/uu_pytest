@@ -1,0 +1,19 @@
+-
+  name: 平台开箱的最近掉落记录-精选
+  url: /api/cases/cases/recently
+  method: get
+  datas:
+    type: 1
+-
+  name: 平台开箱的最近掉落记录-全部
+  url: /api/cases/cases/recently
+  method: get
+  datas:
+    type:
+-
+  name: 具体箱子的最近掉落记录
+  url: /api/cases/cases/recently
+  method: get
+  datas:
+    type: 1
+    cases_id: 1140530797372686336

@@ -13,6 +13,11 @@ def read_yaml(file_name):
         return params
 
 
+def read_image_file(image_name):
+    file = open(os.getcwd().split('utils')[0] + "/test_data/test_pictures/" + image_name, 'rb')
+    return file
+
+
 def read_extract_yaml(file_name):
     with open(os.getcwd().split('utils')[0] + "/test_data" + file_name, mode='r', encoding='utf-8') as f:
         params = yaml.load(stream=f, Loader=yaml.FullLoader)
@@ -98,6 +103,11 @@ def get_random_email():
     random_num = str(random.randint(1000, 9999))
     random_email = str(1883803) + random_num + "@163.com"
     return random_email
+
+
+def get_random_int():
+    return str(random.randint(10, 99))
+
 
 
 if __name__ == '__main__':

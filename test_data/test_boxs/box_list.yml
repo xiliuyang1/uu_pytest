@@ -1,0 +1,8 @@
+-
+  name: 获取盲盒列表——全部
+  url: /api/cases/cases/list
+  method: get
+  datas:
+    appid: 730
+    type: 1
+    apply_type: 1

@@ -1,0 +1,7 @@
+-
+  name: 修改头像
+  method: post
+  url: /api/user/avatar/edit
+  headers:
+    content-type: multipart/form-data; boundary=----WebKitFormBoundaryLmI2iFVO5BWiybgx
+    token: "{{token()}}"
