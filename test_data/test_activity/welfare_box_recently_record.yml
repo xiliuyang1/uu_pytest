@@ -1,0 +1,40 @@
+-
+  name: 最近掉落记录--每日一箱
+  method: get
+  url: /api/activity/lucky/get-last-open
+  datas:
+    code: DAILY_CASES
+    lucky_id: 1084228653232209920
+    limit: 24
+  verify:
+    - not null: {"$..win_item": 0}
+-
+  name: 最近掉落记录--初级福利豆箱
+  method: get
+  url: /api/activity/lucky/get-last-open
+  datas:
+    code: WELFARE_BEAN_CASES
+    lucky_id: 1122351580622991360
+    limit: 24
+  verify:
+    - not null: {"$..win_item": 0}
+-
+  name: 最近掉落记录--高级福利豆箱
+  method: get
+  url: /api/activity/lucky/get-last-open
+  datas:
+    code: WELFARE_BEAN_CASES1
+    lucky_id: 1123074966863069184
+    limit: 24
+  verify:
+    - not null: {"$..win_item": 0}
+-
+  name: 最近掉落记录--超级福利豆箱
+  method: get
+  url: /api/activity/lucky/get-last-open
+  datas:
+    code: WELFARE_BEAN_CASES2
+    lucky_id: 1123075254347735040
+    limit: 24
+  verify:
+    - not null: {"$..win_item": 0}

@@ -1,0 +1,6 @@
+-
+  name: 精选箱子列表
+  url: /api/activity/lucky/cherryPickList
+  method: get
+  datas:
+    limit: 10

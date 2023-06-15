@@ -1,0 +1,30 @@
+-
+  name: 盲盒正式开箱-单开
+  method: post
+  url: /api/cases/cases/userOpen
+  headers:
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+    token: "{{token()}}"
+  datas:
+    cases_id: "{{read_extract_yaml()['cases_id']}}"
+    amount: 1
+-
+  name: 盲盒正式开箱-3开
+  method: post
+  url: /api/cases/cases/userOpen
+  headers:
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+    token: "{{token()}}"
+  datas:
+    cases_id: "{{read_extract_yaml()['cases_id']}}"
+    amount: 3
+-
+  name: 盲盒正式开箱-5开
+  method: post
+  url: /api/cases/cases/userOpen
+  headers:
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+    token: "{{token()}}"
+  datas:
+    cases_id: "{{read_extract_yaml()['cases_id']}}"
+    amount: 5

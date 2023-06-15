@@ -1,0 +1,21 @@
+-
+  name: 每日一箱用户获奖记录
+  method: get
+  url: /api/activity/lucky/user-history
+  headers:
+    token: "{{token()}}"
+  datas:
+    code: DAILY_CASES
+    lucky_id: 1084228653232209920
+  verify:
+    - not null: {"$..create_time": 0}
+-
+  name: 福利豆箱用户获奖记录
+  method: get
+  url: /api/activity/lucky/user-history-by-type
+  headers:
+    token: "{{token()}}"
+  datas:
+    type: BEAN_CASES
+  verify:
+    - not null: {"$..create_time": 0}

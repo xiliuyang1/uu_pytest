@@ -18,14 +18,14 @@ def read_image_file(image_name):
     return file
 
 
-def read_extract_yaml(file_name):
+def read_extract_yaml(file_name="/common/extract_datas.yml"):
     with open(os.getcwd().split('utils')[0] + "/test_data" + file_name, mode='r', encoding='utf-8') as f:
         params = yaml.load(stream=f, Loader=yaml.FullLoader)
         LogUtil().set_log().info("缓存数据读取成功{}".format(params))
         return params
 
 
-def write_extract_yaml(data, file_name="/common/token.yml"):
+def write_extract_yaml(data, file_name="/common/extract_datas.yml"):
     with open(os.getcwd().split('utils')[0] + "/test_data" + str(file_name), mode='a', encoding='utf-8') as f:
         yaml.dump(data, f, Dumper=yaml.SafeDumper)
     LogUtil().set_log().info("缓存数据写入成功{}".format(data))
@@ -107,7 +107,6 @@ def get_random_email():
 
 def get_random_int():
     return str(random.randint(10, 99))
-
 
 
 if __name__ == '__main__':

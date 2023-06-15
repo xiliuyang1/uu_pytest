@@ -1,0 +1,9 @@
+-
+  name: 获取新箱系列箱子列表
+  method: get
+  url: /api/cases/cases/newCaseList
+  datas:
+    limit: 20
+  verify:
+    - eq:
+        $..msg: OK

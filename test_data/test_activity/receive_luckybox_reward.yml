@@ -1,0 +1,11 @@
+-
+  name: 领取每日一箱奖励
+  method: post
+  url: /api/activity/lucky/receive
+  headers:
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+    token: "{{token()}}"
+  datas:
+    record_id: "{{read_extract_yaml()['record_id']}}"
+  verify:
+    - not null: {"$..zh-CN": 0}

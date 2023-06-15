@@ -16,4 +16,4 @@
   method: get
   datas:
     type: 1
-    cases_id: 1140530797372686336
+    cases_id: "{{read_extract_yaml()['cases_id']}}"

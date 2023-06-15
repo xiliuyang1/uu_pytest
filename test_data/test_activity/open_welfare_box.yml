@@ -1,0 +1,44 @@
+-
+  name: 开启每日一箱
+  method: post
+  url: /api/activity/lucky/open
+  headers:
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+    token: "{{token()}}"
+  datas:
+    lucky_id: 1084228653232209920
+  verify:
+    - not null: {"$..zh-CN": 1}
+-
+  name: 开启初级福利豆箱
+  method: post
+  url: /api/activity/lucky/open
+  headers:
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+    token: "{{token()}}"
+  datas:
+    lucky_id: 1122351580622991360
+  verify:
+    - not null: {"$..zh-CN": 1}
+-
+  name: 开启高级福利豆箱
+  method: post
+  url: /api/activity/lucky/open
+  headers:
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+    token: "{{token()}}"
+  datas:
+    lucky_id: 1123074966863069184
+  verify:
+    - not null: {"$..zh-CN": 1}
+-
+  name: 开启超级福利豆箱
+  method: post
+  url: /api/activity/lucky/open
+  headers:
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+    token: "{{token()}}"
+  datas:
+    lucky_id: 1123075254347735040
+  verify:
+    - not null: {"$..zh-CN": 1}

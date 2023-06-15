@@ -1,0 +1,36 @@
+-
+  name: 获取每日一箱基本信息
+  method: get
+  url: /api/activity/lucky/info
+  datas:
+    code: DAILY_CASES
+  verify:
+    - contain:
+        $..data: is_first
+-
+  name: 获取初级福利豆箱基本信息
+  method: get
+  url: /api/activity/lucky/info
+  datas:
+    code: WELFARE_BEAN_CASES
+  verify:
+    - contain:
+        $..data: is_first
+-
+  name: 获取高级福利豆箱基本信息
+  method: get
+  url: /api/activity/lucky/info
+  datas:
+    code: WELFARE_BEAN_CASES1
+  verify:
+    - contain:
+        $..data: is_first
+-
+  name: 获取超级福利豆箱基本信息
+  method: get
+  url: /api/activity/lucky/info
+  datas:
+    code: WELFARE_BEAN_CASES2
+  verify:
+    - contain:
+        $..data: is_first

@@ -1,0 +1,6 @@
+-
+  name: 获取某个盲盒的饰品列表
+  method: get
+  url: /api/cases/cases/itemList
+  datas:
+    cases_id: "{{read_extract_yaml()['cases_id']}}"
