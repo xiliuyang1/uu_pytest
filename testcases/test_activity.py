@@ -48,7 +48,7 @@ class TestActivity:
         name = "手动设置活动充值订单成功"
         url = caseinfo['url']
         datas = {
-            'order_id': read_extract_yaml("/common/extract_datas.yml")['activity_order_id'],
+            'order_id': read_extract_yaml()['activity_order_id'],
             'out_trade_no': 111
         }
         method = caseinfo['method']
@@ -72,7 +72,7 @@ class TestActivity:
         name = "手动设置普通充值订单成功"
         url = caseinfo['url']
         datas = {
-            'order_id': read_extract_yaml("/common/extract_datas.yml")['common_order_id'],
+            'order_id': read_extract_yaml()['common_order_id'],
             'out_trade_no': 111
         }
         method = caseinfo['method']

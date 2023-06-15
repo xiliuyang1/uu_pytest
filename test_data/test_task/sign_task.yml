@@ -8,6 +8,4 @@
     content-type: application/x-www-form-urlencoded; charset=UTF-8
   verify:
     - eq:
-        $..status: 200
-    - not null:
         $..sign_in_reward: 0

@@ -1,0 +1,6 @@
+-
+  name: 获取盲盒界面推送的配置信息
+  method: get
+  url: /api/guess/websocket/config
+  datas:
+    name: guess-cases

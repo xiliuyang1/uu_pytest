@@ -2,7 +2,7 @@ import allure
 import pytest
 
 from utils.requests_util import RequestsUtil
-from utils.yaml_util import read_yaml, read_variable_yaml
+from utils.yaml_util import read_yaml, read_variable_yaml, read_image_file
 
 
 @allure.feature("个人中心-账号管理")
@@ -17,11 +17,27 @@ class TestPassword:
         datas = caseinfo['datas']
         RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=datas)
 
-    def test_edit_nickname(self):
-        pass
+    @pytest.mark.parametrize("caseinfo", read_yaml("/test_account_manage/edit_nickname.yml"))
+    def test_edit_nickname(self, caseinfo):
+        allure.title(caseinfo['name'])
+        name = caseinfo['name']
+        method = caseinfo['method']
+        url = caseinfo['url']
+        headers = read_variable_yaml(caseinfo['headers'])
+        datas = read_variable_yaml(caseinfo['datas'])
+        print(headers, datas)
+        RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=datas)
 
-    def test_edit_head_image(self):
-        pass
+    @pytest.mark.parametrize("caseinfo", read_yaml("/test_account_manage/edit_avatar.yml"))
+    def test_edit_avatar(self, caseinfo):
+        allure.title(caseinfo['name'])
+        name = caseinfo['name']
+        method = caseinfo['method']
+        url = caseinfo['url']
+        headers = read_variable_yaml(caseinfo['headers'])
+        files = {"image": ("1.png", read_image_file('1.png'), "image/png")}
+        # files = {'image': read_image_file('1.jpg')}
+        RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, files=files)
 
     def test_bind_phone(self):
         pass

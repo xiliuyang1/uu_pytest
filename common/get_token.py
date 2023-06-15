@@ -22,7 +22,7 @@ def set_token():
     # print(req.json())
     res = RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=data)
     values = {'token': res.json()['data']['token']}
-    write_extract_yaml(values)
+    write_extract_yaml(values, "/common/token.yml")
 
 
 if __name__ == '__main__':

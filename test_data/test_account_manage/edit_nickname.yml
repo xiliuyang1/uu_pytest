@@ -1,0 +1,9 @@
+-
+  name: 修改昵称
+  method: post
+  url: /api/user/nickname/edit
+  headers:
+    content-type: application/x-www-form-urlencoded;charset=utf-8
+    token: "{{token()}}"
+  datas:
+    nickname: "新昵称+{{get_random_int()}}"
