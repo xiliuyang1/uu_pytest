@@ -1,3 +1,0 @@
-INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': 'fd87b48af169f0be7e02c50a233e0da5'}
-INFO     logger:requests_util.py:30 【开启高级福利豆箱】接口请求成功{'code': 200, 'status': 200, 'data': {'id': '1143378898229686272', 'lucky_item_id': '1123084314523734016', 'item_type': '6', 'item_id': '0', 'worth': 101.5, 'name': {'zh-CN': '豆子', 'en-US': '豆子'}, 'show_days': '0', 'grade': '1', 'item': [], 'image_url': 'https://static.uugamer.com/upload/2023/04/20/8089f7e7c5e904dac6bacbe3af2d669f.png', 'model': 0, 'user_type': 0, 'status': 3, 'left_time': 0, 'rule': []}, 'message': ''}
-INFO     logger:requests_util.py:90 【开启高级福利豆箱】接口，响应数据中字段【$..zh-CN】非空，断言成功。实际值为：豆子

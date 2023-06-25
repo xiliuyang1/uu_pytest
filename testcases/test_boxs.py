@@ -5,9 +5,8 @@ import pytest
 from utils.requests_util import RequestsUtil
 from utils.yaml_util import read_yaml, read_variable_yaml, write_extract_yaml
 
-allure.feature("饰品盲盒模块")
 
-
+@allure.feature("饰品盲盒模块")
 class TestBoxs:
     @pytest.mark.parametrize("caseinfo", read_yaml("/test_boxs/guess_websocket_config.yml"))
     def test_guess_websocket_config(self, caseinfo):
@@ -120,7 +119,7 @@ class TestBoxs:
         url = caseinfo['url']
         headers = read_variable_yaml(caseinfo['headers'])
         datas = caseinfo['datas']
-        verify = caseinfo['verify']
+        verify = read_variable_yaml(caseinfo['verify'])
         res = RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=datas,
                                           verify=verify)
         write_extract_yaml({"record_id": jsonpath.jsonpath(res.json(), "$..data.list[0].id")})

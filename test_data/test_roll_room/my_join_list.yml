@@ -1,0 +1,14 @@
+-
+  name: 福利roll房列表-我参与的
+  url: /api/roll/room/list
+  method: get
+  headers:
+    token: "{{token()}}"
+  datas:
+    type: 0
+    user_tag: 0
+    page: 1
+    limit: 32
+    region: 1
+  verify:
+    - eq: {'$.code': 200}

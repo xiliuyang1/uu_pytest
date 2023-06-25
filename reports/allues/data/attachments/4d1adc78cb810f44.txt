@@ -1,0 +1,2 @@
+INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': '13610d8096a34acb5c9d3b1c77ef1740'}
+INFO     logger:requests_util.py:30 【修改昵称】接口请求成功{'status': 200, 'msg': 'OK', 'data': {'status': 1, 'audit_value': '26'}}

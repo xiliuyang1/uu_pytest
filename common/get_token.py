@@ -18,8 +18,6 @@ def set_token():
         'password': 'qq111111',
         'mobile': 18838035853
     }
-    # req=requests.post(url=url,headers=headers,data=data)
-    # print(req.json())
     res = RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=data)
     values = {'token': res.json()['data']['token']}
     write_extract_yaml(values, "/common/token.yml")

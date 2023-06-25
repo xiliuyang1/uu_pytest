@@ -1,0 +1,20 @@
+-
+  name: roll房详情-未登录
+  url: /api/roll/room/detail
+  method: get
+  headers:
+    token:
+  datas:
+    room_id: "{{read_extract_yaml()['room_id']}}"
+  verify:
+    - eq: {'code': 200}
+-
+  name: roll房详情-已登录
+  url: /api/roll/room/detail
+  method: get
+  headers:
+    token: "{{token()}}"
+  datas:
+    room_id: "{{read_extract_yaml()['room_id']}}"
+  verify:
+    - eq: { 'code': 200 }

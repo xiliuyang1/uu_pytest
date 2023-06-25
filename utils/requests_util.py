@@ -15,27 +15,28 @@ class RequestsUtil:
                      cert=None):
         method = str(method).lower()
         base_url = read_yaml("/common/host_config_datas.yml")['host']
-        try:
-            if method == 'get':
-                res = RequestsUtil.session.request(method="get", url=base_url + url, params=data, headers=headers,
-                                                   cookies=cookies, files=files, auth=auth, timeout=timeout,
-                                                   allow_redirects=allow_redirects, proxies=proxies, hooks=hooks,
-                                                   stream=stream, verify=verify, cert=cert)
-            elif method == 'post':
-                res = RequestsUtil.session.request(method="post", url=base_url + url, data=data, headers=headers,
-                                                   cookies=cookies, files=files, auth=auth, timeout=timeout,
-                                                   allow_redirects=allow_redirects, proxies=proxies, hooks=hooks,
-                                                   stream=stream, verify=verify, cert=cert)
-            if res.json()['status'] == 200:
-                my_logging.info("【{}】接口请求成功{}".format(testcasename, res.json()))
-                RequestsUtil().set_verify_result(res, verify, testcasename=testcasename)
-                return res
-            elif res.json()['status'] != 200:
-                print(files)
-                my_logging.error("【{}】接口请求异常，响应体：{}".format(testcasename, res.json()))
-                return res
-        except Exception as e:
-            print(e)
+        # try:
+        if method == 'get':
+            res = RequestsUtil.session.request(method="get", url=base_url + url, params=data, headers=headers,
+                                               cookies=cookies, files=files, auth=auth, timeout=timeout,
+                                               allow_redirects=allow_redirects, proxies=proxies, hooks=hooks,
+                                               stream=stream, verify=verify, cert=cert)
+        elif method == 'post':
+            res = RequestsUtil.session.request(method="post", url=base_url + url, data=data, headers=headers,
+                                               cookies=cookies, files=files, auth=auth, timeout=timeout,
+                                               allow_redirects=allow_redirects, proxies=proxies, hooks=hooks,
+                                               stream=stream, verify=verify, cert=cert)
+        if res.json()['status'] == 200:
+            my_logging.info("【{}】接口请求成功{}".format(testcasename, res.json()))
+            RequestsUtil().set_verify_result(res, verify, testcasename=testcasename)
+            return res
+        elif res.json()['status'] != 200:
+            # assert res.json()['status'] == 200
+            my_logging.error("【{}】接口请求异常，响应体：{}".format(testcasename, res.json()))
+            RequestsUtil().set_verify_result(res, verify, testcasename=testcasename)
+            return res
+        # except Exception as e:
+        #     my_logging.error(e)
 
     def set_verify_result(self, res=None, verify=None, testcasename=None):
         if verify is None:
@@ -58,7 +59,6 @@ class RequestsUtil:
                                 continue
                             if result_value is not None and result_value != "":
                                 if key.upper() == "EQ":
-                                    print(str(result_value[0]) + "   " + str(verify_value))
                                     if pytest.assume(str(result_value[0]) == str(verify_value)):
                                         my_logging.info("【" + testcasename + "】接口，断言：" + str(verify_key) + "=" + str(
                                             verify_value) + "，断言成功")
