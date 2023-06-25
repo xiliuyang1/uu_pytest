@@ -1,0 +1,2 @@
+INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': '949ba4a8cacb9ce6bbc31590444a8938'}
+ERROR    logger:requests_util.py:34 【加入roll房-密码房-新房间】接口请求异常，响应体：{'status': 500, 'code': 500, 'message': '已参加该房间', 'data': []}

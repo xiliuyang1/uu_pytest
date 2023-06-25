@@ -1,2 +1,0 @@
-INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': '13610d8096a34acb5c9d3b1c77ef1740'}
-ERROR    logger:requests_util.py:35 【修改头像】接口请求异常，响应体：{'status': 500, 'msg': '头像修改失败', 'data': []}

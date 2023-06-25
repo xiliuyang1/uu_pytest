@@ -1,0 +1,1 @@
+ERROR    logger:requests_util.py:34 【邮箱号为空】接口请求异常，响应体：{'status': 500, 'msg': '参数缺失', 'data': []}

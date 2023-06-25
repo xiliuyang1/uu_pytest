@@ -1,0 +1,2 @@
+INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': '949ba4a8cacb9ce6bbc31590444a8938'}
+INFO     logger:requests_util.py:30 【开启高级福利豆箱】接口请求成功{'code': 200, 'status': 200, 'data': {'id': '1146985744512802816', 'lucky_item_id': '1123085514115133440', 'item_type': '6', 'item_id': '0', 'worth': 200, 'name': {'zh-CN': '豆子', 'en-US': '豆子'}, 'show_days': '0', 'grade': '3', 'item': [], 'image_url': 'https://static.uugamer.com/upload/2023/04/20/0f5f4d4bc61436a13eced48eec962fa0.png', 'model': 0, 'user_type': 0, 'status': 3, 'left_time': 0, 'inventory_id': 0, 'rule': []}, 'message': ''}
