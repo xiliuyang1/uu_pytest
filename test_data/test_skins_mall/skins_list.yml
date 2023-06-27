@@ -1,0 +1,22 @@
+-
+  name: 饰品商城-饰品列表--csgo
+  method: get
+  url: /api/steam/product/list
+  datas:
+    appid: 730
+    price_sort: desc
+    limit: 20
+    page: 1
+  verify:
+    - eq: {"msg": OK}
+-
+  name: 饰品商城-饰品列表--dota2
+  method: get
+  url: /api/steam/product/list
+  datas:
+    appid: 570
+    price_sort: desc
+    limit: 20
+    page: 1
+  verify:
+    - eq: {"msg": OK}

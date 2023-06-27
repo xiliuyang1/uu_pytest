@@ -1,0 +1,9 @@
+-
+  name: 获取steam账号列表
+  method: get
+  url: /api/user/steam/list
+  headers:
+    token: "{{token()}}"
+  datas:
+  verify:
+    - eq: {"msg": OK}

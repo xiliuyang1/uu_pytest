@@ -1,0 +1,2 @@
+INFO     logger:yaml_util.py:24 缓存数据读取成功{'activity_order_id': '1147739271807213568'}
+INFO     logger:requests_util.py:29 【手动设置活动充值订单成功】接口请求成功{'status': 200, 'msg': 'OK', 'data': True}

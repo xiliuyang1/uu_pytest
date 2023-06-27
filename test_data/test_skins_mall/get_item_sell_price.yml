@@ -1,0 +1,10 @@
+-
+  name: 获取饰品的市场最低参考价
+  method: get
+  url: /api/steam/product/get-item-sell-price
+  headers:
+    token: "{{token()}}"
+  datas:
+    id: "{{read_extract_yaml()['item_id']}}"
+  verify:
+    - eq: {"msg": OK}

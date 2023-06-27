@@ -1,0 +1,12 @@
+-
+  name: 查询steam账号的状态
+  method: get
+  url: /api/steam/steam-account/detect
+  headers:
+    token: "{{token()}}"
+  datas:
+    steam_id: "{{read_extract_yaml()['steam_id']}}"
+    scene: 2
+    app_id: 730
+  verify:
+    - eq: {"msg": OK}

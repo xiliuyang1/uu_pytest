@@ -1,12 +1,13 @@
 import allure
+import jsonpath
 import pytest
 
 from utils.requests_util import RequestsUtil
-from utils.yaml_util import read_yaml, read_variable_yaml, read_image_file
+from utils.yaml_util import read_yaml, read_variable_yaml, read_image_file, write_extract_yaml
 
 
 @allure.feature("个人中心-账号管理")
-class TestPassword:
+class TestAcountManage:
     @pytest.mark.parametrize("caseinfo", read_yaml("/test_login/change_password.yml"))
     def test_change_password(self, caseinfo):
         allure.title(caseinfo['name'])
@@ -56,5 +57,6 @@ class TestPassword:
     def test_identity_verify(self):
         pass
 
-    def test_account_cancellation(self):
+    def test_account_logout(self):
         pass
+

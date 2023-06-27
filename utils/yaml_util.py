@@ -26,8 +26,19 @@ def read_extract_yaml(file_name="/common/extract_datas.yml"):
 
 
 def write_extract_yaml(data, file_name="/common/extract_datas.yml"):
-    with open(os.getcwd().split('utils')[0] + "/test_data" + str(file_name), mode='a', encoding='utf-8') as f:
-        yaml.dump(data, f, Dumper=yaml.SafeDumper)
+    with open(os.getcwd().split('utils')[0] + "/test_data" + file_name, 'r', encoding='utf-8') as f:
+        get_data = yaml.safe_load(f)
+    if str(get_data) == 'None':
+        with open(os.getcwd().split('utils')[0] + "/test_data" + file_name, 'w',
+                  encoding='utf-8') as f:
+            yaml.safe_dump(data, f)
+    else:
+        for key, value in data.items():
+            get_data[key] = value
+            print(get_data)
+        with open(os.getcwd().split('utils')[0] + "/test_data" + file_name, 'w',
+                  encoding='utf-8') as f:
+            yaml.safe_dump(get_data, f)
     LogUtil().set_log().info("缓存数据写入成功{}".format(data))
 
 
@@ -109,7 +120,4 @@ def get_random_int():
 
 
 if __name__ == '__main__':
-    # datas = read_variable_yaml('/test_activity/get_activity_base_datas.yml')
-    datas = read_yaml('/test_task/sign_task.yml')
-    # datas = read_yaml('/common/token.yml')
-    print(datas)
+    print(os.path.join(os.getcwd().split('utils')[0], "test_data", "/common/extract_datas.yml"))

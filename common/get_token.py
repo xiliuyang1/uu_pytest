@@ -17,6 +17,7 @@ def set_token():
         'ime': '97dd9609edd4c7bc52f36276c9cefd2b',
         'password': 'qq111111',
         'mobile': 18838035853
+
     }
     res = RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=data)
     values = {'token': res.json()['data']['token']}
