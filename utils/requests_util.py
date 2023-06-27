@@ -52,7 +52,7 @@ class RequestsUtil:
                             result_value = jsonpath.jsonpath(res.json(), verify_key)
                             if not result_value:
                                 pytest.assume(False)
-                                my_logging.info(
+                                my_logging.error(
                                     "【" + testcasename + "】接口断言失败，响应数据中未查询到断言对象。响应结果为：" + res.json())
                                 allure.dynamic.description(
                                     "【" + testcasename + "】接口断言失败，响应数据中未查询到断言对象。响应结果为：" + res.json())
@@ -63,7 +63,7 @@ class RequestsUtil:
                                         my_logging.info("【" + testcasename + "】接口，断言：" + str(verify_key) + "=" + str(
                                             verify_value) + "，断言成功")
                                     else:
-                                        my_logging.info("【" + testcasename + "】接口，断言：" + str(verify_key) + "=" + str(
+                                        my_logging.error("【" + testcasename + "】接口，断言：" + str(verify_key) + "=" + str(
                                             verify_value) + "，断言失败。实际值为：" + str(result_value[0]))
                                         allure.dynamic.description(
                                             "【" + testcasename + "】接口，断言：" + str(verify_key) + "=" + str(
@@ -72,7 +72,7 @@ class RequestsUtil:
                                 elif key.upper() == "CONTAIN":
                                     if str(result_value[0]).find(verify_value) == -1:
                                         pytest.assume(False)
-                                        my_logging.info(
+                                        my_logging.error(
                                             "【" + testcasename + "】接口，断言：" + str(verify_key) + "字段中包含" + str(
                                                 verify_value) + "，断言失败。实际值为：" + str(result_value[0]))
                                         allure.dynamic.description(
@@ -92,7 +92,7 @@ class RequestsUtil:
                                             result_value[0]))
                                     else:
                                         pytest.assume(False)
-                                        my_logging.info("【" + testcasename + "】接口，响应数据中字段【" + str(
+                                        my_logging.error("【" + testcasename + "】接口，响应数据中字段【" + str(
                                             verify_key) + "】为空，断言失败。实际值为：" + str(
                                             result_value[0]))
                                         allure.dynamic.description("【" + testcasename + "】接口，响应数据中字段【" + str(
@@ -101,7 +101,7 @@ class RequestsUtil:
                                         continue
                             else:
                                 pytest.assume(False)
-                                my_logging.info(
+                                my_logging.error(
                                     "【" + testcasename + "】接口，断言：" + str(verify_key) + "，断言失败。响应数据为：" + str(
                                         res.json()))
                                 allure.dynamic.description(

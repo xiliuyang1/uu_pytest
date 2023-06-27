@@ -1,0 +1,22 @@
+#-
+#  name: 查询钥匙箱状态-未登录
+#  url: /api/activity/lucky/status
+#  method: get
+#  headers:
+#    token:
+#  datas:
+#    code: Weapon Box_key_1
+#    codeType: CODE_CASES
+#  verify:
+#    - eq: {"code": 200}
+-
+  name: 查询钥匙箱状态-已登录
+  url: /api/activity/lucky/status
+  method: get
+  headers:
+    token: "{{token()}}"
+  datas:
+    code: Weapon Box_key_1
+    codeType: CODE_CASES
+  verify:
+    - eq: {"code": 200}

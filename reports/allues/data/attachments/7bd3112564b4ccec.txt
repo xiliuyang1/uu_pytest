@@ -1,2 +1,0 @@
-INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': '949ba4a8cacb9ce6bbc31590444a8938'}
-INFO     logger:requests_util.py:30 【签到任务】接口请求成功{'status': 200, 'msg': 'OK', 'data': {'sign_in_reward': 0}}

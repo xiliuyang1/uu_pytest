@@ -1,0 +1,8 @@
+-
+  name: 钥匙箱列表（首页）
+  url: /api/activity/lucky/listByType
+  method: get
+  datas:
+    type: CODE_CASES
+  verify:
+    - eq: {"code": 200}

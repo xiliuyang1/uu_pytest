@@ -1,0 +1,33 @@
+-
+  name: 钥匙武器箱-兑换钥匙--有效的兑换口令
+  method: post
+  url: /api/activity/lucky/exchange
+  headers:
+    token: "{{token()}}"
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    code: 0gqy04czf9tz
+  verify:
+    - eq: {"code": 200}
+-
+  name: 钥匙武器箱-兑换钥匙--错误的兑换口令
+  method: post
+  url: /api/activity/lucky/exchange
+  headers:
+    token: "{{token()}}"
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    code: 111
+  verify:
+    - eq: {"code": 200}
+-
+  name: 钥匙武器箱-兑换钥匙--已被使用的兑换口令
+  method: post
+  url: /api/activity/lucky/exchange
+  headers:
+    token: "{{token()}}"
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    code: nwccmh1u4zub
+  verify:
+    - eq: {"code": 200}
