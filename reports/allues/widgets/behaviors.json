@@ -1,1 +1,5 @@
-{"total":29,"items":[]}
+<<<<<<< HEAD
+{"total":1,"items":[{"uid":"ec69e4533fdcf3b7a47b77e53678eb35","name":"饰品盲盒模块","statistic":{"failed":1,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":2}}]}
+=======
+{"total":1,"items":[{"uid":"69fe2efcb5ce58ddb028a75acf134d46","name":"任务模块","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
+>>>>>>> 9be76ac395e204359265d118cb5f6a4e1274a5a4

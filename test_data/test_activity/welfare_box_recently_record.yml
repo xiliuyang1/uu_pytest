@@ -38,3 +38,13 @@
     limit: 24
   verify:
     - not null: {"$..win_item": 0}
+-
+  name: 最近掉落记录--命悬一线武器箱（钥匙箱）
+  method: get
+  url: /api/activity/lucky/get-last-open
+  datas:
+    code: Weapon Box_key_1
+    lucky_id: 1145531799399387136
+    limit: 24
+  verify:
+    - eq: {"code": 200}

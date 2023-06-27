@@ -1,0 +1,84 @@
+-
+  name: 加入roll房-公开房-新房间
+  url: /api/roll/room/join
+  method: post
+  headers:
+    token: "{{token()}}"
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    room_id: 1144839625962606592
+    password:
+  verify:
+    - eq: {'code': 200}
+-
+  name: 加入roll房-公开房-已经加入该房间
+  url: /api/roll/room/join
+  method: post
+  headers:
+    token: "{{token()}}"
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    room_id: 1144839625962606592
+    password:
+  verify:
+    - eq: {'code': 500}
+-
+  name: 加入roll房-公开房-不满足参与条件
+  url: /api/roll/room/join
+  method: post
+  headers:
+    token: "{{token()}}"
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    room_id: 1144841673392136192
+    password:
+  verify:
+    - eq: {'code': 501}
+-
+  name: 加入roll房-公开房-已结束
+  url: /api/roll/room/join
+  method: post
+  headers:
+    token: "{{token()}}"
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    room_id: 1135776636933672960
+    password:
+  verify:
+    - eq: {'code': 500}
+-
+  name: 加入roll房-密码房-新房间
+  url: /api/roll/room/join
+  method: post
+  headers:
+    token: "{{token()}}"
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    room_id: 1144842457491165184
+    password: 111111
+  verify:
+    - eq: {'code': 200}
+-
+  name: 加入roll房-密码房-错误密码
+  url: /api/roll/room/join
+  method: post
+  headers:
+    token: "{{token()}}"
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    room_id: 1144842457491165184
+    password: 110000
+  verify:
+    - eq: {'code': 500}
+-
+  name: 加入roll房-密码房-已结束
+  url: /api/roll/room/join
+  method: post
+  headers:
+    token: "{{token()}}"
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    room_id: 1140047959559290880
+    password: 111111
+  verify:
+    - eq: {'code': 500}

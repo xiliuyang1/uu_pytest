@@ -8,7 +8,7 @@ from utils.yaml_util import read_yaml, read_variable_yaml, read_image_file
 @allure.feature("个人中心-账号管理")
 class TestPassword:
     @pytest.mark.parametrize("caseinfo", read_yaml("/test_login/change_password.yml"))
-    def test_reset_psd(self, caseinfo):
+    def test_change_password(self, caseinfo):
         allure.title(caseinfo['name'])
         name = caseinfo['name']
         method = caseinfo['method']
@@ -25,7 +25,6 @@ class TestPassword:
         url = caseinfo['url']
         headers = read_variable_yaml(caseinfo['headers'])
         datas = read_variable_yaml(caseinfo['datas'])
-        print(headers, datas)
         RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=datas)
 
     @pytest.mark.parametrize("caseinfo", read_yaml("/test_account_manage/edit_avatar.yml"))

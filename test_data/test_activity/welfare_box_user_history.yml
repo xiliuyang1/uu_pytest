@@ -18,4 +18,4 @@
   datas:
     type: BEAN_CASES
   verify:
-    - not null: {"$..create_time": 0}
+    - not null: {"$..create_time": 1}

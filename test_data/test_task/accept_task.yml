@@ -31,7 +31,11 @@
     lang: zh-CN
     content-type: application/x-www-form-urlencoded; charset=UTF-8
   datas:
+<<<<<<< HEAD
     task_ids: 925202954360340481,1100218284307738624
+=======
+    task_ids: 925202954360340481，1100218284307738624
+>>>>>>> 9be76ac395e204359265d118cb5f6a4e1274a5a4
   verify:
     data: True
     msg: OK

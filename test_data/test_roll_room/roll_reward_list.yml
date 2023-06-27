@@ -1,0 +1,8 @@
+-
+  name: 某个roll房的奖励列表
+  url: /api/roll/room/roomItemList
+  method: get
+  datas:
+    room_id: "{{read_extract_yaml()['room_id']}}"
+  verify:
+    - eq: {'code': 200}

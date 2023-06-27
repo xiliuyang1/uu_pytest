@@ -29,7 +29,7 @@
     content-type: application/x-www-form-urlencoded; charset=UTF-8
   datas:
     mail: "{{get_random_email()}}"
-    password: 11111111111111111111
+    password: 11111
     code: 8888
 -
   name: 密码纯数字

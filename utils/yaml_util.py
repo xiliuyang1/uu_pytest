@@ -63,7 +63,6 @@ def dict_data_set_values(datas):
                 datas.update(dict({key: eval(fun_name)}))
             else:
                 continue
-    # print(datas)
     return datas
 
 
@@ -71,7 +70,7 @@ def list_data_set_values(datas):
     new_list = []
     for item in datas:
         if isinstance(item, dict):
-            dict_data_set_values(item)
+            new_list.append(dict_data_set_values(item))
         elif isinstance(item, list):
             new_list.append(list_data_set_values(item))
         else:

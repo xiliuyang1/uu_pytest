@@ -2,12 +2,12 @@ import allure
 import jsonpath
 import pytest
 
+from utils.log_util import my_logging
 from utils.requests_util import RequestsUtil
-from utils.yaml_util import read_yaml, read_variable_yaml, write_extract_yaml
-
-allure.feature("饰品盲盒模块")
+from utils.yaml_util import read_yaml, read_variable_yaml, write_extract_yaml, read_extract_yaml
 
 
+@allure.feature("饰品盲盒模块")
 class TestBoxs:
     @pytest.mark.parametrize("caseinfo", read_yaml("/test_boxs/guess_websocket_config.yml"))
     def test_guess_websocket_config(self, caseinfo):
@@ -120,7 +120,7 @@ class TestBoxs:
         url = caseinfo['url']
         headers = read_variable_yaml(caseinfo['headers'])
         datas = caseinfo['datas']
-        verify = caseinfo['verify']
+        verify = read_variable_yaml(caseinfo['verify'])
         res = RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=datas,
                                           verify=verify)
         write_extract_yaml({"record_id": jsonpath.jsonpath(res.json(), "$..data.list[0].id")})
@@ -148,3 +148,82 @@ class TestBoxs:
         verify = caseinfo['verify']
         RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=datas,
                                     verify=verify)
+
+    # 钥匙武器箱相关接口
+    @pytest.mark.parametrize("caseinfo", read_yaml("/test_activity/weapon_box_list.yml"))
+    def test_weapon_box_list(self, caseinfo):
+        allure.dynamic.title(caseinfo['name'])
+        name = caseinfo['name']
+        method = caseinfo['method']
+        url = caseinfo['url']
+        datas = caseinfo['datas']
+        verify = caseinfo['verify']
+        RequestsUtil().send_request(testcasename=name, method=method, url=url, data=datas,
+                                    verify=verify)
+
+    @pytest.mark.parametrize("caseinfo", read_yaml("/test_activity/weapon_box_info.yml"))
+    def test_weapon_box_info(self, caseinfo):
+        allure.dynamic.title(caseinfo['name'])
+        name = caseinfo['name']
+        method = caseinfo['method']
+        url = caseinfo['url']
+        headers = read_variable_yaml(caseinfo['headers'])
+        datas = caseinfo['datas']
+        verify = caseinfo['verify']
+        RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=datas,
+                                    verify=verify)
+
+    @pytest.mark.parametrize("caseinfo", read_yaml("/test_activity/weapon_box_exchange_key.yml"))
+    def test_weapon_box_exchange_key(self, caseinfo):
+        allure.dynamic.title(caseinfo['name'])
+        name = caseinfo['name']
+        method = caseinfo['method']
+        url = caseinfo['url']
+        headers = read_variable_yaml(caseinfo['headers'])
+        datas = caseinfo['datas']
+        verify = caseinfo['verify']
+        RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=datas,
+                                    verify=verify)
+
+    @pytest.mark.parametrize("caseinfo", read_yaml("/test_activity/weapon_box_status.yml"))
+    def test_weapon_box_status(self, caseinfo):
+        allure.dynamic.title(caseinfo['name'])
+        name = caseinfo['name']
+        method = caseinfo['method']
+        url = caseinfo['url']
+        headers = read_variable_yaml(caseinfo['headers'])
+        datas = caseinfo['datas']
+        verify = caseinfo['verify']
+        res = RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=datas,
+                                          verify=verify)
+        return res
+
+    @pytest.mark.parametrize("caseinfo_1", read_yaml("/test_activity/weapon_box_status.yml"))
+    @pytest.mark.parametrize("caseinfo_2", read_yaml("/test_activity/weapon_box_open.yml"))
+    def test_weapon_box_open(self, caseinfo_1, caseinfo_2):
+        # 先记录开箱前的钥匙数量，命悬一线武器箱：
+        before_status_res = TestBoxs().test_weapon_box_status(caseinfo_1)
+        if before_status_res.json()['code'] == 200:
+            write_extract_yaml({"key_nums": jsonpath.jsonpath(before_status_res.json(), "$..key_nums")[0]})
+        # 开启一次武器箱：
+        allure.dynamic.title(caseinfo_2['name'])
+        name = caseinfo_2['name']
+        method = caseinfo_2['method']
+        url = caseinfo_2['url']
+        headers = read_variable_yaml(caseinfo_2['headers'])
+        datas = caseinfo_2['datas']
+        verify = caseinfo_2['verify']
+        res = RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=datas,
+                                    verify=verify)
+        # 查询开启后的钥匙数量：
+        if res.json()['code'] == 200:
+            later_status_res = TestBoxs().test_weapon_box_status(caseinfo_1)
+            if later_status_res.json()['code'] == 200:
+                my_logging.info(jsonpath.jsonpath(later_status_res.json(), "$..key_nums")[0])
+                if pytest.assume(jsonpath.jsonpath(later_status_res.json(), "$..key_nums")[0] == read_extract_yaml()[
+                    'key_nums'] - 1):
+                    my_logging.info("开启武器箱成功，且钥匙消耗正常。")
+                else:
+                    my_logging.info("钥匙消耗数量异常，请检查！")
+            else:
+                pass
