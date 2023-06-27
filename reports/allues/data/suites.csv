@@ -1,3 +1,7 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+<<<<<<< HEAD
 "failed","Tue Jun 27 10:57:31 CST 2023","Tue Jun 27 10:57:31 CST 2023","110","testcases","test_boxs","TestBoxs","","","开启钥匙箱--钥匙不足","【开启钥匙箱--钥匙不足】接口，断言：code=200，断言失败。实际值为：500"
 "passed","Tue Jun 27 10:57:30 CST 2023","Tue Jun 27 10:57:31 CST 2023","709","testcases","test_boxs","TestBoxs","","","查询钥匙箱状态-已登录",""
+=======
+"passed","Fri May 19 15:15:51 CST 2023","Fri May 19 15:15:51 CST 2023","51","testcases","test_task","TestTask","","","获取任务列表接口",""
+>>>>>>> 9be76ac395e204359265d118cb5f6a4e1274a5a4

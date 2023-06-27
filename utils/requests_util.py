@@ -15,7 +15,6 @@ class RequestsUtil:
                      cert=None):
         method = str(method).lower()
         base_url = read_yaml("/common/host_config_datas.yml")['host']
-        # try:
         if method == 'get':
             res = RequestsUtil.session.request(method="get", url=base_url + url, params=data, headers=headers,
                                                cookies=cookies, files=files, auth=auth, timeout=timeout,

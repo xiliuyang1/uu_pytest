@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 [{"uid":"161278aae26d229d","name":"开启钥匙箱--钥匙不足","time":{"start":1687834651637,"stop":1687834651747,"duration":110},"status":"failed","severity":"normal"},{"uid":"f97eb6681afe6369","name":"查询钥匙箱状态-已登录","time":{"start":1687834650923,"stop":1687834651632,"duration":709},"status":"passed","severity":"normal"}]
+=======
+[{"uid":"ca749a0ba7ab92d","name":"获取任务列表接口","time":{"start":1684480551940,"stop":1684480551991,"duration":51},"status":"passed","severity":"normal"}]
+>>>>>>> 9be76ac395e204359265d118cb5f6a4e1274a5a4

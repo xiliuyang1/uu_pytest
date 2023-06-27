@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"947821af9418aa284d41b25c3ecfd242":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"f97eb6681afe6369","status":"passed","time":{"start":1687834650923,"stop":1687834651632,"duration":709}}]},"a1e6741623ffd0dc2b66b75836ee4f39":{"statistic":{"failed":1,"broken":0,"skipped":0,"passed":0,"unknown":0,"total":1},"items":[{"uid":"161278aae26d229d","status":"failed","statusDetails":"pytest_assume.plugin.FailedAssumption: \n1 Failed Assumptions:\n\nutils\\requests_util.py:62: AssumptionFailure\n>>\tif pytest.assume(str(result_value[0]) == str(verify_value)):\nAssertionError: assert False","time":{"start":1687834651637,"stop":1687834651747,"duration":110}}]}}
+=======
+{"abdbcd446b9ba317499da9c600ba0f87":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"ca749a0ba7ab92d","status":"passed","time":{"start":1684480551940,"stop":1684480551991,"duration":51}}]}}
+>>>>>>> 9be76ac395e204359265d118cb5f6a4e1274a5a4
