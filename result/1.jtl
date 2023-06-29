@@ -1,0 +1,1647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="608" it="0" lt="607" ct="577" ts="1687943705053" s="false" lb="手机号注册" rc="200" rm="OK" tn="登录 1-1" dt="text" by="609" sby="321" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/phone/register</java.net.URL>
+</httpSample>
+<httpSample t="500" it="0" lt="500" ct="0" ts="1687943705704" s="false" lb="手机号密码登录" rc="200" rm="OK" tn="登录 1-1" dt="text" by="549" sby="345" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/phone/loginPassword</java.net.URL>
+</httpSample>
+<httpSample t="88" it="0" lt="88" ct="62" ts="1687943706212" s="true" lb="活动状态" rc="200" rm="OK" tn="大转盘活动 2-1" dt="text" by="598" sby="228" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/lucky/status</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1687943706301" s="true" lb="活动奖品列表" rc="200" rm="OK" tn="大转盘活动 2-1" dt="text" by="13636" sby="241" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/lucky/info?code=LUCKY_BIG</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1687943706424" s="false" lb="大转盘抽奖" rc="200" rm="OK" tn="大转盘活动 2-1" dt="text" by="516" sby="274" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;401&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/lucky/open</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1687943706452" s="false" lb="用户抽奖记录" rc="200" rm="OK" tn="大转盘活动 2-1" dt="text" by="516" sby="249" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;401&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/lucky/user-history?code=LUCKY_BIG</java.net.URL>
+</httpSample>
+<httpSample t="29" it="0" lt="29" ct="0" ts="1687943706479" s="false" lb="用户抽奖记录-未领取的奖品列表" rc="200" rm="OK" tn="大转盘活动 2-1" dt="text" by="516" sby="260" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;401&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/lucky/user-no-receive-history?code=LUCKY_BIG</java.net.URL>
+</httpSample>
+<httpSample t="38" it="0" lt="38" ct="0" ts="1687943706509" s="false" lb="领取大转盘奖励" rc="200" rm="OK" tn="大转盘活动 2-1" dt="text" by="552" sby="260" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/lucky/receive</java.net.URL>
+</httpSample>
+<httpSample t="33" it="0" lt="32" ct="0" ts="1687943706548" s="true" lb="中奖公告列表" rc="200" rm="OK" tn="大转盘活动 2-1" dt="text" by="24357" sby="278" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/lucky/get-last-open?code=LUCKY_BIG&amp;lucky_id=986739756387794944</java.net.URL>
+</httpSample>
+<httpSample t="103" it="0" lt="103" ct="64" ts="1687943706591" s="false" lb="APP下载" rc="200" rm="OK" tn="APP相关 3-1" dt="text" by="542" sby="221" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/app/down</java.net.URL>
+</httpSample>
+<httpSample t="95" it="0" lt="95" ct="0" ts="1687943706695" s="true" lb="APP审核配置" rc="200" rm="OK" tn="APP相关 3-1" dt="text" by="1083" sby="268" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/audit/getConfigByVersion?channel_code=web&amp;version=2.1.3</java.net.URL>
+</httpSample>
+<httpSample t="42" it="0" lt="42" ct="0" ts="1687943706792" s="true" lb="APP详情" rc="200" rm="OK" tn="APP相关 3-1" dt="text" by="1950" sby="223" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/app/detail</java.net.URL>
+</httpSample>
+<httpSample t="376" it="0" lt="376" ct="55" ts="1687943706838" s="true" lb="获取近期战绩-dota2" rc="200" rm="OK" tn="APP-战队数据 4-1" dt="text" by="5925" sby="267" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/match/recently?schedule_id=3315420701895352320&amp;nums=10</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1687943707216" s="true" lb="获取近期战绩-csgo" rc="200" rm="OK" tn="APP-战队数据 4-1" dt="text" by="10075" sby="267" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/match/recently?schedule_id=3315139141019213824&amp;nums=10</java.net.URL>
+</httpSample>
+<httpSample t="491" it="0" lt="491" ct="0" ts="1687943707239" s="true" lb="获取交手战绩-dota2" rc="200" rm="OK" tn="APP-战队数据 4-1" dt="text" by="3399" sby="265" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/match/battle?schedule_id=3315420701895352320&amp;nums=10</java.net.URL>
+</httpSample>
+<httpSample t="29" it="0" lt="29" ct="0" ts="1687943707732" s="true" lb="获取交手战绩-csgo" rc="200" rm="OK" tn="APP-战队数据 4-1" dt="text" by="2502" sby="265" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/match/battle?schedule_id=3315139141019213824&amp;nums=10</java.net.URL>
+</httpSample>
+<httpSample t="119" it="0" lt="119" ct="0" ts="1687943707762" s="true" lb="获取对位战绩-dota2" rc="200" rm="OK" tn="APP-战队数据 4-1" dt="text" by="5046" sby="265" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/match/player?schedule_id=3315420701895352320&amp;nums=10</java.net.URL>
+</httpSample>
+<httpSample t="38" it="0" lt="38" ct="0" ts="1687943707883" s="true" lb="获取对位战绩-csgo" rc="200" rm="OK" tn="APP-战队数据 4-1" dt="text" by="16030" sby="265" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/match/player?schedule_id=3315139141019213824&amp;nums=10</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1687943707924" s="true" lb="预加载的数据-csgo" rc="200" rm="OK" tn="APP-战队数据 4-1" dt="text" by="509" sby="265" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/match/prepare?schedule_ids=3315139141019213824&amp;nums=</java.net.URL>
+</httpSample>
+<httpSample t="491" it="0" lt="491" ct="49" ts="1687943707952" s="true" lb="实时基础数据-csgo" rc="200" rm="OK" tn="实时数据分类 5-1" dt="text" by="943" sby="266" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/match/BaseData?schedule_id=3315139141019213824&amp;round=</java.net.URL>
+</httpSample>
+<httpSample t="251" it="0" lt="251" ct="0" ts="1687943708445" s="true" lb="实时基础数据-dota2" rc="200" rm="OK" tn="实时数据分类 5-1" dt="text" by="629" sby="266" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/match/BaseData?schedule_id=3315420701895352320&amp;round=</java.net.URL>
+</httpSample>
+<httpSample t="75" it="0" lt="74" ct="59" ts="1687943708703" s="false" lb="获取交手记录-dota2" rc="502" rm="Bad Gateway" tn="C5的API文档 6-1" dt="text" by="300" sby="247" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/tournament/battle/dota?teamId=&amp;opTeamId=</java.net.URL>
+</httpSample>
+<httpSample t="15" it="0" lt="15" ct="0" ts="1687943708779" s="false" lb="获取近期战绩-csgo" rc="502" rm="Bad Gateway" tn="C5的API文档 6-1" dt="text" by="300" sby="267" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/tournament/recently-match/csgo?teamId=&amp;opTeamId=&amp;statsCount=</java.net.URL>
+</httpSample>
+<httpSample t="16" it="0" lt="16" ct="0" ts="1687943708795" s="false" lb="获取近期战绩-dota2" rc="502" rm="Bad Gateway" tn="C5的API文档 6-1" dt="text" by="300" sby="267" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/tournament/recently-match/dota?teamId=&amp;opTeamId=&amp;statsCount=</java.net.URL>
+</httpSample>
+<httpSample t="17" it="0" lt="17" ct="0" ts="1687943708812" s="false" lb="获取某支队伍的详细信息" rc="502" rm="Bad Gateway" tn="C5的API文档 6-1" dt="text" by="300" sby="255" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/tournament/recently-match/dota?gameId=&amp;teamName=</java.net.URL>
+</httpSample>
+<httpSample t="90" it="0" lt="90" ct="65" ts="1687943708835" s="false" lb="第三方奖励" rc="200" rm="OK" tn="第三方对接 7-1" dt="text" by="516" sby="246" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;401&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/user/thirdReward?channel=red_alert</java.net.URL>
+</httpSample>
+<httpSample t="93" it="0" lt="93" ct="59" ts="1687943708934" s="false" lb="用户信息查询" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="516" sby="221" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;401&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/user/info</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1687943709027" s="false" lb="设置密码" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="516" sby="265" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;401&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/password/set</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1687943709056" s="false" lb="密码修改" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="516" sby="287" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;401&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/password/change</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1687943709085" s="false" lb="更新昵称" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="516" sby="262" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;401&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/nickname/edit</java.net.URL>
+</httpSample>
+<httpSample t="69" it="0" lt="69" ct="0" ts="1687943709111" s="false" lb="修改头像" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="516" sby="46544" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;401&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/avatar/edit</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1687943709181" s="false" lb="邮箱绑定" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="603" sby="283" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/mailbox/bind</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1687943709210" s="false" lb="邮箱解绑" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="516" sby="285" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;401&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/mailbox/unBind</java.net.URL>
+</httpSample>
+<httpSample t="525" it="0" lt="525" ct="0" ts="1687943709237" s="true" lb="邮箱验证码登录" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="1098" sby="308" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/mail/login</java.net.URL>
+</httpSample>
+<httpSample t="38" it="0" lt="38" ct="0" ts="1687943709765" s="false" lb="手机绑定" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="615" sby="319" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/phone/bind</java.net.URL>
+</httpSample>
+<httpSample t="43" it="0" lt="43" ct="0" ts="1687943709804" s="true" lb="手机解绑" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="1368" sby="318" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/user/info</java.net.URL>
+</httpSample>
+<httpSample t="33" it="0" lt="33" ct="0" ts="1687943709848" s="false" lb="实名认证" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="634" sby="375" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/IdentityCertify/create</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1687943709882" s="false" lb="实名认证轮询接口" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="531" sby="277" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/identityCertify/monitor?query_id=</java.net.URL>
+</httpSample>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1687943709909" s="false" lb="绑定上级" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="507" sby="297" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/user/bindParent</java.net.URL>
+</httpSample>
+<httpSample t="31" it="0" lt="31" ct="0" ts="1687943709943" s="false" lb="注册个推" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="531" sby="289" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;530&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/getui/Register</java.net.URL>
+</httpSample>
+<httpSample t="33" it="0" lt="33" ct="0" ts="1687943709975" s="true" lb="用户配置信息获取" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="674" sby="275" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/config/list</java.net.URL>
+</httpSample>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1687943710009" s="true" lb="用户配置信息更新" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="509" sby="316" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/config/set</java.net.URL>
+</httpSample>
+<httpSample t="101" it="0" lt="101" ct="0" ts="1687943710042" s="true" lb="设置喜欢的游戏" rc="200" rm="OK" tn="个人中心模块 8-1" dt="text" by="509" sby="296" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/user/setFavoriteGame</java.net.URL>
+</httpSample>
+<httpSample t="268" it="0" lt="268" ct="65" ts="1687943710151" s="true" lb="获取资讯分类列表" rc="200" rm="OK" tn="资讯 9-1" dt="text" by="2254" sby="291" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/article/articleClass/list?lang=zh-CN&amp;page=1&amp;limit=20</java.net.URL>
+</httpSample>
+<httpSample t="351" it="0" lt="335" ct="0" ts="1687943710421" s="true" lb="获取资讯列表" rc="200" rm="OK" tn="资讯 9-1" dt="text" by="71009" sby="309" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/article/article/list?lang=zh-CN&amp;page=1&amp;limit=10&amp;article_id=&amp;class_id=3</java.net.URL>
+</httpSample>
+<httpSample t="67" it="0" lt="67" ct="0" ts="1687943710780" s="true" lb="获取资讯详情" rc="200" rm="OK" tn="资讯 9-1" dt="text" by="2714" sby="284" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/article/article/detail?id=1028832329554878512</java.net.URL>
+</httpSample>
+<httpSample t="73" it="0" lt="73" ct="0" ts="1687943710848" s="true" lb="获取banner列表" rc="200" rm="OK" tn="资讯 9-1" dt="text" by="528" sby="313" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/banner/list?lang=zh-CN&amp;position=pc_cases_list&amp;page=1&amp;limit=5&amp;status=</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="64" ct="0" ts="1687943710923" s="true" lb="资讯热榜-APP" rc="200" rm="OK" tn="资讯 9-1" dt="text" by="6277" sby="293" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/article/article/hotlist</java.net.URL>
+</httpSample>
+<httpSample t="64" it="0" lt="64" ct="0" ts="1687943710989" s="true" lb="获取浮动活动列表" rc="200" rm="OK" tn="资讯 9-1" dt="text" by="518" sby="268" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/guessActivity/floatList</java.net.URL>
+</httpSample>
+<httpSample t="87" it="0" lt="87" ct="44" ts="1687943711057" s="true" lb="获取任务列表" rc="200" rm="OK" tn="任务 10-1" dt="text" by="3426" sby="253" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/task/list</java.net.URL>
+</httpSample>
+<httpSample t="27" it="0" lt="27" ct="0" ts="1687943711146" s="true" lb="每日任务奖励" rc="200" rm="OK" tn="任务 10-1" dt="text" by="527" sby="261" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/task/signInReward</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1687943711174" s="true" lb="接受任务" rc="200" rm="OK" tn="任务 10-1" dt="text" by="511" sby="303" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/task/accept</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1687943711201" s="true" lb="领取任务奖励" rc="200" rm="OK" tn="任务 10-1" dt="text" by="512" sby="303" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/task/receive</java.net.URL>
+</httpSample>
+<httpSample t="73" it="0" lt="73" ct="51" ts="1687943711231" s="true" lb="获取steam登录URL" rc="200" rm="OK" tn="steam 11-1" dt="text" by="994" sby="256" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/steam/getUrl</java.net.URL>
+</httpSample>
+<httpSample t="74" it="0" lt="74" ct="0" ts="1687943711306" s="true" lb="获取用户绑定的steam账号列表" rc="200" rm="OK" tn="steam 11-1" dt="text" by="943" sby="254" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/steam/list</java.net.URL>
+</httpSample>
+<httpSample t="1329" it="0" lt="1329" ct="0" ts="1687943711384" s="false" lb="steam状态检测" rc="200" rm="OK" tn="steam 11-1" dt="text" by="551" sby="317" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;101008&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/store/checkHealth</java.net.URL>
+</httpSample>
+<httpSample t="244" it="0" lt="244" ct="0" ts="1687943712715" s="false" lb="获取steam登录状态" rc="200" rm="OK" tn="steam 11-1" dt="text" by="551" sby="289" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;101008&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/store/loginStatus?steam_id=76561199486564202</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1687943712960" s="false" lb="设置默认steam" rc="200" rm="OK" tn="steam 11-1" dt="text" by="551" sby="303" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/steam/setDefault</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1687943712987" s="false" lb="设置steam交易URL" rc="200" rm="OK" tn="steam 11-1" dt="text" by="555" sby="325" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/steam/setSteamUrl</java.net.URL>
+</httpSample>
+<httpSample t="1880" it="0" lt="1880" ct="0" ts="1687943713014" s="true" lb="设置steam交易URL-APP" rc="200" rm="OK" tn="steam 11-1" dt="text" by="644" sby="330" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/steam/setSteamUrlByApp</java.net.URL>
+</httpSample>
+<httpSample t="249" it="0" lt="249" ct="0" ts="1687943714896" s="false" lb="获取steam状态" rc="200" rm="OK" tn="steam 11-1" dt="text" by="551" sby="295" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;101008&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/store/Health?steam_id=76561199486564202&amp;app_id=570</java.net.URL>
+</httpSample>
+<httpSample t="24" it="0" lt="24" ct="0" ts="1687943715146" s="false" lb="校验steam链接是否正确" rc="200" rm="OK" tn="steam 11-1" dt="text" by="531" sby="300" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/steam/checkSteamUrl</java.net.URL>
+</httpSample>
+<httpSample t="253" it="0" lt="253" ct="0" ts="1687943715171" s="false" lb="一键修复功能" rc="200" rm="OK" tn="steam 11-1" dt="text" by="551" sby="304" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;101008&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/store/repair</java.net.URL>
+</httpSample>
+<httpSample t="58" it="0" lt="58" ct="0" ts="1687943715425" s="false" lb="设置API Key（api_key未填写）" rc="200" rm="OK" tn="steam 11-1" dt="text" by="531" sby="326" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/steamAccount/updateApiKey</java.net.URL>
+</httpSample>
+<httpSample t="60" it="0" lt="60" ct="0" ts="1687943715485" s="false" lb="用户steam交易账号检测" rc="200" rm="OK" tn="steam 11-1" dt="text" by="531" sby="314" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/steamAccount/status</java.net.URL>
+</httpSample>
+<httpSample t="451" it="0" lt="451" ct="0" ts="1687943715547" s="true" lb="steam解绑" rc="200" rm="OK" tn="steam 11-1" dt="text" by="520" sby="299" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/steam/unbind</java.net.URL>
+</httpSample>
+<httpSample t="1489" it="0" lt="1489" ct="0" ts="1687943715999" s="true" lb="小程序绑定steam" rc="200" rm="OK" tn="steam 11-1" dt="text" by="1098" sby="301" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/steam/bind</java.net.URL>
+</httpSample>
+<httpSample t="108" it="0" lt="108" ct="71" ts="1687943717494" s="true" lb="公告接口" rc="200" rm="OK" tn="公告 12-1" dt="text" by="532" sby="268" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/notice/info?show_area=3</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="59" ct="0" ts="1687943717603" s="true" lb="公告列表接口" rc="200" rm="OK" tn="公告 12-1" dt="text" by="528" sby="268" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/notice/list?show_area=3</java.net.URL>
+</httpSample>
+<httpSample t="72" it="0" lt="59" ct="0" ts="1687943717663" s="true" lb="条款协议接口" rc="200" rm="OK" tn="公告 12-1" dt="text" by="44443" sby="281" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/about/info?code=registration_agreeme</java.net.URL>
+</httpSample>
+<httpSample t="539" it="0" lt="511" ct="66" ts="1687943717744" s="true" lb="获取背包列表" rc="200" rm="OK" tn="背包 13-1" dt="text" by="40894" sby="318" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/inventory/list?limit=20&amp;page=1&amp;appid=730&amp;type=1&amp;min_price=&amp;price_sort=asc</java.net.URL>
+</httpSample>
+<httpSample t="89" it="0" lt="89" ct="0" ts="1687943718288" s="true" lb="获取背包明细" rc="200" rm="OK" tn="背包 13-1" dt="text" by="5889" sby="291" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/inventory/history?type=&amp;limit=20&amp;page=1&amp;event=</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="84" ct="0" ts="1687943718378" s="false" lb="背包饰品兑换" rc="200" rm="OK" tn="背包 13-1" dt="text" by="573" sby="316" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/inventory/exchange</java.net.URL>
+</httpSample>
+<httpSample t="129" it="0" lt="129" ct="0" ts="1687943718464" s="false" lb="饰品取回" rc="200" rm="OK" tn="背包 13-1" dt="text" by="585" sby="430" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/inventory/withdraw</java.net.URL>
+</httpSample>
+<httpSample t="116" it="0" lt="116" ct="0" ts="1687943718594" s="true" lb="取回饰品的报价跟踪" rc="200" rm="OK" tn="背包 13-1" dt="text" by="518" sby="282" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/offer/tracker</java.net.URL>
+</httpSample>
+<httpSample t="40" it="0" lt="40" ct="0" ts="1687943718710" s="true" lb="获取用户的总取回金额" rc="200" rm="OK" tn="背包 13-1" dt="text" by="509" sby="305" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/backend/item/getUserPurchase?user_ids=&amp;start_time=&amp;end_time=</java.net.URL>
+</httpSample>
+<sample t="1" it="0" lt="0" ct="0" ts="1687943718756" s="false" lb="调试取样器" rc="200" rm="OK" tn="背包 13-1" dt="text" by="323" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+</sample>
+<httpSample t="83" it="0" lt="83" ct="56" ts="1687943718769" s="true" lb="获取站内信列表" rc="200" rm="OK" tn="消息中心 14-1" dt="text" by="567" sby="282" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/notify/getList?page=1&amp;limit=10&amp;class=3</java.net.URL>
+</httpSample>
+<httpSample t="244" it="0" lt="244" ct="0" ts="1687943718853" s="true" lb="未读消息条数" rc="200" rm="OK" tn="消息中心 14-1" dt="text" by="544" sby="263" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/notify/getUnreadNum</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1687943719098" s="false" lb="站内信消息详情" rc="200" rm="OK" tn="消息中心 14-1" dt="text" by="543" sby="262" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/notify/getInfo?id=</java.net.URL>
+</httpSample>
+<httpSample t="34" it="0" lt="34" ct="0" ts="1687943719125" s="false" lb="单条消息已读" rc="200" rm="OK" tn="消息中心 14-1" dt="text" by="536" sby="278" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/notify/read</java.net.URL>
+</httpSample>
+<httpSample t="28" it="0" lt="28" ct="0" ts="1687943719160" s="true" lb="全部已读" rc="200" rm="OK" tn="消息中心 14-1" dt="text" by="511" sby="285" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/notify/readAll</java.net.URL>
+</httpSample>
+<httpSample t="23" it="0" lt="23" ct="0" ts="1687943719190" s="false" lb="单条消息删除" rc="200" rm="OK" tn="消息中心 14-1" dt="text" by="561" sby="280" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/notify/delete</java.net.URL>
+</httpSample>
+<httpSample t="25" it="0" lt="25" ct="0" ts="1687943719214" s="true" lb="全部删除" rc="200" rm="OK" tn="消息中心 14-1" dt="text" by="512" sby="287" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/notify/deleteAll</java.net.URL>
+</httpSample>
+<httpSample t="1900" it="0" lt="1871" ct="50" ts="1687943719243" s="true" lb="房间列表" rc="200" rm="OK" tn="ROLL房 15-1" dt="text" by="51758" sby="287" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/roll/room/list?type=0&amp;user_tag=0&amp;page=1&amp;limit=20</java.net.URL>
+</httpSample>
+<httpSample t="208" it="0" lt="208" ct="0" ts="1687943721148" s="true" lb="房间详情" rc="200" rm="OK" tn="ROLL房 15-1" dt="text" by="1565" sby="283" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/roll/room/detail?room_id=1144842457491165184</java.net.URL>
+</httpSample>
+<httpSample t="80" it="0" lt="80" ct="0" ts="1687943721357" s="true" lb="房间内的奖励列表" rc="200" rm="OK" tn="ROLL房 15-1" dt="text" by="5272" sby="305" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/roll/room/roomItemList?room_id=1144842457491165184&amp;page=1&amp;limit=20</java.net.URL>
+</httpSample>
+<httpSample t="257" it="0" lt="256" ct="0" ts="1687943721439" s="false" lb="加入房间" rc="200" rm="OK" tn="ROLL房 15-1" dt="text" by="546" sby="311" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/roll/room/join</java.net.URL>
+</httpSample>
+<httpSample t="463" it="0" lt="463" ct="300" ts="1687943721705" s="true" lb="获取商品列表" rc="200" rm="OK" tn="饰品商城 16-1" dt="text" by="3611" sby="338" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/product/list?appid=101&amp;price_area=&amp;price_sort=&amp;limit=20&amp;page=1&amp;keyword=&amp;is_hot=&amp;is_recommend=</java.net.URL>
+</httpSample>
+<httpSample t="79" it="0" lt="78" ct="0" ts="1687943722170" s="false" lb="购买商品" rc="200" rm="OK" tn="饰品商城 16-1" dt="text" by="603" sby="333" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/product/buy</java.net.URL>
+</httpSample>
+<httpSample t="2465" it="0" lt="2464" ct="0" ts="1687943722249" s="true" lb="用户的详细购买记录（包含购买用户的详细信息）" rc="200" rm="OK" tn="饰品商城 16-1" dt="text" by="25609" sby="296" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/product/buyList?appid=730&amp;refresh=1&amp;limit=20&amp;page=1</java.net.URL>
+</httpSample>
+<httpSample t="61" it="0" lt="61" ct="0" ts="1687943724716" s="true" lb="查询商城搜索历史" rc="200" rm="OK" tn="饰品商城 16-1" dt="text" by="509" sby="259" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/search/history</java.net.URL>
+</httpSample>
+<httpSample t="80" it="0" lt="80" ct="0" ts="1687943724779" s="true" lb="饰品商城的购买记录（主要是订单的信息）" rc="200" rm="OK" tn="饰品商城 16-1" dt="text" by="548" sby="271" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/order/list?limit=1&amp;page=20</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="63" ct="0" ts="1687943724860" s="false" lb="创建订单" rc="200" rm="OK" tn="饰品商城 16-1" dt="text" by="531" sby="329" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/product-steam-order/create?product_id=1013974175900717056&amp;price=888&amp;steam_trade_url=</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="1687943724925" s="false" lb="调试取样器" rc="200" rm="OK" tn="饰品商城 16-1" dt="text" by="312" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+</sample>
+<httpSample t="1324" it="0" lt="1324" ct="61" ts="1687943724934" s="true" lb="获取在售商品列表" rc="200" rm="OK" tn="实物周边 17-1" dt="text" by="1192" sby="308" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/goods/listPage?page=1&amp;limit=20&amp;sort_key=3&amp;sort_value=0&amp;keywords=</java.net.URL>
+</httpSample>
+<httpSample t="1101" it="0" lt="1101" ct="0" ts="1687943726258" s="true" lb="查看商品详情" rc="200" rm="OK" tn="实物周边 17-1" dt="text" by="1629" sby="265" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/goods/info?spu_id=368</java.net.URL>
+</httpSample>
+<httpSample t="118" it="0" lt="118" ct="0" ts="1687943727360" s="true" lb="新增收货地址" rc="200" rm="OK" tn="实物周边 17-1" dt="text" by="548" sby="437" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/address/create</java.net.URL>
+</httpSample>
+<httpSample t="74" it="0" lt="74" ct="0" ts="1687943727479" s="true" lb="获取收货地址列表" rc="200" rm="OK" tn="实物周边 17-1" dt="text" by="1184" sby="256" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/address/list</java.net.URL>
+</httpSample>
+<httpSample t="97" it="0" lt="97" ct="0" ts="1687943727553" s="true" lb="修改收货地址" rc="200" rm="OK" tn="实物周边 17-1" dt="text" by="555" sby="466" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/address/edit</java.net.URL>
+</httpSample>
+<httpSample t="74" it="0" lt="74" ct="0" ts="1687943727651" s="true" lb="获取地址详情" rc="200" rm="OK" tn="实物周边 17-1" dt="text" by="864" sby="287" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/address/info?address_id=1148080457188888576</java.net.URL>
+</httpSample>
+<httpSample t="76" it="0" lt="76" ct="0" ts="1687943727726" s="true" lb="删除收货地址" rc="200" rm="OK" tn="实物周边 17-1" dt="text" by="555" sby="309" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/address/delete</java.net.URL>
+</httpSample>
+<httpSample t="383" it="0" lt="50" ct="0" ts="1687943727803" s="true" lb="获取省市区ID" rc="200" rm="OK" tn="实物周边 17-1" dt="text" by="170598" sby="258" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/address/region</java.net.URL>
+</httpSample>
+<httpSample t="150" it="0" lt="150" ct="47" ts="1687943728199" s="true" lb="订单列表" rc="200" rm="OK" tn="实物订单管理 18-1" dt="text" by="509" sby="281" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/order/listPage?type=0&amp;page=1&amp;limit=20</java.net.URL>
+</httpSample>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1687943728351" s="false" lb="订单详情" rc="200" rm="OK" tn="实物订单管理 18-1" dt="text" by="531" sby="264" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/order/info?order_id=</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1687943728383" s="false" lb="获取订单地址ID和邮费信息" rc="200" rm="OK" tn="实物订单管理 18-1" dt="text" by="531" sby="268" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/order/MailInfo?order_id=</java.net.URL>
+</httpSample>
+<httpSample t="22" it="0" lt="22" ct="0" ts="1687943728405" s="false" lb="获取物流单号" rc="200" rm="OK" tn="实物订单管理 18-1" dt="text" by="531" sby="269" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/order/logistics?order_id=</java.net.URL>
+</httpSample>
+<httpSample t="57" it="0" lt="57" ct="0" ts="1687943728428" s="true" lb="获取物流信息" rc="200" rm="OK" tn="实物订单管理 18-1" dt="text" by="3503" sby="289" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/tool/logisticsQuery?courier_id=78628969316168</java.net.URL>
+</httpSample>
+<httpSample t="255" it="0" lt="255" ct="0" ts="1687943728486" s="false" lb="发货接口" rc="200" rm="OK" tn="实物订单管理 18-1" dt="text" by="531" sby="293" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/order/deliver?order_id=&amp;courier_id=78628969316168</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1687943728742" s="false" lb="用户收货" rc="200" rm="OK" tn="实物订单管理 18-1" dt="text" by="531" sby="286" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mall/order/confirm</java.net.URL>
+</httpSample>
+<httpSample t="99" it="0" lt="99" ct="46" ts="1687943728770" s="true" lb="获取用户steam绑定url列表" rc="200" rm="OK" tn="steam售卖 19-1" dt="text" by="943" sby="254" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/steam/list</java.net.URL>
+</httpSample>
+<httpSample t="218" it="0" lt="218" ct="0" ts="1687943728870" s="false" lb="获取steam库存列表" rc="200" rm="OK" tn="steam售卖 19-1" dt="text" by="551" sby="293" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;101008&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/store/list?steam_id=76561199486564202&amp;app_id=570</java.net.URL>
+</httpSample>
+<httpSample t="256" it="0" lt="256" ct="0" ts="1687943729089" s="false" lb="steam饰品上架" rc="200" rm="OK" tn="steam售卖 19-1" dt="text" by="551" sby="501" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;101008&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/seller/create</java.net.URL>
+</httpSample>
+<httpSample t="434" it="0" lt="434" ct="0" ts="1687943729346" s="true" lb="获取steam在售列表" rc="200" rm="OK" tn="steam售卖 19-1" dt="text" by="560" sby="294" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/seller/list?steam_id=76561199486564202&amp;app_id=570</java.net.URL>
+</httpSample>
+<httpSample t="111" it="0" lt="111" ct="0" ts="1687943729782" s="false" lb="steam饰品改价" rc="200" rm="OK" tn="steam售卖 19-1" dt="text" by="531" sby="402" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/seller/edit</java.net.URL>
+</httpSample>
+<httpSample t="199" it="0" lt="199" ct="0" ts="1687943729895" s="false" lb="steam饰品下架" rc="200" rm="OK" tn="steam售卖 19-1" dt="text" by="531" sby="330" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/seller/delete</java.net.URL>
+</httpSample>
+<httpSample t="152" it="0" lt="152" ct="0" ts="1687943730098" s="false" lb="获取饰品订单列表" rc="200" rm="OK" tn="steam售卖 19-1" dt="text" by="560" sby="316" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;501&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/seller/order?steam_id=76561199486564202&amp;app_id=570&amp;page=&amp;limit=&amp;status=</java.net.URL>
+</httpSample>
+<httpSample t="200" it="0" lt="200" ct="0" ts="1687943730251" s="false" lb="获取饰品订单详情" rc="200" rm="OK" tn="steam售卖 19-1" dt="text" by="544" sby="274" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/seller/orderDetail?order_id=0</java.net.URL>
+</httpSample>
+<httpSample t="208" it="0" lt="208" ct="0" ts="1687943730453" s="true" lb="获取报价相关信息 " rc="200" rm="OK" tn="steam售卖 19-1" dt="text" by="533" sby="291" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/steam/seller/getOffers?offer_ids=1003886631979933697</java.net.URL>
+</httpSample>
+<httpSample t="72" it="0" lt="72" ct="50" ts="1687943730670" s="true" lb="获取联赛列表" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="509" sby="270" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/tournament/list?category=</java.net.URL>
+</httpSample>
+<httpSample t="59" it="0" lt="59" ct="0" ts="1687943730743" s="true" lb="赛事公告列表" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="528" sby="282" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/notice/list?show_area=2&amp;code=football</java.net.URL>
+</httpSample>
+<httpSample t="517" it="0" lt="517" ct="0" ts="1687943730803" s="true" lb="获取赛程列表" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="8268" sby="354" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/schedule/list?category=all&amp;page=1&amp;is_show_date=1&amp;limit=10&amp;current_date=&amp;tournament_ids=&amp;first_match_show_num=</java.net.URL>
+</httpSample>
+<httpSample t="804" it="0" lt="804" ct="0" ts="1687943731321" s="true" lb="获取某场比赛的盘口列表" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="18781" sby="287" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/match/list?schedule_id=3598999662839857152</java.net.URL>
+</httpSample>
+<httpSample t="1086" it="0" lt="1085" ct="0" ts="1687943732129" s="true" lb="获取某场比赛详情" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="18768" sby="290" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/schedule/info?schedule_id=3598999662839857152</java.net.URL>
+</httpSample>
+<httpSample t="81" it="0" lt="81" ct="0" ts="1687943733216" s="false" lb="支持某场比赛的某支队伍" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="555" sby="341" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/schedule/support</java.net.URL>
+</httpSample>
+<httpSample t="560" it="0" lt="559" ct="0" ts="1687943733298" s="false" lb="用户预测/加注接口" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="537" sby="347" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/guess/bet</java.net.URL>
+</httpSample>
+<httpSample t="93" it="0" lt="93" ct="0" ts="1687943733858" s="false" lb="用户预测换队接口" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="531" sby="387" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/guess/change</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="84" ct="0" ts="1687943733952" s="true" lb="获取用户预测统计数据接口" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="562" sby="287" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/user/guessStatistics?start_time=&amp;end_time=</java.net.URL>
+</httpSample>
+<httpSample t="432" it="0" lt="432" ct="0" ts="1687943734038" s="true" lb="获取用户24小时内的预测记录" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="603" sby="309" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/user/guessHistory?page=1&amp;limit=50&amp;is_last=1&amp;scene=forecast_order</java.net.URL>
+</httpSample>
+<httpSample t="491" it="0" lt="464" ct="0" ts="1687943734471" s="true" lb="获取用户完整的预测记录" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="33253" sby="269" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/user/guessHistory?page=1</java.net.URL>
+</httpSample>
+<httpSample t="207" it="0" lt="207" ct="0" ts="1687943734963" s="true" lb="获取用户在某个盘口的预测行为记录" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="543" sby="295" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/user/guessHistoryItem?match_id=3621267367463321600</java.net.URL>
+</httpSample>
+<httpSample t="123" it="0" lt="123" ct="0" ts="1687943735171" s="true" lb="预测排行榜" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="1371" sby="303" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/guess/rank?date_type=month&amp;category=&amp;start_date=&amp;end_date=</java.net.URL>
+</httpSample>
+<httpSample t="93" it="0" lt="93" ct="0" ts="1687943735296" s="true" lb="获取游戏列表" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="1974" sby="258" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/user/gameList</java.net.URL>
+</httpSample>
+<httpSample t="220" it="0" lt="220" ct="0" ts="1687943735390" s="true" lb="预测配置接口（最低下注额，快捷下注额度）" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="548" sby="260" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/guess/BetConfig</java.net.URL>
+</httpSample>
+<httpSample t="313" it="0" lt="313" ct="0" ts="1687943735610" s="true" lb="游戏的自定义排序" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="509" sby="318" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/user/SaveGameSort</java.net.URL>
+</httpSample>
+<httpSample t="104" it="0" lt="104" ct="0" ts="1687943735925" s="true" lb="获取比赛的评论列表" rc="200" rm="OK" tn="赛事 20-1" dt="text" by="585" sby="366" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/comment/list?project_id=3598999662839857152&amp;project=schedule&amp;level_comment_id=0&amp;first_replied_limit=200&amp;page=1&amp;limit=2000</java.net.URL>
+</httpSample>
+<httpSample t="500" it="0" lt="500" ct="53" ts="1687943736032" s="true" lb="发起评论" rc="200" rm="OK" tn="评论 21-1" dt="text" by="926" sby="365" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/comment/send</java.net.URL>
+</httpSample>
+<httpSample t="441" it="0" lt="441" ct="0" ts="1687943736533" s="true" lb="获取比赛评论列表" rc="200" rm="OK" tn="评论 21-1" dt="text" by="3587" sby="357" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/comment/list?project=schedule&amp;project_id=1&amp;level_comment_id=0&amp;first_replied_limit=10&amp;page=1&amp;limit=20&amp;appoint_id=</java.net.URL>
+</httpSample>
+<httpSample t="239" it="0" lt="239" ct="0" ts="1687943736975" s="true" lb="获取点赞评论列表 " rc="200" rm="OK" tn="评论 21-1" dt="text" by="15514" sby="276" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/comment/logList?page=1&amp;limit=20</java.net.URL>
+</httpSample>
+<httpSample t="179" it="0" lt="179" ct="0" ts="1687943737215" s="true" lb="评论点赞" rc="200" rm="OK" tn="评论 21-1" dt="text" by="543" sby="308" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/comment/like</java.net.URL>
+</httpSample>
+<httpSample t="158" it="0" lt="158" ct="0" ts="1687943737394" s="true" lb="取消点赞" rc="200" rm="OK" tn="评论 21-1" dt="text" by="543" sby="314" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/comment/cancelLike</java.net.URL>
+</httpSample>
+<httpSample t="74" it="0" lt="74" ct="0" ts="1687943737553" s="true" lb="未读消息条数" rc="200" rm="OK" tn="评论 21-1" dt="text" by="525" sby="263" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/comment/notReadNum</java.net.URL>
+</httpSample>
+<httpSample t="317" it="0" lt="317" ct="301" ts="1687943737633" s="false" lb="处理mq消息??" rc="502" rm="Bad Gateway" tn="websocket 22-1" dt="text" by="300" sby="254" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/mq-to-websocket</java.net.URL>
+</httpSample>
+<httpSample t="26" it="0" lt="26" ct="0" ts="1687943737951" s="true" lb="获取websocket配置" rc="200" rm="OK" tn="websocket 22-1" dt="text" by="899" sby="272" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/websocket/config?name=match</java.net.URL>
+</httpSample>
+<httpSample t="719" it="0" lt="719" ct="55" ts="1687943737980" s="true" lb="获取steam账号列表" rc="200" rm="OK" tn="预言 23-1" dt="text" by="955" sby="263" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/steamList</java.net.URL>
+</httpSample>
+<httpSample t="345" it="0" lt="345" ct="0" ts="1687943738701" s="true" lb="steam账号预测状态" rc="200" rm="OK" tn="预言 23-1" dt="text" by="609" sby="268" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/status?app_id=</java.net.URL>
+</httpSample>
+<httpSample t="751" it="0" lt="751" ct="0" ts="1687943739047" s="true" lb="dota2战绩是否公开" rc="200" rm="OK" tn="预言 23-1" dt="text" by="520" sby="290" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/checkOpen?steam_id=76561199486564202</java.net.URL>
+</httpSample>
+<httpSample t="244" it="0" lt="244" ct="0" ts="1687943739799" s="true" lb="获取投注配置" rc="200" rm="OK" tn="预言 23-1" dt="text" by="561" sby="263" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/betConfig</java.net.URL>
+</httpSample>
+<httpSample t="78" it="0" lt="78" ct="0" ts="1687943740044" s="false" lb="csgo预言账号绑定（授权）" rc="200" rm="OK" tn="预言 23-1" dt="text" by="531" sby="339" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/bind</java.net.URL>
+</httpSample>
+<httpSample t="716" it="0" lt="716" ct="0" ts="1687943740123" s="true" lb="获取预言统计数据（总场次、总胜率、周收益）" rc="200" rm="OK" tn="预言 23-1" dt="text" by="1518" sby="286" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/index?steam_id=76561199486564202</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="84" ct="0" ts="1687943740840" s="true" lb="获取当前的预言记录" rc="200" rm="OK" tn="预言 23-1" dt="text" by="587" sby="258" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/list</java.net.URL>
+</httpSample>
+<httpSample t="117" it="0" lt="117" ct="0" ts="1687943740925" s="true" lb="我的预言-预言记录列表" rc="200" rm="OK" tn="预言 23-1" dt="text" by="573" sby="279" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/matchList?page=1&amp;limit=10</java.net.URL>
+</httpSample>
+<httpSample t="133" it="0" lt="133" ct="0" ts="1687943741043" s="true" lb="我的比赛-比赛列表(当前steam账号的所有比赛)" rc="200" rm="OK" tn="预言 23-1" dt="text" by="572" sby="306" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/matchListAll?steam_id=76561199486564202&amp;page=&amp;limit=</java.net.URL>
+</httpSample>
+<httpSample t="121" it="0" lt="38" ct="0" ts="1687943741177" s="true" lb="预言成功的轮播列表-CSGO" rc="200" rm="OK" tn="预言 23-1" dt="text" by="84914" sby="302" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/historyList?app_id=730&amp;page=1&amp;limit=20&amp;refresh=2</java.net.URL>
+</httpSample>
+<httpSample t="100" it="0" lt="40" ct="0" ts="1687943741302" s="true" lb="预言成功的轮播列表-DOTA2" rc="200" rm="OK" tn="预言 23-1" dt="text" by="84914" sby="302" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/historyList?app_id=570&amp;page=1&amp;limit=20&amp;refresh=2</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="63" ct="0" ts="1687943741405" s="false" lb="比赛详情" rc="200" rm="OK" tn="预言 23-1" dt="text" by="531" sby="303" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/getMatchInfo?steam_id=76561199486564202&amp;match_id=</java.net.URL>
+</httpSample>
+<httpSample t="83" it="0" lt="83" ct="0" ts="1687943741469" s="false" lb="预言1次-DOTA2" rc="200" rm="OK" tn="预言 23-1" dt="text" by="567" sby="346" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/bet</java.net.URL>
+</httpSample>
+<httpSample t="76" it="0" lt="76" ct="0" ts="1687943741554" s="false" lb="预言3次-DOTA2" rc="200" rm="OK" tn="预言 23-1" dt="text" by="567" sby="346" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/bet</java.net.URL>
+</httpSample>
+<httpSample t="40" it="0" lt="40" ct="0" ts="1687943741631" s="true" lb="socket推送-dota2预言（胜利）" rc="200" rm="OK" tn="预言 23-1" dt="text" by="511" sby="458" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/test</java.net.URL>
+</httpSample>
+<httpSample t="42" it="0" lt="42" ct="0" ts="1687943741672" s="true" lb="socket推送-dota2预言（失败）" rc="200" rm="OK" tn="预言 23-1" dt="text" by="511" sby="458" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/test</java.net.URL>
+</httpSample>
+<httpSample t="39" it="0" lt="39" ct="0" ts="1687943741715" s="true" lb="socket推送-csgo预言（胜利）" rc="200" rm="OK" tn="预言 23-1" dt="text" by="511" sby="702" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/test</java.net.URL>
+</httpSample>
+<httpSample t="35" it="0" lt="35" ct="0" ts="1687943741755" s="true" lb="socket推送-csgo预言（失败）" rc="200" rm="OK" tn="预言 23-1" dt="text" by="511" sby="691" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/test</java.net.URL>
+</httpSample>
+<httpSample t="39" it="0" lt="39" ct="0" ts="1687943741790" s="true" lb="socket推送-csgo预言（平局）" rc="200" rm="OK" tn="预言 23-1" dt="text" by="511" sby="690" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/guess/forecast/test</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="1687943741830" s="false" lb="调试取样器" rc="200" rm="OK" tn="预言 23-1" dt="text" by="341" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+</sample>
+<httpSample t="73" it="0" lt="73" ct="52" ts="1687943741837" s="false" lb="注册??" rc="200" rm="OK" tn="DOTA2预言小程序 24-1" dt="text" by="543" sby="354" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/wechat-mini-program-forecast/register</java.net.URL>
+</httpSample>
+<httpSample t="21" it="0" lt="21" ct="0" ts="1687943741911" s="false" lb="登录??" rc="200" rm="OK" tn="DOTA2预言小程序 24-1" dt="text" by="535" sby="333" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/user/wechat-mini-program-forecast/login</java.net.URL>
+</httpSample>
+<httpSample t="30" it="0" lt="30" ct="0" ts="1687943741933" s="true" lb="通过code获取活动基本信息" rc="200" rm="OK" tn="DOTA2预言小程序 24-1" dt="text" by="1262" sby="311" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/activity/get-activity-by-code?code=WECHAT_MINI_PROGRAM_FORECAST</java.net.URL>
+</httpSample>
+<httpSample t="33" it="0" lt="33" ct="0" ts="1687943741964" s="false" lb="小程序饰品商城列表" rc="200" rm="OK" tn="DOTA2预言小程序 24-1" dt="text" by="545" sby="323" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/activity-reward/list?activity_id=1044077876927930368&amp;sort=1&amp;page=1&amp;limit=20</java.net.URL>
+</httpSample>
+<httpSample t="44" it="0" lt="44" ct="0" ts="1687943741999" s="false" lb="兑换饰品" rc="200" rm="OK" tn="DOTA2预言小程序 24-1" dt="text" by="545" sby="307" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/activity-reward-order/create</java.net.URL>
+</httpSample>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1687943742044" s="true" lb="添加活动余额" rc="200" rm="OK" tn="DOTA2预言小程序 24-1" dt="text" by="582" sby="372" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/activity-user-account/balance</java.net.URL>
+</httpSample>
+<httpSample t="32" it="0" lt="32" ct="0" ts="1687943742077" s="false" lb="获取活动资金余额" rc="200" rm="OK" tn="DOTA2预言小程序 24-1" dt="text" by="544" sby="278" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;500&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/activity-user-account/increase</java.net.URL>
+</httpSample>
+<sample t="0" it="0" lt="0" ct="0" ts="1687943742110" s="false" lb="调试取样器" rc="200" rm="OK" tn="DOTA2预言小程序 24-1" dt="text" by="376" sby="0" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Expected to find an object with property [&apos;status&apos;] in path $ but found &apos;java.lang.String&apos;. This is not a json object according to the JsonProvider: &apos;com.jayway.jsonpath.spi.json.JsonSmartJsonProvider&apos;.</failureMessage>
+  </assertionResult>
+</sample>
+<httpSample t="64" it="0" lt="64" ct="43" ts="1687943742113" s="true" lb="活动位列表-APP" rc="200" rm="OK" tn="活动列表 25-1" dt="text" by="3553" sby="274" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/booth/list?page=1&amp;limit=10</java.net.URL>
+</httpSample>
+<httpSample t="31" it="0" lt="31" ct="0" ts="1687943742177" s="true" lb="充值送活动-通过code获取活动基本信息" rc="200" rm="OK" tn="活动列表 25-1" dt="text" by="936" sby="300" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/activity/get-activity-by-code?code=RECHARGE_ACTIVITY</java.net.URL>
+</httpSample>
+<httpSample t="199" it="0" lt="199" ct="0" ts="1687943742209" s="true" lb="充值送活动-获取活动详细信息" rc="200" rm="OK" tn="活动列表 25-1" dt="text" by="6205" sby="308" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/activity/getRechargeActivity?activity_id=1057155958253535232</java.net.URL>
+</httpSample>
+<httpSample t="184" it="0" lt="184" ct="0" ts="1687943742410" s="false" lb="充值送活动-参加充值送领取任务" rc="200" rm="OK" tn="活动列表 25-1" dt="text" by="595" sby="358" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;0&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/activity/acceptRechargeActivity?activity_id=1057155958253535232&amp;task_ids=925156736491204608,927679568236396544</java.net.URL>
+</httpSample>
+<httpSample t="589" it="0" lt="533" ct="56" ts="1687943742600" s="true" lb="主页箱子列表" rc="200" rm="OK" tn="开箱 26-1" dt="text" by="77796" sby="285" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/cases/cases/list?appid=730&amp;type=1&amp;apply_type=1</java.net.URL>
+</httpSample>
+<httpSample t="63" it="0" lt="63" ct="0" ts="1687943743193" s="true" lb="箱子饰品列表" rc="200" rm="OK" tn="开箱 26-1" dt="text" by="15624" sby="288" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/cases/cases/itemList?cases_id=1140529898132676608</java.net.URL>
+</httpSample>
+<httpSample t="712" it="0" lt="712" ct="0" ts="1687943743256" s="true" lb="开箱" rc="200" rm="OK" tn="开箱 26-1" dt="text" by="16712" sby="317" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/cases/cases/userOpen</java.net.URL>
+</httpSample>
+<httpSample t="75" it="0" lt="22" ct="0" ts="1687943743969" s="true" lb="全部最近掉落记录" rc="200" rm="OK" tn="开箱 26-1" dt="text" by="72747" sby="275" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/cases/cases/recently?cases_id=&amp;type=</java.net.URL>
+</httpSample>
+<httpSample t="453" it="0" lt="402" ct="0" ts="1687943744047" s="true" lb="单个箱子最近掉落记录" rc="200" rm="OK" tn="开箱 26-1" dt="text" by="94304" sby="294" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/cases/cases/recently?cases_id=1140529898132676608&amp;type=</java.net.URL>
+</httpSample>
+<httpSample t="62" it="0" lt="26" ct="0" ts="1687943744503" s="true" lb="全部最近掉落记录-出金记录" rc="200" rm="OK" tn="开箱 26-1" dt="text" by="73322" sby="276" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>false</failure>
+    <error>false</error>
+    <failureMessage></failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/cases/cases/recently?cases_id=&amp;type=1</java.net.URL>
+</httpSample>
+<httpSample t="84" it="0" lt="84" ct="49" ts="1687943744573" s="false" lb="获取活动详情" rc="200" rm="OK" tn="IEM观赛活动 27-1" dt="text" by="537" sby="303" ng="1" na="1">
+  <assertionResult>
+    <name>JSON断言</name>
+    <failure>true</failure>
+    <error>false</error>
+    <failureMessage>Value expected to match regexp &apos;200&apos;, but it did not match: &apos;505&apos;</failureMessage>
+  </assertionResult>
+  <java.net.URL>https://dev.uugamer.com/api/activity/activity/getIemActivity?activity_id=1094485684673232896</java.net.URL>
+</httpSample>
+
+</testResults>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="GBK"?>
+ 
+<project name="ant-jmeter-test" default="run" basedir=".">
+    <tstamp>
+        <format property="time" pattern="yyyyMMddhhmm" />
+    </tstamp>
+  
+    <target name="run">
+    	   <antcall target="clear1" />
+	<antcall target="test1" />
+      	  <antcall target="report1" />
+	<antcall target="sendmail1" />
+    </target>
+	
+    <target name="test1">
+		  <echo message="开始执行jmeter脚本..."></echo>
+        <taskdef name="jmeter" classname="org.programmerplanet.ant.taskdefs.jmeter.JMeterTask" />
+        <jmeter jmeterhome="E:\JMeter\apache-jmeter-5.4.3\apache-jmeter-5.4.3" resultlog="C:\Users\c5\Desktop\ant\result\1.jtl">
+             <!-- 声明要运行的脚本。"*.jmx"指包含此目录下的所有jmeter脚本-->
+            <testplans dir="C:\Users\c5\Desktop\ant\script" includes="*.jmx" />
+		<property name="jmeter.save.saveservice.output_format" value="xml"/>
+        </jmeter>
+    </target>
+		
+         <path id="xslt.classpath">
+        <fileset dir="E:\JMeter\apache-jmeter-5.4.3\apache-jmeter-5.4.3\lib" includes="xalan*.jar"/>
+        <fileset dir="E:\JMeter\apache-jmeter-5.4.3\apache-jmeter-5.4.3\lib" includes="serializer*.jar"/>
+    </path>
+	
+    <target name="report1">
+	<echo message="开始转换执行结果.."></echo>
+	<tstamp> <format property="time" pattern="yyyy/MM/dd HH:mm" /></tstamp>
+        <xslt classpathref="xslt.classpath"
+              force="true"
+	 in="C:\Users\c5\Desktop\ant\result\1.jtl"
+              out="C:\Users\c5\Desktop\ant\html\1.html"
+              style="E:\JMeter\apache-jmeter-5.4.3\apache-jmeter-5.4.3\extras\jmeter-results-detail-report_21.xsl">
+				<param name="titleReport" expression="测试报告"/> 
+				<param name="dateReport" expression="${time}"/>  
+       </xslt>  
+   	             <!-- jmeter-results-detail-report_21  因为上面生成报告的时候，不会将相关的图片也一起拷贝至目标目录，所以，需要手动拷贝-->
+        <copy todir="C:\Users\c5\Desktop\ant\html">
+            <fileset dir="E:\JMeter\apache-jmeter-5.4.3\apache-jmeter-5.4.3\extras">
+                <include name="collapse.png" />
+                <include name="expand.png" />
+            </fileset>
+        </copy>			
+    </target>
+ 
+		<target name="clear1">
+	<!-- 每次执行前先删除清空jtl和html文件夹，释放空间 -->
+	<echo message="释放空间，清空jtl和html文件夹中 ..."></echo>
+		<delete dir="C:\Users\c5\Desktop\ant\result" />
+		<delete dir="C:\Users\c5\Desktop\ant\html" />
+		<!-- 删除单个文件-->
+		<delete file="C:\Users\c5\Desktop\ant\1.rar" />
+		<sleep seconds="2"/>  
+		<echo message="释放完成 ..."></echo>
+	</target>
+ 
+ 
+	<target name="sendmail1">
+	<!--把报告进行压缩打包-->
+	<jar jarfile="C:\Users\c5\Desktop\ant\1.rar" basedir="C:\Users\c5\Desktop\ant\html"/>
+	<!--把文件贴到邮件正文-->
+	<loadfile property="html" srcFile="C:\Users\c5\Desktop\ant\html\1.html" encoding="UTF-8">
+	<filterchain>
+			<expandproperties />
+		</filterchain>
+	</loadfile>
+	
+	<mail mailhost="smtp.qq.com" 
+	mailport="25" subject="测试结果" 
+	messagemimetype="text/html" tolist="1209334084@qq.com"
+	user="1209334084@qq.com" password="vlujkoathrpsgcib">
+	<from address="1209334084@qq.com"/>
+	<!--发送附件-->
+	<fileset dir="C:\Users\c5\Desktop\ant">
+   		 <include name="1.rar"/>
+  	 </fileset>
+	<message><![CDATA[ 
+	<p>项目组收：</p>
+	<pre> ${html} </pre>
+	<p>优优电竞项目，jmeter接口自动化测试报告</p>
+	]]></message>
+	</mail>
+	</target>
+</project>
+ 
