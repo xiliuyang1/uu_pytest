@@ -1,3 +1,0 @@
-INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': 'dbbb2ef738375774c2ce6ce88ac619cc'}
-ERROR    logger:requests_util.py:34 【钥匙武器箱-兑换钥匙--有效的兑换口令】接口请求异常，响应体：{'code': 500, 'status': 500, 'data': [], 'message': '兑换口令错误'}
-ERROR    logger:requests_util.py:65 【钥匙武器箱-兑换钥匙--有效的兑换口令】接口，断言：code=200，断言失败。实际值为：500
