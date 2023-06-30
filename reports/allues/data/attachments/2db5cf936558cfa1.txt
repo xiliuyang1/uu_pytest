@@ -1,2 +1,0 @@
-INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': 'e47abd87452e3bae2d17245c1aeaf7d4'}
-INFO     logger:requests_util.py:29 【修改密码(登录状态)】接口请求成功{'status': 200, 'msg': 'OK', 'data': []}

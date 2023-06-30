@@ -1,0 +1,6 @@
+INFO     logger:requests_util.py:29 【查询钥匙箱状态-已登录】接口请求成功{'code': 200, 'status': 200, 'data': {'status': 1, 'is_receive': 0, 'key_nums': 4, 'daily_cases_open_nums': 0, 'login_days': 6, 'is_open': '1', 'is_first': 0, 'server_time': 1688093091}, 'message': ''}
+INFO     logger:requests_util.py:62 【查询钥匙箱状态-已登录】接口，断言：code=200，断言成功
+INFO     logger:yaml_util.py:42 缓存数据写入成功{'key_nums': 4}
+INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': 'dbbb2ef738375774c2ce6ce88ac619cc'}
+ERROR    logger:requests_util.py:34 【开启钥匙箱--钥匙不足】接口请求异常，响应体：{'code': 500, 'status': 500, 'data': [], 'message': '您的钥匙数量不足'}
+ERROR    logger:requests_util.py:65 【开启钥匙箱--钥匙不足】接口，断言：code=200，断言失败。实际值为：500

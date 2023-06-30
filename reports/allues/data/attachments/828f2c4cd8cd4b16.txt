@@ -1,3 +1,0 @@
-INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': 'e47abd87452e3bae2d17245c1aeaf7d4'}
-INFO     logger:yaml_util.py:24 缓存数据读取成功{'activity_order_id': '1147739271807213568', 'cases_id': ['1140529898132676608'], 'common_order_id': '1147739286065639424', 'record_id': ['1147695234879688704']}
-ERROR    logger:requests_util.py:34 【领取每日一箱奖励】接口请求异常，响应体：{'code': 500, 'status': 500, 'data': [], 'message': '该状态不可领取'}
