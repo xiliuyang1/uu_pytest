@@ -1,0 +1,13 @@
+-
+  name: 手机号解绑
+  method: post
+  url: /api/user/phone/unBind
+  headers:
+    token: "{{token()}}"
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    mobile_code: +86
+    mobile: "{{read_extract_yaml()['unbind_mobile']}}"
+    code: 8888
+  verify:
+    - eq: {"msg": OK}

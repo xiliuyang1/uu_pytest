@@ -1,0 +1,25 @@
+-
+  name: 实名认证
+  method: post
+  url: /api/user/IdentityCertify/create
+  headers:
+    token: "{{token()}}"
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    cert_name: 宋寿国
+    cert_no: 440822197111202218
+    cert_type: IDENTITY_CARD
+  #实名认证类型(IDENTITY_CARD-身份证，HOME_VISIT_PERMIT_HK_MC-港澳通行证，RESIDENCE_PERMIT_HK_MC-港澳居住证，HOME_VISIT_PERMIT_TAIWAN-台湾通行证，RESIDENCE_PERMIT_TAIWAN-台湾居住证)
+  verify:
+    - eq: { "msg": OK }
+-
+  name: 轮询实名认证结果
+  method: post
+  url: /api/user/identityCertify/monitor
+  headers:
+    token: "{{token()}}"
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    query_id: "{{read_extract_yaml()['query_id']}}"
+  verify:
+    - eq: { "msg": OK }

@@ -1,2 +1,0 @@
-INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': 'cecd108ebd31d60b72ff50101dcd0a5a'}
-INFO     logger:requests_util.py:29 【领取【累计充值5豆】任务】接口请求成功{'status': 200, 'msg': 'OK', 'data': True}

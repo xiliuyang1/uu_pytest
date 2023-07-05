@@ -1,0 +1,4 @@
+INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': 'a46328f58a48cfb5b844798a2c6d59e5'}
+INFO     logger:yaml_util.py:24 缓存数据读取成功{'query_id': ['1150612886220451840'], 'unbind_mail': '18838033813@163.com', 'unbind_mobile': '18838038102'}
+INFO     logger:requests_util.py:29 【轮询实名认证结果】接口请求成功{'status': 200, 'msg': 'OK', 'data': {'status': False}}
+INFO     logger:requests_util.py:62 【轮询实名认证结果】接口，断言：msg=OK，断言成功

@@ -9,7 +9,7 @@ from utils.yaml_util import read_yaml, read_variable_yaml, write_extract_yaml
 class TestSkinsMall:
     @pytest.mark.parametrize("caseinfo", read_yaml("/test_skins_mall/get_steam_list.yml"))
     def test_get_steam_list(self, caseinfo):
-        allure.title(caseinfo['name'])
+        allure.dynamic.title(caseinfo['name'])
         name = caseinfo['name']
         method = caseinfo['method']
         url = caseinfo['url']
@@ -20,7 +20,7 @@ class TestSkinsMall:
 
     @pytest.mark.parametrize("caseinfo", read_yaml("/test_skins_mall/get_steam_status.yml"))
     def test_get_steam_status(self, caseinfo):
-        allure.title(caseinfo['name'])
+        allure.dynamic.title(caseinfo['name'])
         name = caseinfo['name']
         method = caseinfo['method']
         url = caseinfo['url']

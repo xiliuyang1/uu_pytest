@@ -15,7 +15,8 @@ class TestLogin:
         headers = read_variable_yaml(caseinfo['headers'])
         url = caseinfo['url']
         data = caseinfo['datas']
-        RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=data)
+        res = RequestsUtil().send_request(testcasename=name, method=method, url=url, headers=headers, data=data)
+        return res
 
     @pytest.mark.parametrize("caseinfo", read_yaml('/test_login/quit_login_datas.yml'))
     @pytest.mark.run(order=-1)

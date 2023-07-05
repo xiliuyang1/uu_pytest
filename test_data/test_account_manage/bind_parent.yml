@@ -1,0 +1,11 @@
+-
+  name: 绑定上级
+  method: post
+  url: /api/user/user/bindParent
+  headers:
+    token: "{{token()}}"
+    Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+  datas:
+    invite_code: 74NWQ
+  verify:
+    - eq: {"msg": OK}

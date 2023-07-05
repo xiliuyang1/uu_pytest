@@ -120,4 +120,5 @@ def get_random_int():
 
 
 if __name__ == '__main__':
-    print(os.path.join(os.getcwd().split('utils')[0], "test_data", "/common/extract_datas.yml"))
+    # print(os.path.join(os.getcwd().split('utils')[0], "test_data", "/common/extract_datas.yml"))
+    print(os.getcwd().split('utils')[0] + "test_data")

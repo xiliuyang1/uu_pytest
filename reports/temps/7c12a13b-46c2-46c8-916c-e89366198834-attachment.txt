@@ -1,3 +1,0 @@
-INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': 'cecd108ebd31d60b72ff50101dcd0a5a'}
-INFO     logger:requests_util.py:29 【生成活动页充值订单】接口请求成功{'status': 200, 'msg': 'OK', 'data': {'url': 'https://qr.alipay.com/bax08074yziouysfb8qx55d6', 'type': 4, 'order_id': '1148858491428364288'}}
-INFO     logger:yaml_util.py:42 缓存数据写入成功{'activity_order_id': '1148858491428364288'}

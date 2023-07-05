@@ -1,5 +1,0 @@
-INFO     logger:yaml_util.py:48 /common/token.yml文件中的缓存数据清除成功
-INFO     logger:yaml_util.py:48 /common/extract_datas.yml文件中的缓存数据清除成功
-INFO     logger:requests_util.py:29 【获取token】接口请求成功{'status': 200, 'msg': 'OK', 'data': {'user': {'id': '992616151162298368', 'nickname': '一二三四五六七八九十一二三四五六', 'avatar': 'https://static.uugamer.com/upload/avatar/2023/06/14/e81b368b763e10f616c45f7110e7960c.jpg', 'country_code': 'CN', 'level': '1', 'create_time': '1663838350', 'status': '1', 'create_user_ip': '192.168.196.78', 'role': '2', 'parent_id': '927111441129758720', 'invite_code': '74NWQ', 'ime': 'ef344f233ac5d285', 'parent_bind_time': '1660706048', 'is_first_login': 2, 'is_vip': 0, 'trade_lock': 'N', 'channel': 'normal', 'vip_end_time': 0, 'last_login_ip': '122.231.233.73', 'last_login_city': 'Hangzhou', 'last_login_time': '1688110030', 'is_set_password': 1}, 'is_need_bind': 2, 'token': 'cecd108ebd31d60b72ff50101dcd0a5a'}}
-INFO     logger:yaml_util.py:42 缓存数据写入成功{'token': 'cecd108ebd31d60b72ff50101dcd0a5a'}
-ERROR    logger:requests_util.py:34 【正确手机号密码登录】接口请求异常，响应体：{'status': 500, 'msg': '登录密码不正确', 'data': []}

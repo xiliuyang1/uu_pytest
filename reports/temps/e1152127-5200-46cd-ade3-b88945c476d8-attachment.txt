@@ -1,2 +1,0 @@
-INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': 'cecd108ebd31d60b72ff50101dcd0a5a'}
-ERROR    logger:requests_util.py:34 【开启初级福利豆箱】接口请求异常，响应体：{'code': 500, 'status': 500, 'data': [], 'message': '您的开启次数不足'}

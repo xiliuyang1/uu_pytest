@@ -1,0 +1,2 @@
+INFO     logger:yaml_util.py:24 缓存数据读取成功{'token': 'a46328f58a48cfb5b844798a2c6d59e5'}
+ERROR    logger:requests_util.py:34 【同时领取多个任务【成功开箱2次】【预测胜利1场】】接口请求异常，响应体：{'status': 505, 'msg': 'json_encode error: Malformed UTF-8 characters, possibly incorrectly encoded', 'data': []}
